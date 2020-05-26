@@ -20,4 +20,22 @@ The repository contains all neccessary source files needed to produce an ebook e
 * `plaintext/` directory contains transcript of the book splitted into multiple files which are then converted to XHTML files
 
 
-`map.json` is a mapping from the LibriVox audiobook URL to the corresponding directory in the repository. It is used by <b>syncabook</b>'s `download_files` command to get files given LibriVox URL.
+`map.json` is a mapping from the LibriVox audiobook URL to the corresponding directory in the repository. It is used by <b>syncabook</b>'s `download_files` command to get the files given LibriVox URL.
+
+## How to use
+
+<b>syncabook</b> provides `download_files` command that downloads files from <b>synclibrivox</b> repository as well as auido files from librivox.org. In order to create an ebook using files from this repo you need to run two commands:
+
+```
+$ syncabook download_files `librivox_url` `ebook_dir`
+```
+and then
+```
+$ syncabook create `ebook_dir`
+```
+
+If you've cloned this repo and have all neccessary files except for audio, run `download_files` command with `--skip-text` argument to download audio files only:
+
+```
+$ syncabook download_files --skip-text `librivox_url` `ebook_dir`
+```
