@@ -15,7 +15,7 @@ The repository contains all neccessary source files needed to produce an ebook e
 
 * `smil` directory contains SMIL files (synchronization data)
 
-* `text.txt` file cotains plaintext transcript of the book
+* `text.txt` file contains plaintext transcript of the book
 
 * `plaintext/` directory contains transcript of the book splitted into multiple files which are then converted to XHTML files
 
