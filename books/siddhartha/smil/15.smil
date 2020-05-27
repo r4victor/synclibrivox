@@ -1,0 +1,674 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <seq id="seq1" epub:textref="../text/15.xhtml">
+      <par id="par001">
+        <text src="../text/15.xhtml#f1681"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:00:27.520" clipEnd="0:00:31.920"/>
+      </par>
+      <par id="par002">
+        <text src="../text/15.xhtml#f1682"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:00:31.920" clipEnd="0:00:44.320"/>
+      </par>
+      <par id="par003">
+        <text src="../text/15.xhtml#f1683"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:00:44.320" clipEnd="0:00:53.880"/>
+      </par>
+      <par id="par004">
+        <text src="../text/15.xhtml#f1684"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:00:53.880" clipEnd="0:01:00.680"/>
+      </par>
+      <par id="par005">
+        <text src="../text/15.xhtml#f1685"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:01:00.680" clipEnd="0:01:18.400"/>
+      </par>
+      <par id="par006">
+        <text src="../text/15.xhtml#f1686"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:01:18.400" clipEnd="0:01:33.360"/>
+      </par>
+      <par id="par007">
+        <text src="../text/15.xhtml#f1687"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:01:33.360" clipEnd="0:01:38.520"/>
+      </par>
+      <par id="par008">
+        <text src="../text/15.xhtml#f1688"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:01:38.520" clipEnd="0:01:52.840"/>
+      </par>
+      <par id="par009">
+        <text src="../text/15.xhtml#f1689"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:01:52.840" clipEnd="0:01:59.360"/>
+      </par>
+      <par id="par010">
+        <text src="../text/15.xhtml#f1690"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:01:59.360" clipEnd="0:02:03.760"/>
+      </par>
+      <par id="par011">
+        <text src="../text/15.xhtml#f1691"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:02:03.760" clipEnd="0:02:07.280"/>
+      </par>
+      <par id="par012">
+        <text src="../text/15.xhtml#f1692"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:02:07.280" clipEnd="0:02:11.080"/>
+      </par>
+      <par id="par013">
+        <text src="../text/15.xhtml#f1693"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:02:11.080" clipEnd="0:02:17.040"/>
+      </par>
+      <par id="par014">
+        <text src="../text/15.xhtml#f1694"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:02:17.040" clipEnd="0:02:20.320"/>
+      </par>
+      <par id="par015">
+        <text src="../text/15.xhtml#f1695"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:02:20.320" clipEnd="0:02:25.600"/>
+      </par>
+      <par id="par016">
+        <text src="../text/15.xhtml#f1696"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:02:25.600" clipEnd="0:02:29.280"/>
+      </par>
+      <par id="par017">
+        <text src="../text/15.xhtml#f1697"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:02:29.280" clipEnd="0:02:54.520"/>
+      </par>
+      <par id="par018">
+        <text src="../text/15.xhtml#f1698"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:02:54.520" clipEnd="0:02:57.920"/>
+      </par>
+      <par id="par019">
+        <text src="../text/15.xhtml#f1699"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:02:57.920" clipEnd="0:03:05.000"/>
+      </par>
+      <par id="par020">
+        <text src="../text/15.xhtml#f1700"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:03:05.000" clipEnd="0:03:17.200"/>
+      </par>
+      <par id="par021">
+        <text src="../text/15.xhtml#f1701"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:03:17.200" clipEnd="0:03:23.840"/>
+      </par>
+      <par id="par022">
+        <text src="../text/15.xhtml#f1702"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:03:23.840" clipEnd="0:03:39.920"/>
+      </par>
+      <par id="par023">
+        <text src="../text/15.xhtml#f1703"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:03:39.920" clipEnd="0:03:45.000"/>
+      </par>
+      <par id="par024">
+        <text src="../text/15.xhtml#f1704"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:03:45.000" clipEnd="0:03:53.640"/>
+      </par>
+      <par id="par025">
+        <text src="../text/15.xhtml#f1705"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:03:53.640" clipEnd="0:03:58.040"/>
+      </par>
+      <par id="par026">
+        <text src="../text/15.xhtml#f1706"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:03:58.040" clipEnd="0:04:00.920"/>
+      </par>
+      <par id="par027">
+        <text src="../text/15.xhtml#f1707"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:04:00.920" clipEnd="0:04:08.440"/>
+      </par>
+      <par id="par028">
+        <text src="../text/15.xhtml#f1708"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:04:08.440" clipEnd="0:04:13.880"/>
+      </par>
+      <par id="par029">
+        <text src="../text/15.xhtml#f1709"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:04:13.880" clipEnd="0:04:17.160"/>
+      </par>
+      <par id="par030">
+        <text src="../text/15.xhtml#f1710"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:04:17.160" clipEnd="0:04:19.240"/>
+      </par>
+      <par id="par031">
+        <text src="../text/15.xhtml#f1711"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:04:19.240" clipEnd="0:04:26.480"/>
+      </par>
+      <par id="par032">
+        <text src="../text/15.xhtml#f1712"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:04:26.480" clipEnd="0:04:31.360"/>
+      </par>
+      <par id="par033">
+        <text src="../text/15.xhtml#f1713"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:04:31.360" clipEnd="0:04:37.640"/>
+      </par>
+      <par id="par034">
+        <text src="../text/15.xhtml#f1714"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:04:37.640" clipEnd="0:04:45.720"/>
+      </par>
+      <par id="par035">
+        <text src="../text/15.xhtml#f1715"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:04:45.720" clipEnd="0:05:00.680"/>
+      </par>
+      <par id="par036">
+        <text src="../text/15.xhtml#f1716"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:05:00.680" clipEnd="0:05:02.880"/>
+      </par>
+      <par id="par037">
+        <text src="../text/15.xhtml#f1717"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:05:02.880" clipEnd="0:05:09.520"/>
+      </par>
+      <par id="par038">
+        <text src="../text/15.xhtml#f1718"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:05:09.520" clipEnd="0:05:24.440"/>
+      </par>
+      <par id="par039">
+        <text src="../text/15.xhtml#f1719"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:05:24.440" clipEnd="0:05:26.720"/>
+      </par>
+      <par id="par040">
+        <text src="../text/15.xhtml#f1720"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:05:26.720" clipEnd="0:05:30.560"/>
+      </par>
+      <par id="par041">
+        <text src="../text/15.xhtml#f1721"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:05:30.560" clipEnd="0:05:39.560"/>
+      </par>
+      <par id="par042">
+        <text src="../text/15.xhtml#f1722"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:05:39.560" clipEnd="0:05:50.320"/>
+      </par>
+      <par id="par043">
+        <text src="../text/15.xhtml#f1723"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:05:50.320" clipEnd="0:05:56.120"/>
+      </par>
+      <par id="par044">
+        <text src="../text/15.xhtml#f1724"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:05:56.120" clipEnd="0:06:05.240"/>
+      </par>
+      <par id="par045">
+        <text src="../text/15.xhtml#f1725"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:06:05.240" clipEnd="0:06:18.720"/>
+      </par>
+      <par id="par046">
+        <text src="../text/15.xhtml#f1726"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:06:18.720" clipEnd="0:06:26.160"/>
+      </par>
+      <par id="par047">
+        <text src="../text/15.xhtml#f1727"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:06:26.160" clipEnd="0:06:30.120"/>
+      </par>
+      <par id="par048">
+        <text src="../text/15.xhtml#f1728"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:06:30.120" clipEnd="0:06:42.000"/>
+      </par>
+      <par id="par049">
+        <text src="../text/15.xhtml#f1729"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:06:42.000" clipEnd="0:06:46.880"/>
+      </par>
+      <par id="par050">
+        <text src="../text/15.xhtml#f1730"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:06:46.880" clipEnd="0:06:53.240"/>
+      </par>
+      <par id="par051">
+        <text src="../text/15.xhtml#f1731"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:06:53.240" clipEnd="0:07:01.160"/>
+      </par>
+      <par id="par052">
+        <text src="../text/15.xhtml#f1732"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:07:01.160" clipEnd="0:07:06.440"/>
+      </par>
+      <par id="par053">
+        <text src="../text/15.xhtml#f1733"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:07:06.440" clipEnd="0:07:14.200"/>
+      </par>
+      <par id="par054">
+        <text src="../text/15.xhtml#f1734"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:07:14.200" clipEnd="0:07:21.560"/>
+      </par>
+      <par id="par055">
+        <text src="../text/15.xhtml#f1735"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:07:21.560" clipEnd="0:07:24.480"/>
+      </par>
+      <par id="par056">
+        <text src="../text/15.xhtml#f1736"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:07:24.480" clipEnd="0:07:25.920"/>
+      </par>
+      <par id="par057">
+        <text src="../text/15.xhtml#f1737"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:07:25.920" clipEnd="0:07:28.680"/>
+      </par>
+      <par id="par058">
+        <text src="../text/15.xhtml#f1738"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:07:28.680" clipEnd="0:07:32.480"/>
+      </par>
+      <par id="par059">
+        <text src="../text/15.xhtml#f1739"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:07:32.480" clipEnd="0:07:45.560"/>
+      </par>
+      <par id="par060">
+        <text src="../text/15.xhtml#f1740"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:07:45.560" clipEnd="0:07:54.080"/>
+      </par>
+      <par id="par061">
+        <text src="../text/15.xhtml#f1741"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:07:54.080" clipEnd="0:08:03.040"/>
+      </par>
+      <par id="par062">
+        <text src="../text/15.xhtml#f1742"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:08:03.040" clipEnd="0:08:09.040"/>
+      </par>
+      <par id="par063">
+        <text src="../text/15.xhtml#f1743"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:08:09.040" clipEnd="0:08:16.480"/>
+      </par>
+      <par id="par064">
+        <text src="../text/15.xhtml#f1744"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:08:16.480" clipEnd="0:08:32.040"/>
+      </par>
+      <par id="par065">
+        <text src="../text/15.xhtml#f1745"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:08:32.040" clipEnd="0:08:45.000"/>
+      </par>
+      <par id="par066">
+        <text src="../text/15.xhtml#f1746"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:08:45.000" clipEnd="0:08:50.440"/>
+      </par>
+      <par id="par067">
+        <text src="../text/15.xhtml#f1747"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:08:50.440" clipEnd="0:08:58.440"/>
+      </par>
+      <par id="par068">
+        <text src="../text/15.xhtml#f1748"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:08:58.440" clipEnd="0:09:09.520"/>
+      </par>
+      <par id="par069">
+        <text src="../text/15.xhtml#f1749"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:09:09.520" clipEnd="0:09:17.040"/>
+      </par>
+      <par id="par070">
+        <text src="../text/15.xhtml#f1750"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:09:17.040" clipEnd="0:09:23.840"/>
+      </par>
+      <par id="par071">
+        <text src="../text/15.xhtml#f1751"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:09:23.840" clipEnd="0:09:36.000"/>
+      </par>
+      <par id="par072">
+        <text src="../text/15.xhtml#f1752"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:09:36.000" clipEnd="0:09:40.320"/>
+      </par>
+      <par id="par073">
+        <text src="../text/15.xhtml#f1753"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:09:40.320" clipEnd="0:09:43.080"/>
+      </par>
+      <par id="par074">
+        <text src="../text/15.xhtml#f1754"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:09:43.080" clipEnd="0:09:59.760"/>
+      </par>
+      <par id="par075">
+        <text src="../text/15.xhtml#f1755"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:09:59.760" clipEnd="0:10:10.720"/>
+      </par>
+      <par id="par076">
+        <text src="../text/15.xhtml#f1756"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:10:10.720" clipEnd="0:10:28.880"/>
+      </par>
+      <par id="par077">
+        <text src="../text/15.xhtml#f1757"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:10:28.880" clipEnd="0:10:57.360"/>
+      </par>
+      <par id="par078">
+        <text src="../text/15.xhtml#f1758"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:10:57.360" clipEnd="0:11:13.000"/>
+      </par>
+      <par id="par079">
+        <text src="../text/15.xhtml#f1759"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:11:13.000" clipEnd="0:11:30.600"/>
+      </par>
+      <par id="par080">
+        <text src="../text/15.xhtml#f1760"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:11:30.600" clipEnd="0:11:59.440"/>
+      </par>
+      <par id="par081">
+        <text src="../text/15.xhtml#f1761"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:11:59.440" clipEnd="0:12:40.200"/>
+      </par>
+      <par id="par082">
+        <text src="../text/15.xhtml#f1762"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:12:40.200" clipEnd="0:12:46.720"/>
+      </par>
+      <par id="par083">
+        <text src="../text/15.xhtml#f1763"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:12:46.720" clipEnd="0:13:00.400"/>
+      </par>
+      <par id="par084">
+        <text src="../text/15.xhtml#f1764"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:13:00.400" clipEnd="0:13:20.840"/>
+      </par>
+      <par id="par085">
+        <text src="../text/15.xhtml#f1765"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:13:20.840" clipEnd="0:13:23.960"/>
+      </par>
+      <par id="par086">
+        <text src="../text/15.xhtml#f1766"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:13:23.960" clipEnd="0:14:06.840"/>
+      </par>
+      <par id="par087">
+        <text src="../text/15.xhtml#f1767"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:14:06.840" clipEnd="0:14:36.800"/>
+      </par>
+      <par id="par088">
+        <text src="../text/15.xhtml#f1768"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:14:36.800" clipEnd="0:15:01.960"/>
+      </par>
+      <par id="par089">
+        <text src="../text/15.xhtml#f1769"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:15:01.960" clipEnd="0:15:04.560"/>
+      </par>
+      <par id="par090">
+        <text src="../text/15.xhtml#f1770"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:15:04.560" clipEnd="0:15:11.200"/>
+      </par>
+      <par id="par091">
+        <text src="../text/15.xhtml#f1771"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:15:11.200" clipEnd="0:15:14.000"/>
+      </par>
+      <par id="par092">
+        <text src="../text/15.xhtml#f1772"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:15:14.000" clipEnd="0:15:23.520"/>
+      </par>
+      <par id="par093">
+        <text src="../text/15.xhtml#f1773"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:15:23.520" clipEnd="0:15:28.720"/>
+      </par>
+      <par id="par094">
+        <text src="../text/15.xhtml#f1774"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:15:28.720" clipEnd="0:15:31.560"/>
+      </par>
+      <par id="par095">
+        <text src="../text/15.xhtml#f1775"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:15:31.560" clipEnd="0:15:33.640"/>
+      </par>
+      <par id="par096">
+        <text src="../text/15.xhtml#f1776"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:15:33.640" clipEnd="0:15:45.600"/>
+      </par>
+      <par id="par097">
+        <text src="../text/15.xhtml#f1777"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:15:45.600" clipEnd="0:15:52.640"/>
+      </par>
+      <par id="par098">
+        <text src="../text/15.xhtml#f1778"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:15:52.640" clipEnd="0:16:00.200"/>
+      </par>
+      <par id="par099">
+        <text src="../text/15.xhtml#f1779"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:16:00.200" clipEnd="0:16:07.240"/>
+      </par>
+      <par id="par100">
+        <text src="../text/15.xhtml#f1780"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:16:07.240" clipEnd="0:16:11.440"/>
+      </par>
+      <par id="par101">
+        <text src="../text/15.xhtml#f1781"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:16:11.440" clipEnd="0:16:13.800"/>
+      </par>
+      <par id="par102">
+        <text src="../text/15.xhtml#f1782"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:16:13.800" clipEnd="0:16:17.720"/>
+      </par>
+      <par id="par103">
+        <text src="../text/15.xhtml#f1783"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:16:17.720" clipEnd="0:16:23.320"/>
+      </par>
+      <par id="par104">
+        <text src="../text/15.xhtml#f1784"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:16:23.320" clipEnd="0:16:27.120"/>
+      </par>
+      <par id="par105">
+        <text src="../text/15.xhtml#f1785"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:16:27.120" clipEnd="0:16:29.920"/>
+      </par>
+      <par id="par106">
+        <text src="../text/15.xhtml#f1786"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:16:29.920" clipEnd="0:16:40.720"/>
+      </par>
+      <par id="par107">
+        <text src="../text/15.xhtml#f1787"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:16:40.720" clipEnd="0:17:05.200"/>
+      </par>
+      <par id="par108">
+        <text src="../text/15.xhtml#f1788"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:17:05.200" clipEnd="0:17:19.680"/>
+      </par>
+      <par id="par109">
+        <text src="../text/15.xhtml#f1789"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:17:19.680" clipEnd="0:17:27.280"/>
+      </par>
+      <par id="par110">
+        <text src="../text/15.xhtml#f1790"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:17:27.280" clipEnd="0:17:32.160"/>
+      </par>
+      <par id="par111">
+        <text src="../text/15.xhtml#f1791"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:17:32.160" clipEnd="0:17:37.720"/>
+      </par>
+      <par id="par112">
+        <text src="../text/15.xhtml#f1792"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:17:37.720" clipEnd="0:17:42.480"/>
+      </par>
+      <par id="par113">
+        <text src="../text/15.xhtml#f1793"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:17:42.480" clipEnd="0:17:50.880"/>
+      </par>
+      <par id="par114">
+        <text src="../text/15.xhtml#f1794"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:17:50.880" clipEnd="0:17:56.680"/>
+      </par>
+      <par id="par115">
+        <text src="../text/15.xhtml#f1795"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:17:56.680" clipEnd="0:17:58.960"/>
+      </par>
+      <par id="par116">
+        <text src="../text/15.xhtml#f1796"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:17:58.960" clipEnd="0:18:07.280"/>
+      </par>
+      <par id="par117">
+        <text src="../text/15.xhtml#f1797"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:18:07.280" clipEnd="0:18:15.160"/>
+      </par>
+      <par id="par118">
+        <text src="../text/15.xhtml#f1798"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:18:15.160" clipEnd="0:18:29.680"/>
+      </par>
+      <par id="par119">
+        <text src="../text/15.xhtml#f1799"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:18:29.680" clipEnd="0:18:32.560"/>
+      </par>
+      <par id="par120">
+        <text src="../text/15.xhtml#f1800"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:18:32.560" clipEnd="0:18:37.160"/>
+      </par>
+      <par id="par121">
+        <text src="../text/15.xhtml#f1801"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:18:37.160" clipEnd="0:18:48.320"/>
+      </par>
+      <par id="par122">
+        <text src="../text/15.xhtml#f1802"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:18:48.320" clipEnd="0:18:53.280"/>
+      </par>
+      <par id="par123">
+        <text src="../text/15.xhtml#f1803"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:18:53.280" clipEnd="0:18:55.480"/>
+      </par>
+      <par id="par124">
+        <text src="../text/15.xhtml#f1804"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:18:55.480" clipEnd="0:19:03.440"/>
+      </par>
+      <par id="par125">
+        <text src="../text/15.xhtml#f1805"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:19:03.440" clipEnd="0:19:11.040"/>
+      </par>
+      <par id="par126">
+        <text src="../text/15.xhtml#f1806"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:19:11.040" clipEnd="0:19:18.520"/>
+      </par>
+      <par id="par127">
+        <text src="../text/15.xhtml#f1807"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:19:18.520" clipEnd="0:19:21.600"/>
+      </par>
+      <par id="par128">
+        <text src="../text/15.xhtml#f1808"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:19:21.600" clipEnd="0:19:39.720"/>
+      </par>
+      <par id="par129">
+        <text src="../text/15.xhtml#f1809"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:19:39.720" clipEnd="0:19:56.160"/>
+      </par>
+      <par id="par130">
+        <text src="../text/15.xhtml#f1810"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:19:56.160" clipEnd="0:20:04.160"/>
+      </par>
+      <par id="par131">
+        <text src="../text/15.xhtml#f1811"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:20:04.160" clipEnd="0:20:07.520"/>
+      </par>
+      <par id="par132">
+        <text src="../text/15.xhtml#f1812"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:20:07.520" clipEnd="0:20:15.680"/>
+      </par>
+      <par id="par133">
+        <text src="../text/15.xhtml#f1813"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:20:15.680" clipEnd="0:20:21.840"/>
+      </par>
+      <par id="par134">
+        <text src="../text/15.xhtml#f1814"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:20:21.840" clipEnd="0:20:27.680"/>
+      </par>
+      <par id="par135">
+        <text src="../text/15.xhtml#f1815"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:20:27.680" clipEnd="0:20:38.480"/>
+      </par>
+      <par id="par136">
+        <text src="../text/15.xhtml#f1816"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:20:38.480" clipEnd="0:20:50.640"/>
+      </par>
+      <par id="par137">
+        <text src="../text/15.xhtml#f1817"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:20:50.640" clipEnd="0:21:01.760"/>
+      </par>
+      <par id="par138">
+        <text src="../text/15.xhtml#f1818"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:21:01.760" clipEnd="0:21:14.240"/>
+      </par>
+      <par id="par139">
+        <text src="../text/15.xhtml#f1819"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:21:14.240" clipEnd="0:21:19.000"/>
+      </par>
+      <par id="par140">
+        <text src="../text/15.xhtml#f1820"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:21:19.000" clipEnd="0:21:43.400"/>
+      </par>
+      <par id="par141">
+        <text src="../text/15.xhtml#f1821"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:21:43.400" clipEnd="0:21:53.120"/>
+      </par>
+      <par id="par142">
+        <text src="../text/15.xhtml#f1822"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:21:53.120" clipEnd="0:21:57.560"/>
+      </par>
+      <par id="par143">
+        <text src="../text/15.xhtml#f1823"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:21:57.560" clipEnd="0:22:03.200"/>
+      </par>
+      <par id="par144">
+        <text src="../text/15.xhtml#f1824"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:22:03.200" clipEnd="0:22:08.720"/>
+      </par>
+      <par id="par145">
+        <text src="../text/15.xhtml#f1825"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:22:08.720" clipEnd="0:22:12.440"/>
+      </par>
+      <par id="par146">
+        <text src="../text/15.xhtml#f1826"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:22:12.440" clipEnd="0:22:15.800"/>
+      </par>
+      <par id="par147">
+        <text src="../text/15.xhtml#f1827"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:22:15.800" clipEnd="0:22:24.800"/>
+      </par>
+      <par id="par148">
+        <text src="../text/15.xhtml#f1828"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:22:24.800" clipEnd="0:22:28.560"/>
+      </par>
+      <par id="par149">
+        <text src="../text/15.xhtml#f1829"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:22:28.560" clipEnd="0:22:33.880"/>
+      </par>
+      <par id="par150">
+        <text src="../text/15.xhtml#f1830"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:22:33.880" clipEnd="0:22:39.880"/>
+      </par>
+      <par id="par151">
+        <text src="../text/15.xhtml#f1831"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:22:39.880" clipEnd="0:22:52.000"/>
+      </par>
+      <par id="par152">
+        <text src="../text/15.xhtml#f1832"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:22:52.000" clipEnd="0:22:55.840"/>
+      </par>
+      <par id="par153">
+        <text src="../text/15.xhtml#f1833"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:22:55.840" clipEnd="0:23:00.360"/>
+      </par>
+      <par id="par154">
+        <text src="../text/15.xhtml#f1834"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:23:00.360" clipEnd="0:23:02.480"/>
+      </par>
+      <par id="par155">
+        <text src="../text/15.xhtml#f1835"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:23:02.480" clipEnd="0:23:04.120"/>
+      </par>
+      <par id="par156">
+        <text src="../text/15.xhtml#f1836"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:23:04.120" clipEnd="0:23:05.520"/>
+      </par>
+      <par id="par157">
+        <text src="../text/15.xhtml#f1837"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:23:05.520" clipEnd="0:23:08.600"/>
+      </par>
+      <par id="par158">
+        <text src="../text/15.xhtml#f1838"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:23:08.600" clipEnd="0:23:24.520"/>
+      </par>
+      <par id="par159">
+        <text src="../text/15.xhtml#f1839"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:23:24.520" clipEnd="0:23:49.840"/>
+      </par>
+      <par id="par160">
+        <text src="../text/15.xhtml#f1840"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:23:49.840" clipEnd="0:24:18.760"/>
+      </par>
+      <par id="par161">
+        <text src="../text/15.xhtml#f1841"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:24:18.760" clipEnd="0:26:29.840"/>
+      </par>
+      <par id="par162">
+        <text src="../text/15.xhtml#f1842"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:26:29.840" clipEnd="0:27:05.800"/>
+      </par>
+      <par id="par163">
+        <text src="../text/15.xhtml#f1843"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:27:05.800" clipEnd="0:27:10.760"/>
+      </par>
+      <par id="par164">
+        <text src="../text/15.xhtml#f1844"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:27:10.760" clipEnd="0:27:51.400"/>
+      </par>
+      <par id="par165">
+        <text src="../text/15.xhtml#f1845"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:27:51.400" clipEnd="0:28:12.960"/>
+      </par>
+      <par id="par166">
+        <text src="../text/15.xhtml#f1846"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:28:12.960" clipEnd="0:28:27.400"/>
+      </par>
+      <par id="par167">
+        <text src="../text/15.xhtml#f1847"/>
+        <audio src="../audio/siddhartha_12_hesse_64kb.mp3" clipBegin="0:28:27.400" clipEnd="0:29:07.680"/>
+      </par>
+    </seq>
+  </body>
+</smil>
