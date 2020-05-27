@@ -1,0 +1,1050 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <seq id="seq1" epub:textref="../text/2.xhtml">
+      <par id="par001">
+        <text src="../text/2.xhtml#f365"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:00:00.000" clipEnd="0:00:12.680"/>
+      </par>
+      <par id="par002">
+        <text src="../text/2.xhtml#f366"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:00:12.680" clipEnd="0:00:17.680"/>
+      </par>
+      <par id="par003">
+        <text src="../text/2.xhtml#f367"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:00:17.680" clipEnd="0:00:32.800"/>
+      </par>
+      <par id="par004">
+        <text src="../text/2.xhtml#f368"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:00:32.800" clipEnd="0:00:43.040"/>
+      </par>
+      <par id="par005">
+        <text src="../text/2.xhtml#f369"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:00:43.040" clipEnd="0:00:53.760"/>
+      </par>
+      <par id="par006">
+        <text src="../text/2.xhtml#f370"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:00:53.760" clipEnd="0:01:03.440"/>
+      </par>
+      <par id="par007">
+        <text src="../text/2.xhtml#f371"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:01:03.440" clipEnd="0:01:15.880"/>
+      </par>
+      <par id="par008">
+        <text src="../text/2.xhtml#f372"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:01:15.880" clipEnd="0:01:23.760"/>
+      </par>
+      <par id="par009">
+        <text src="../text/2.xhtml#f373"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:01:23.760" clipEnd="0:01:30.320"/>
+      </par>
+      <par id="par010">
+        <text src="../text/2.xhtml#f374"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:01:30.320" clipEnd="0:01:42.000"/>
+      </par>
+      <par id="par011">
+        <text src="../text/2.xhtml#f375"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:01:42.000" clipEnd="0:02:06.960"/>
+      </par>
+      <par id="par012">
+        <text src="../text/2.xhtml#f376"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:02:06.960" clipEnd="0:02:13.680"/>
+      </par>
+      <par id="par013">
+        <text src="../text/2.xhtml#f377"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:02:13.680" clipEnd="0:02:32.520"/>
+      </par>
+      <par id="par014">
+        <text src="../text/2.xhtml#f378"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:02:32.520" clipEnd="0:02:41.400"/>
+      </par>
+      <par id="par015">
+        <text src="../text/2.xhtml#f379"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:02:41.400" clipEnd="0:02:48.640"/>
+      </par>
+      <par id="par016">
+        <text src="../text/2.xhtml#f380"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:02:48.640" clipEnd="0:03:06.480"/>
+      </par>
+      <par id="par017">
+        <text src="../text/2.xhtml#f381"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:03:06.480" clipEnd="0:03:15.120"/>
+      </par>
+      <par id="par018">
+        <text src="../text/2.xhtml#f382"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:03:15.120" clipEnd="0:03:25.280"/>
+      </par>
+      <par id="par019">
+        <text src="../text/2.xhtml#f383"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:03:25.280" clipEnd="0:03:34.240"/>
+      </par>
+      <par id="par020">
+        <text src="../text/2.xhtml#f384"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:03:34.240" clipEnd="0:03:39.360"/>
+      </par>
+      <par id="par021">
+        <text src="../text/2.xhtml#f385"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:03:39.360" clipEnd="0:03:50.480"/>
+      </par>
+      <par id="par022">
+        <text src="../text/2.xhtml#f386"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:03:50.480" clipEnd="0:03:55.320"/>
+      </par>
+      <par id="par023">
+        <text src="../text/2.xhtml#f387"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:03:55.320" clipEnd="0:04:12.480"/>
+      </par>
+      <par id="par024">
+        <text src="../text/2.xhtml#f388"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:04:12.480" clipEnd="0:04:26.880"/>
+      </par>
+      <par id="par025">
+        <text src="../text/2.xhtml#f389"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:04:26.880" clipEnd="0:04:32.520"/>
+      </par>
+      <par id="par026">
+        <text src="../text/2.xhtml#f390"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:04:32.520" clipEnd="0:04:39.240"/>
+      </par>
+      <par id="par027">
+        <text src="../text/2.xhtml#f391"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:04:39.240" clipEnd="0:04:51.400"/>
+      </par>
+      <par id="par028">
+        <text src="../text/2.xhtml#f392"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:04:51.400" clipEnd="0:05:11.240"/>
+      </par>
+      <par id="par029">
+        <text src="../text/2.xhtml#f393"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:05:11.240" clipEnd="0:05:40.360"/>
+      </par>
+      <par id="par030">
+        <text src="../text/2.xhtml#f394"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:05:40.360" clipEnd="0:05:57.080"/>
+      </par>
+      <par id="par031">
+        <text src="../text/2.xhtml#f395"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:05:57.080" clipEnd="0:06:15.760"/>
+      </par>
+      <par id="par032">
+        <text src="../text/2.xhtml#f396"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:06:15.760" clipEnd="0:06:28.960"/>
+      </par>
+      <par id="par033">
+        <text src="../text/2.xhtml#f397"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:06:28.960" clipEnd="0:06:34.520"/>
+      </par>
+      <par id="par034">
+        <text src="../text/2.xhtml#f398"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:06:34.520" clipEnd="0:06:44.280"/>
+      </par>
+      <par id="par035">
+        <text src="../text/2.xhtml#f399"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:06:44.280" clipEnd="0:07:02.000"/>
+      </par>
+      <par id="par036">
+        <text src="../text/2.xhtml#f400"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:07:02.000" clipEnd="0:07:10.640"/>
+      </par>
+      <par id="par037">
+        <text src="../text/2.xhtml#f401"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:07:10.640" clipEnd="0:07:18.200"/>
+      </par>
+      <par id="par038">
+        <text src="../text/2.xhtml#f402"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:07:18.200" clipEnd="0:07:26.480"/>
+      </par>
+      <par id="par039">
+        <text src="../text/2.xhtml#f403"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:07:26.480" clipEnd="0:07:32.960"/>
+      </par>
+      <par id="par040">
+        <text src="../text/2.xhtml#f404"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:07:32.960" clipEnd="0:07:40.040"/>
+      </par>
+      <par id="par041">
+        <text src="../text/2.xhtml#f405"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:07:40.040" clipEnd="0:07:58.680"/>
+      </par>
+      <par id="par042">
+        <text src="../text/2.xhtml#f406"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:07:58.680" clipEnd="0:08:08.480"/>
+      </par>
+      <par id="par043">
+        <text src="../text/2.xhtml#f407"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:08:08.480" clipEnd="0:08:23.920"/>
+      </par>
+      <par id="par044">
+        <text src="../text/2.xhtml#f408"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:08:23.920" clipEnd="0:08:28.440"/>
+      </par>
+      <par id="par045">
+        <text src="../text/2.xhtml#f409"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:08:28.440" clipEnd="0:08:32.440"/>
+      </par>
+      <par id="par046">
+        <text src="../text/2.xhtml#f410"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:08:32.440" clipEnd="0:08:35.320"/>
+      </par>
+      <par id="par047">
+        <text src="../text/2.xhtml#f411"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:08:35.320" clipEnd="0:08:47.960"/>
+      </par>
+      <par id="par048">
+        <text src="../text/2.xhtml#f412"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:08:47.960" clipEnd="0:08:59.400"/>
+      </par>
+      <par id="par049">
+        <text src="../text/2.xhtml#f413"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:08:59.400" clipEnd="0:09:08.240"/>
+      </par>
+      <par id="par050">
+        <text src="../text/2.xhtml#f414"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:09:08.240" clipEnd="0:09:12.200"/>
+      </par>
+      <par id="par051">
+        <text src="../text/2.xhtml#f415"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:09:12.200" clipEnd="0:09:18.400"/>
+      </par>
+      <par id="par052">
+        <text src="../text/2.xhtml#f416"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:09:18.400" clipEnd="0:09:28.160"/>
+      </par>
+      <par id="par053">
+        <text src="../text/2.xhtml#f417"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:09:28.160" clipEnd="0:09:36.840"/>
+      </par>
+      <par id="par054">
+        <text src="../text/2.xhtml#f418"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:09:36.840" clipEnd="0:09:52.720"/>
+      </par>
+      <par id="par055">
+        <text src="../text/2.xhtml#f419"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:09:52.720" clipEnd="0:10:18.400"/>
+      </par>
+      <par id="par056">
+        <text src="../text/2.xhtml#f420"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:10:18.400" clipEnd="0:10:27.600"/>
+      </par>
+      <par id="par057">
+        <text src="../text/2.xhtml#f421"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:10:27.600" clipEnd="0:10:47.400"/>
+      </par>
+      <par id="par058">
+        <text src="../text/2.xhtml#f422"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:10:47.400" clipEnd="0:10:56.800"/>
+      </par>
+      <par id="par059">
+        <text src="../text/2.xhtml#f423"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:10:56.800" clipEnd="0:11:06.280"/>
+      </par>
+      <par id="par060">
+        <text src="../text/2.xhtml#f424"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:11:06.280" clipEnd="0:11:16.080"/>
+      </par>
+      <par id="par061">
+        <text src="../text/2.xhtml#f425"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:11:16.080" clipEnd="0:11:32.800"/>
+      </par>
+      <par id="par062">
+        <text src="../text/2.xhtml#f426"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:11:32.800" clipEnd="0:11:48.160"/>
+      </par>
+      <par id="par063">
+        <text src="../text/2.xhtml#f427"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:11:48.160" clipEnd="0:12:08.480"/>
+      </par>
+      <par id="par064">
+        <text src="../text/2.xhtml#f428"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:12:08.480" clipEnd="0:12:22.840"/>
+      </par>
+      <par id="par065">
+        <text src="../text/2.xhtml#f429"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:12:22.840" clipEnd="0:12:31.920"/>
+      </par>
+      <par id="par066">
+        <text src="../text/2.xhtml#f430"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:12:31.920" clipEnd="0:12:55.400"/>
+      </par>
+      <par id="par067">
+        <text src="../text/2.xhtml#f431"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:12:55.400" clipEnd="0:13:29.640"/>
+      </par>
+      <par id="par068">
+        <text src="../text/2.xhtml#f432"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:13:29.640" clipEnd="0:13:38.640"/>
+      </par>
+      <par id="par069">
+        <text src="../text/2.xhtml#f433"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:13:38.640" clipEnd="0:13:49.000"/>
+      </par>
+      <par id="par070">
+        <text src="../text/2.xhtml#f434"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:13:49.000" clipEnd="0:13:52.680"/>
+      </par>
+      <par id="par071">
+        <text src="../text/2.xhtml#f435"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:13:52.680" clipEnd="0:13:56.440"/>
+      </par>
+      <par id="par072">
+        <text src="../text/2.xhtml#f436"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:13:56.440" clipEnd="0:14:11.400"/>
+      </par>
+      <par id="par073">
+        <text src="../text/2.xhtml#f437"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:14:11.400" clipEnd="0:14:19.120"/>
+      </par>
+      <par id="par074">
+        <text src="../text/2.xhtml#f438"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:14:19.120" clipEnd="0:14:27.920"/>
+      </par>
+      <par id="par075">
+        <text src="../text/2.xhtml#f439"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:14:27.920" clipEnd="0:14:41.120"/>
+      </par>
+      <par id="par076">
+        <text src="../text/2.xhtml#f440"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:14:41.120" clipEnd="0:14:49.320"/>
+      </par>
+      <par id="par077">
+        <text src="../text/2.xhtml#f441"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:14:49.320" clipEnd="0:14:58.320"/>
+      </par>
+      <par id="par078">
+        <text src="../text/2.xhtml#f442"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:14:58.320" clipEnd="0:15:10.840"/>
+      </par>
+      <par id="par079">
+        <text src="../text/2.xhtml#f443"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:15:10.840" clipEnd="0:15:23.800"/>
+      </par>
+      <par id="par080">
+        <text src="../text/2.xhtml#f444"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:15:23.800" clipEnd="0:15:50.600"/>
+      </par>
+      <par id="par081">
+        <text src="../text/2.xhtml#f445"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:15:50.600" clipEnd="0:16:09.560"/>
+      </par>
+      <par id="par082">
+        <text src="../text/2.xhtml#f446"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:16:09.560" clipEnd="0:16:14.800"/>
+      </par>
+      <par id="par083">
+        <text src="../text/2.xhtml#f447"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:16:14.800" clipEnd="0:16:22.440"/>
+      </par>
+      <par id="par084">
+        <text src="../text/2.xhtml#f448"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:16:22.440" clipEnd="0:16:37.240"/>
+      </par>
+      <par id="par085">
+        <text src="../text/2.xhtml#f449"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:16:37.240" clipEnd="0:16:44.680"/>
+      </par>
+      <par id="par086">
+        <text src="../text/2.xhtml#f450"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:16:44.680" clipEnd="0:17:02.440"/>
+      </par>
+      <par id="par087">
+        <text src="../text/2.xhtml#f451"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:17:02.440" clipEnd="0:17:11.600"/>
+      </par>
+      <par id="par088">
+        <text src="../text/2.xhtml#f452"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:17:11.600" clipEnd="0:17:20.720"/>
+      </par>
+      <par id="par089">
+        <text src="../text/2.xhtml#f453"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:17:20.720" clipEnd="0:17:37.000"/>
+      </par>
+      <par id="par090">
+        <text src="../text/2.xhtml#f454"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:17:37.000" clipEnd="0:17:48.920"/>
+      </par>
+      <par id="par091">
+        <text src="../text/2.xhtml#f455"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:17:48.920" clipEnd="0:18:21.720"/>
+      </par>
+      <par id="par092">
+        <text src="../text/2.xhtml#f456"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:18:21.720" clipEnd="0:18:35.480"/>
+      </par>
+      <par id="par093">
+        <text src="../text/2.xhtml#f457"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:18:35.480" clipEnd="0:18:43.440"/>
+      </par>
+      <par id="par094">
+        <text src="../text/2.xhtml#f458"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:18:43.440" clipEnd="0:18:58.960"/>
+      </par>
+      <par id="par095">
+        <text src="../text/2.xhtml#f459"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:18:58.960" clipEnd="0:19:06.080"/>
+      </par>
+      <par id="par096">
+        <text src="../text/2.xhtml#f460"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:19:06.080" clipEnd="0:19:12.800"/>
+      </par>
+      <par id="par097">
+        <text src="../text/2.xhtml#f461"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:19:12.800" clipEnd="0:19:20.760"/>
+      </par>
+      <par id="par098">
+        <text src="../text/2.xhtml#f462"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:19:20.760" clipEnd="0:19:24.200"/>
+      </par>
+      <par id="par099">
+        <text src="../text/2.xhtml#f463"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:19:24.200" clipEnd="0:19:33.720"/>
+      </par>
+      <par id="par100">
+        <text src="../text/2.xhtml#f464"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:19:33.720" clipEnd="0:19:44.400"/>
+      </par>
+      <par id="par101">
+        <text src="../text/2.xhtml#f465"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:19:44.400" clipEnd="0:20:00.680"/>
+      </par>
+      <par id="par102">
+        <text src="../text/2.xhtml#f466"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:20:00.680" clipEnd="0:20:20.560"/>
+      </par>
+      <par id="par103">
+        <text src="../text/2.xhtml#f467"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:20:20.560" clipEnd="0:20:34.280"/>
+      </par>
+      <par id="par104">
+        <text src="../text/2.xhtml#f468"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:20:34.280" clipEnd="0:20:37.360"/>
+      </par>
+      <par id="par105">
+        <text src="../text/2.xhtml#f469"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:20:37.360" clipEnd="0:20:42.840"/>
+      </par>
+      <par id="par106">
+        <text src="../text/2.xhtml#f470"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:20:42.840" clipEnd="0:20:47.520"/>
+      </par>
+      <par id="par107">
+        <text src="../text/2.xhtml#f471"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:20:47.520" clipEnd="0:21:00.520"/>
+      </par>
+      <par id="par108">
+        <text src="../text/2.xhtml#f472"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:21:00.520" clipEnd="0:21:33.520"/>
+      </par>
+      <par id="par109">
+        <text src="../text/2.xhtml#f473"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:21:33.520" clipEnd="0:21:49.320"/>
+      </par>
+      <par id="par110">
+        <text src="../text/2.xhtml#f474"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:21:49.320" clipEnd="0:21:59.000"/>
+      </par>
+      <par id="par111">
+        <text src="../text/2.xhtml#f475"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:21:59.000" clipEnd="0:22:02.280"/>
+      </par>
+      <par id="par112">
+        <text src="../text/2.xhtml#f476"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:22:02.280" clipEnd="0:22:11.920"/>
+      </par>
+      <par id="par113">
+        <text src="../text/2.xhtml#f477"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:22:11.920" clipEnd="0:22:18.440"/>
+      </par>
+      <par id="par114">
+        <text src="../text/2.xhtml#f478"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:22:18.440" clipEnd="0:22:21.240"/>
+      </par>
+      <par id="par115">
+        <text src="../text/2.xhtml#f479"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:22:21.240" clipEnd="0:22:45.160"/>
+      </par>
+      <par id="par116">
+        <text src="../text/2.xhtml#f480"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:22:45.160" clipEnd="0:22:50.040"/>
+      </par>
+      <par id="par117">
+        <text src="../text/2.xhtml#f481"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:22:50.040" clipEnd="0:23:03.800"/>
+      </par>
+      <par id="par118">
+        <text src="../text/2.xhtml#f482"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:23:03.800" clipEnd="0:23:25.280"/>
+      </par>
+      <par id="par119">
+        <text src="../text/2.xhtml#f483"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:23:25.280" clipEnd="0:23:33.880"/>
+      </par>
+      <par id="par120">
+        <text src="../text/2.xhtml#f484"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:23:33.880" clipEnd="0:23:40.080"/>
+      </par>
+      <par id="par121">
+        <text src="../text/2.xhtml#f485"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:23:40.080" clipEnd="0:23:47.400"/>
+      </par>
+      <par id="par122">
+        <text src="../text/2.xhtml#f486"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:23:47.400" clipEnd="0:23:58.680"/>
+      </par>
+      <par id="par123">
+        <text src="../text/2.xhtml#f487"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:23:58.680" clipEnd="0:24:18.960"/>
+      </par>
+      <par id="par124">
+        <text src="../text/2.xhtml#f488"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:24:18.960" clipEnd="0:24:37.480"/>
+      </par>
+      <par id="par125">
+        <text src="../text/2.xhtml#f489"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:24:37.480" clipEnd="0:24:50.160"/>
+      </par>
+      <par id="par126">
+        <text src="../text/2.xhtml#f490"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:24:50.160" clipEnd="0:25:05.360"/>
+      </par>
+      <par id="par127">
+        <text src="../text/2.xhtml#f491"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:25:05.360" clipEnd="0:25:21.840"/>
+      </par>
+      <par id="par128">
+        <text src="../text/2.xhtml#f492"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:25:21.840" clipEnd="0:25:42.400"/>
+      </par>
+      <par id="par129">
+        <text src="../text/2.xhtml#f493"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:25:42.400" clipEnd="0:25:55.960"/>
+      </par>
+      <par id="par130">
+        <text src="../text/2.xhtml#f494"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:25:55.960" clipEnd="0:26:03.400"/>
+      </par>
+      <par id="par131">
+        <text src="../text/2.xhtml#f495"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:26:03.400" clipEnd="0:26:05.640"/>
+      </par>
+      <par id="par132">
+        <text src="../text/2.xhtml#f496"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:26:05.640" clipEnd="0:26:18.200"/>
+      </par>
+      <par id="par133">
+        <text src="../text/2.xhtml#f497"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:26:18.200" clipEnd="0:26:32.880"/>
+      </par>
+      <par id="par134">
+        <text src="../text/2.xhtml#f498"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:26:32.880" clipEnd="0:26:36.280"/>
+      </par>
+      <par id="par135">
+        <text src="../text/2.xhtml#f499"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:26:36.280" clipEnd="0:26:47.560"/>
+      </par>
+      <par id="par136">
+        <text src="../text/2.xhtml#f500"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:26:47.560" clipEnd="0:26:55.360"/>
+      </par>
+      <par id="par137">
+        <text src="../text/2.xhtml#f501"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:26:55.360" clipEnd="0:27:01.520"/>
+      </par>
+      <par id="par138">
+        <text src="../text/2.xhtml#f502"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:27:01.520" clipEnd="0:27:05.000"/>
+      </par>
+      <par id="par139">
+        <text src="../text/2.xhtml#f503"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:27:05.000" clipEnd="0:27:08.680"/>
+      </par>
+      <par id="par140">
+        <text src="../text/2.xhtml#f504"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:27:08.680" clipEnd="0:27:23.080"/>
+      </par>
+      <par id="par141">
+        <text src="../text/2.xhtml#f505"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:27:23.080" clipEnd="0:27:31.920"/>
+      </par>
+      <par id="par142">
+        <text src="../text/2.xhtml#f506"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:27:31.920" clipEnd="0:27:55.320"/>
+      </par>
+      <par id="par143">
+        <text src="../text/2.xhtml#f507"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:27:55.320" clipEnd="0:27:59.080"/>
+      </par>
+      <par id="par144">
+        <text src="../text/2.xhtml#f508"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:27:59.080" clipEnd="0:28:21.480"/>
+      </par>
+      <par id="par145">
+        <text src="../text/2.xhtml#f509"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:28:21.480" clipEnd="0:28:28.400"/>
+      </par>
+      <par id="par146">
+        <text src="../text/2.xhtml#f510"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:28:28.400" clipEnd="0:28:35.560"/>
+      </par>
+      <par id="par147">
+        <text src="../text/2.xhtml#f511"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:28:35.560" clipEnd="0:28:40.480"/>
+      </par>
+      <par id="par148">
+        <text src="../text/2.xhtml#f512"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:28:40.480" clipEnd="0:28:44.000"/>
+      </par>
+      <par id="par149">
+        <text src="../text/2.xhtml#f513"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:28:44.000" clipEnd="0:28:49.200"/>
+      </par>
+      <par id="par150">
+        <text src="../text/2.xhtml#f514"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:28:49.200" clipEnd="0:28:54.760"/>
+      </par>
+      <par id="par151">
+        <text src="../text/2.xhtml#f515"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:28:54.760" clipEnd="0:28:59.320"/>
+      </par>
+      <par id="par152">
+        <text src="../text/2.xhtml#f516"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:28:59.320" clipEnd="0:29:05.240"/>
+      </par>
+      <par id="par153">
+        <text src="../text/2.xhtml#f517"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:29:05.240" clipEnd="0:29:12.560"/>
+      </par>
+      <par id="par154">
+        <text src="../text/2.xhtml#f518"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:29:12.560" clipEnd="0:29:30.280"/>
+      </par>
+      <par id="par155">
+        <text src="../text/2.xhtml#f519"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:29:30.280" clipEnd="0:29:32.800"/>
+      </par>
+      <par id="par156">
+        <text src="../text/2.xhtml#f520"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:29:32.800" clipEnd="0:29:57.720"/>
+      </par>
+      <par id="par157">
+        <text src="../text/2.xhtml#f521"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:29:57.720" clipEnd="0:30:14.360"/>
+      </par>
+      <par id="par158">
+        <text src="../text/2.xhtml#f522"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:30:14.360" clipEnd="0:30:42.760"/>
+      </par>
+      <par id="par159">
+        <text src="../text/2.xhtml#f523"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:30:42.760" clipEnd="0:30:58.400"/>
+      </par>
+      <par id="par160">
+        <text src="../text/2.xhtml#f524"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:30:58.400" clipEnd="0:31:20.720"/>
+      </par>
+      <par id="par161">
+        <text src="../text/2.xhtml#f525"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:31:20.720" clipEnd="0:31:40.280"/>
+      </par>
+      <par id="par162">
+        <text src="../text/2.xhtml#f526"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:31:40.280" clipEnd="0:31:51.040"/>
+      </par>
+      <par id="par163">
+        <text src="../text/2.xhtml#f527"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:31:51.040" clipEnd="0:31:55.720"/>
+      </par>
+      <par id="par164">
+        <text src="../text/2.xhtml#f528"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:31:55.720" clipEnd="0:32:01.760"/>
+      </par>
+      <par id="par165">
+        <text src="../text/2.xhtml#f529"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:32:01.760" clipEnd="0:32:12.600"/>
+      </par>
+      <par id="par166">
+        <text src="../text/2.xhtml#f530"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:32:12.600" clipEnd="0:32:16.240"/>
+      </par>
+      <par id="par167">
+        <text src="../text/2.xhtml#f531"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:32:16.240" clipEnd="0:32:46.640"/>
+      </par>
+      <par id="par168">
+        <text src="../text/2.xhtml#f532"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:32:46.640" clipEnd="0:32:55.480"/>
+      </par>
+      <par id="par169">
+        <text src="../text/2.xhtml#f533"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:32:55.480" clipEnd="0:33:07.800"/>
+      </par>
+      <par id="par170">
+        <text src="../text/2.xhtml#f534"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:33:07.800" clipEnd="0:33:14.160"/>
+      </par>
+      <par id="par171">
+        <text src="../text/2.xhtml#f535"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:33:14.160" clipEnd="0:33:27.840"/>
+      </par>
+      <par id="par172">
+        <text src="../text/2.xhtml#f536"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:33:27.840" clipEnd="0:33:36.600"/>
+      </par>
+      <par id="par173">
+        <text src="../text/2.xhtml#f537"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:33:36.600" clipEnd="0:33:53.680"/>
+      </par>
+      <par id="par174">
+        <text src="../text/2.xhtml#f538"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:33:53.680" clipEnd="0:34:00.800"/>
+      </par>
+      <par id="par175">
+        <text src="../text/2.xhtml#f539"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:34:00.800" clipEnd="0:34:15.400"/>
+      </par>
+      <par id="par176">
+        <text src="../text/2.xhtml#f540"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:34:15.400" clipEnd="0:34:29.720"/>
+      </par>
+      <par id="par177">
+        <text src="../text/2.xhtml#f541"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:34:29.720" clipEnd="0:34:45.280"/>
+      </par>
+      <par id="par178">
+        <text src="../text/2.xhtml#f542"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:34:45.280" clipEnd="0:34:48.520"/>
+      </par>
+      <par id="par179">
+        <text src="../text/2.xhtml#f543"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:34:48.520" clipEnd="0:34:54.440"/>
+      </par>
+      <par id="par180">
+        <text src="../text/2.xhtml#f544"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:34:54.440" clipEnd="0:35:31.400"/>
+      </par>
+      <par id="par181">
+        <text src="../text/2.xhtml#f545"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:35:31.400" clipEnd="0:35:56.800"/>
+      </par>
+      <par id="par182">
+        <text src="../text/2.xhtml#f546"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:35:56.800" clipEnd="0:36:15.120"/>
+      </par>
+      <par id="par183">
+        <text src="../text/2.xhtml#f547"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:36:15.120" clipEnd="0:36:25.960"/>
+      </par>
+      <par id="par184">
+        <text src="../text/2.xhtml#f548"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:36:25.960" clipEnd="0:36:29.120"/>
+      </par>
+      <par id="par185">
+        <text src="../text/2.xhtml#f549"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:36:29.120" clipEnd="0:36:38.920"/>
+      </par>
+      <par id="par186">
+        <text src="../text/2.xhtml#f550"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:36:38.920" clipEnd="0:36:47.160"/>
+      </par>
+      <par id="par187">
+        <text src="../text/2.xhtml#f551"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:36:47.160" clipEnd="0:36:55.120"/>
+      </par>
+      <par id="par188">
+        <text src="../text/2.xhtml#f552"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:36:55.120" clipEnd="0:37:00.800"/>
+      </par>
+      <par id="par189">
+        <text src="../text/2.xhtml#f553"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:37:00.800" clipEnd="0:37:05.560"/>
+      </par>
+      <par id="par190">
+        <text src="../text/2.xhtml#f554"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:37:05.560" clipEnd="0:37:09.400"/>
+      </par>
+      <par id="par191">
+        <text src="../text/2.xhtml#f555"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:37:09.400" clipEnd="0:37:14.920"/>
+      </par>
+      <par id="par192">
+        <text src="../text/2.xhtml#f556"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:37:14.920" clipEnd="0:37:18.200"/>
+      </par>
+      <par id="par193">
+        <text src="../text/2.xhtml#f557"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:37:18.200" clipEnd="0:37:22.240"/>
+      </par>
+      <par id="par194">
+        <text src="../text/2.xhtml#f558"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:37:22.240" clipEnd="0:37:44.280"/>
+      </par>
+      <par id="par195">
+        <text src="../text/2.xhtml#f559"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:37:44.280" clipEnd="0:37:47.640"/>
+      </par>
+      <par id="par196">
+        <text src="../text/2.xhtml#f560"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:37:47.640" clipEnd="0:37:51.360"/>
+      </par>
+      <par id="par197">
+        <text src="../text/2.xhtml#f561"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:37:51.360" clipEnd="0:37:54.160"/>
+      </par>
+      <par id="par198">
+        <text src="../text/2.xhtml#f562"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:37:54.160" clipEnd="0:37:58.200"/>
+      </par>
+      <par id="par199">
+        <text src="../text/2.xhtml#f563"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:37:58.200" clipEnd="0:38:23.400"/>
+      </par>
+      <par id="par200">
+        <text src="../text/2.xhtml#f564"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:38:23.400" clipEnd="0:38:25.520"/>
+      </par>
+      <par id="par201">
+        <text src="../text/2.xhtml#f565"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:38:25.520" clipEnd="0:38:25.520"/>
+      </par>
+      <par id="par202">
+        <text src="../text/2.xhtml#f566"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:38:25.520" clipEnd="0:38:30.520"/>
+      </par>
+      <par id="par203">
+        <text src="../text/2.xhtml#f567"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:38:30.520" clipEnd="0:38:36.800"/>
+      </par>
+      <par id="par204">
+        <text src="../text/2.xhtml#f568"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:38:36.800" clipEnd="0:38:44.240"/>
+      </par>
+      <par id="par205">
+        <text src="../text/2.xhtml#f569"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:38:44.240" clipEnd="0:38:54.560"/>
+      </par>
+      <par id="par206">
+        <text src="../text/2.xhtml#f570"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:38:54.560" clipEnd="0:39:08.880"/>
+      </par>
+      <par id="par207">
+        <text src="../text/2.xhtml#f571"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:39:08.880" clipEnd="0:39:11.760"/>
+      </par>
+      <par id="par208">
+        <text src="../text/2.xhtml#f572"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:39:11.760" clipEnd="0:39:14.760"/>
+      </par>
+      <par id="par209">
+        <text src="../text/2.xhtml#f573"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:39:14.760" clipEnd="0:39:21.600"/>
+      </par>
+      <par id="par210">
+        <text src="../text/2.xhtml#f574"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:39:21.600" clipEnd="0:39:30.000"/>
+      </par>
+      <par id="par211">
+        <text src="../text/2.xhtml#f575"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:39:30.000" clipEnd="0:39:32.520"/>
+      </par>
+      <par id="par212">
+        <text src="../text/2.xhtml#f576"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:39:32.520" clipEnd="0:39:38.240"/>
+      </par>
+      <par id="par213">
+        <text src="../text/2.xhtml#f577"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:39:38.240" clipEnd="0:39:44.840"/>
+      </par>
+      <par id="par214">
+        <text src="../text/2.xhtml#f578"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:39:44.840" clipEnd="0:39:57.520"/>
+      </par>
+      <par id="par215">
+        <text src="../text/2.xhtml#f579"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:39:57.520" clipEnd="0:40:06.640"/>
+      </par>
+      <par id="par216">
+        <text src="../text/2.xhtml#f580"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:40:06.640" clipEnd="0:40:08.520"/>
+      </par>
+      <par id="par217">
+        <text src="../text/2.xhtml#f581"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:40:08.520" clipEnd="0:40:10.600"/>
+      </par>
+      <par id="par218">
+        <text src="../text/2.xhtml#f582"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:40:10.600" clipEnd="0:40:13.000"/>
+      </par>
+      <par id="par219">
+        <text src="../text/2.xhtml#f583"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:40:13.000" clipEnd="0:40:15.760"/>
+      </par>
+      <par id="par220">
+        <text src="../text/2.xhtml#f584"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:40:15.760" clipEnd="0:40:17.920"/>
+      </par>
+      <par id="par221">
+        <text src="../text/2.xhtml#f585"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:40:17.920" clipEnd="0:40:24.320"/>
+      </par>
+      <par id="par222">
+        <text src="../text/2.xhtml#f586"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:40:24.320" clipEnd="0:40:27.600"/>
+      </par>
+      <par id="par223">
+        <text src="../text/2.xhtml#f587"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:40:27.600" clipEnd="0:40:31.120"/>
+      </par>
+      <par id="par224">
+        <text src="../text/2.xhtml#f588"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:40:31.120" clipEnd="0:40:34.640"/>
+      </par>
+      <par id="par225">
+        <text src="../text/2.xhtml#f589"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:40:34.640" clipEnd="0:40:45.200"/>
+      </par>
+      <par id="par226">
+        <text src="../text/2.xhtml#f590"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:40:45.200" clipEnd="0:40:56.560"/>
+      </par>
+      <par id="par227">
+        <text src="../text/2.xhtml#f591"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:40:56.560" clipEnd="0:41:06.320"/>
+      </par>
+      <par id="par228">
+        <text src="../text/2.xhtml#f592"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:41:06.320" clipEnd="0:41:14.280"/>
+      </par>
+      <par id="par229">
+        <text src="../text/2.xhtml#f593"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:41:14.280" clipEnd="0:41:34.480"/>
+      </par>
+      <par id="par230">
+        <text src="../text/2.xhtml#f594"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:41:34.480" clipEnd="0:41:38.360"/>
+      </par>
+      <par id="par231">
+        <text src="../text/2.xhtml#f595"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:41:38.360" clipEnd="0:41:46.360"/>
+      </par>
+      <par id="par232">
+        <text src="../text/2.xhtml#f596"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:41:46.360" clipEnd="0:41:51.240"/>
+      </par>
+      <par id="par233">
+        <text src="../text/2.xhtml#f597"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:41:51.240" clipEnd="0:41:55.400"/>
+      </par>
+      <par id="par234">
+        <text src="../text/2.xhtml#f598"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:41:55.400" clipEnd="0:42:12.320"/>
+      </par>
+      <par id="par235">
+        <text src="../text/2.xhtml#f599"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:42:12.320" clipEnd="0:42:16.040"/>
+      </par>
+      <par id="par236">
+        <text src="../text/2.xhtml#f600"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:42:16.040" clipEnd="0:43:02.240"/>
+      </par>
+      <par id="par237">
+        <text src="../text/2.xhtml#f601"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:43:02.240" clipEnd="0:43:12.120"/>
+      </par>
+      <par id="par238">
+        <text src="../text/2.xhtml#f602"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:43:12.120" clipEnd="0:43:31.000"/>
+      </par>
+      <par id="par239">
+        <text src="../text/2.xhtml#f603"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:43:31.000" clipEnd="0:43:50.720"/>
+      </par>
+      <par id="par240">
+        <text src="../text/2.xhtml#f604"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:43:50.720" clipEnd="0:44:01.720"/>
+      </par>
+      <par id="par241">
+        <text src="../text/2.xhtml#f605"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:44:01.720" clipEnd="0:44:04.840"/>
+      </par>
+      <par id="par242">
+        <text src="../text/2.xhtml#f606"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:44:04.840" clipEnd="0:44:14.960"/>
+      </par>
+      <par id="par243">
+        <text src="../text/2.xhtml#f607"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:44:14.960" clipEnd="0:44:24.360"/>
+      </par>
+      <par id="par244">
+        <text src="../text/2.xhtml#f608"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:44:24.360" clipEnd="0:44:30.560"/>
+      </par>
+      <par id="par245">
+        <text src="../text/2.xhtml#f609"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:44:30.560" clipEnd="0:44:34.920"/>
+      </par>
+      <par id="par246">
+        <text src="../text/2.xhtml#f610"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:44:34.920" clipEnd="0:44:44.960"/>
+      </par>
+      <par id="par247">
+        <text src="../text/2.xhtml#f611"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:44:44.960" clipEnd="0:44:57.800"/>
+      </par>
+      <par id="par248">
+        <text src="../text/2.xhtml#f612"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:44:57.800" clipEnd="0:45:06.200"/>
+      </par>
+      <par id="par249">
+        <text src="../text/2.xhtml#f613"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:45:06.200" clipEnd="0:45:36.120"/>
+      </par>
+      <par id="par250">
+        <text src="../text/2.xhtml#f614"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:45:36.120" clipEnd="0:45:37.920"/>
+      </par>
+      <par id="par251">
+        <text src="../text/2.xhtml#f615"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:45:37.920" clipEnd="0:45:40.920"/>
+      </par>
+      <par id="par252">
+        <text src="../text/2.xhtml#f616"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:45:40.920" clipEnd="0:45:44.200"/>
+      </par>
+      <par id="par253">
+        <text src="../text/2.xhtml#f617"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:45:44.200" clipEnd="0:45:49.200"/>
+      </par>
+      <par id="par254">
+        <text src="../text/2.xhtml#f618"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:45:49.200" clipEnd="0:45:53.880"/>
+      </par>
+      <par id="par255">
+        <text src="../text/2.xhtml#f619"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:45:53.880" clipEnd="0:46:01.200"/>
+      </par>
+      <par id="par256">
+        <text src="../text/2.xhtml#f620"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:46:01.200" clipEnd="0:46:07.240"/>
+      </par>
+      <par id="par257">
+        <text src="../text/2.xhtml#f621"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:46:07.240" clipEnd="0:46:12.120"/>
+      </par>
+      <par id="par258">
+        <text src="../text/2.xhtml#f622"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:46:12.120" clipEnd="0:46:18.520"/>
+      </par>
+      <par id="par259">
+        <text src="../text/2.xhtml#f623"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:46:18.520" clipEnd="0:46:25.680"/>
+      </par>
+      <par id="par260">
+        <text src="../text/2.xhtml#f624"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:46:25.680" clipEnd="0:46:33.200"/>
+      </par>
+      <par id="par261">
+        <text src="../text/2.xhtml#f625"/>
+        <audio src="../audio/metamorphosis_2_kafka_64kb.mp3" clipBegin="0:46:33.200" clipEnd="0:47:31.400"/>
+      </par>
+    </seq>
+  </body>
+</smil>
