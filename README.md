@@ -2,7 +2,7 @@
 
 ## Overview
 
-<b>synclibrivox</b> is a collection of files for LibriVox recordings needed to produce ebooks with synchronized text and audio using [syncabook](https://github.com/r4victor/syncabook). If someone used <b>syncabook</b> to create an ebook for a LibriVox recording and commited source files to this repository, you can create an ebook using <b>syncabook</b> just by getting the files with `download_files` command and then assembling them to EPUB with `create` command.
+<b>synclibrivox</b> is a collection of files for LibriVox recordings needed to produce ebooks with synchronized text and audio using [syncabook](https://github.com/r4victor/syncabook). If someone used <b>syncabook</b> to create an ebook for a LibriVox recording and commited source files to this repository, you can create an ebook for that recording using <b>syncabook</b> just by getting the files with `download_files` command and then assembling them to EPUB with `create` command.
 ## Repository contents
 
 The repository contains all neccessary source files needed to produce an ebook except for audio files. Each book has a directory with the following contents:
