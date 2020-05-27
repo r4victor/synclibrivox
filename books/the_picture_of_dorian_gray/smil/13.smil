@@ -1,0 +1,906 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <seq id="seq1" epub:textref="../text/13.xhtml">
+      <par id="par001">
+        <text src="../text/13.xhtml#f4312"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:00:04.760" clipEnd="0:00:07.240"/>
+      </par>
+      <par id="par002">
+        <text src="../text/13.xhtml#f4313"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:00:07.240" clipEnd="0:00:19.720"/>
+      </par>
+      <par id="par003">
+        <text src="../text/13.xhtml#f4314"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:00:19.720" clipEnd="0:00:24.040"/>
+      </par>
+      <par id="par004">
+        <text src="../text/13.xhtml#f4315"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:00:24.040" clipEnd="0:00:28.360"/>
+      </par>
+      <par id="par005">
+        <text src="../text/13.xhtml#f4316"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:00:28.360" clipEnd="0:00:32.680"/>
+      </par>
+      <par id="par006">
+        <text src="../text/13.xhtml#f4317"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:00:32.680" clipEnd="0:00:41.200"/>
+      </par>
+      <par id="par007">
+        <text src="../text/13.xhtml#f4318"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:00:41.200" clipEnd="0:00:46.280"/>
+      </par>
+      <par id="par008">
+        <text src="../text/13.xhtml#f4319"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:00:46.280" clipEnd="0:00:47.600"/>
+      </par>
+      <par id="par009">
+        <text src="../text/13.xhtml#f4320"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:00:47.600" clipEnd="0:00:52.680"/>
+      </par>
+      <par id="par010">
+        <text src="../text/13.xhtml#f4321"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:00:52.680" clipEnd="0:01:00.160"/>
+      </par>
+      <par id="par011">
+        <text src="../text/13.xhtml#f4322"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:01:00.160" clipEnd="0:01:08.160"/>
+      </par>
+      <par id="par012">
+        <text src="../text/13.xhtml#f4323"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:01:08.160" clipEnd="0:01:15.280"/>
+      </par>
+      <par id="par013">
+        <text src="../text/13.xhtml#f4324"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:01:15.280" clipEnd="0:01:17.120"/>
+      </par>
+      <par id="par014">
+        <text src="../text/13.xhtml#f4325"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:01:17.120" clipEnd="0:01:23.360"/>
+      </par>
+      <par id="par015">
+        <text src="../text/13.xhtml#f4326"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:01:23.360" clipEnd="0:01:26.920"/>
+      </par>
+      <par id="par016">
+        <text src="../text/13.xhtml#f4327"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:01:26.920" clipEnd="0:01:30.880"/>
+      </par>
+      <par id="par017">
+        <text src="../text/13.xhtml#f4328"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:01:30.880" clipEnd="0:01:44.960"/>
+      </par>
+      <par id="par018">
+        <text src="../text/13.xhtml#f4329"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:01:44.960" clipEnd="0:01:56.040"/>
+      </par>
+      <par id="par019">
+        <text src="../text/13.xhtml#f4330"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:01:56.040" clipEnd="0:01:59.680"/>
+      </par>
+      <par id="par020">
+        <text src="../text/13.xhtml#f4331"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:01:59.680" clipEnd="0:02:04.440"/>
+      </par>
+      <par id="par021">
+        <text src="../text/13.xhtml#f4332"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:02:04.440" clipEnd="0:02:09.760"/>
+      </par>
+      <par id="par022">
+        <text src="../text/13.xhtml#f4333"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:02:09.760" clipEnd="0:02:14.360"/>
+      </par>
+      <par id="par023">
+        <text src="../text/13.xhtml#f4334"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:02:14.360" clipEnd="0:02:18.640"/>
+      </par>
+      <par id="par024">
+        <text src="../text/13.xhtml#f4335"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:02:18.640" clipEnd="0:02:24.080"/>
+      </par>
+      <par id="par025">
+        <text src="../text/13.xhtml#f4336"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:02:24.080" clipEnd="0:02:26.320"/>
+      </par>
+      <par id="par026">
+        <text src="../text/13.xhtml#f4337"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:02:26.320" clipEnd="0:02:34.640"/>
+      </par>
+      <par id="par027">
+        <text src="../text/13.xhtml#f4338"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:02:34.640" clipEnd="0:02:44.320"/>
+      </par>
+      <par id="par028">
+        <text src="../text/13.xhtml#f4339"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:02:44.320" clipEnd="0:02:49.880"/>
+      </par>
+      <par id="par029">
+        <text src="../text/13.xhtml#f4340"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:02:49.880" clipEnd="0:02:51.880"/>
+      </par>
+      <par id="par030">
+        <text src="../text/13.xhtml#f4341"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:02:51.880" clipEnd="0:02:56.560"/>
+      </par>
+      <par id="par031">
+        <text src="../text/13.xhtml#f4342"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:02:56.560" clipEnd="0:03:03.520"/>
+      </par>
+      <par id="par032">
+        <text src="../text/13.xhtml#f4343"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:03:03.520" clipEnd="0:03:09.200"/>
+      </par>
+      <par id="par033">
+        <text src="../text/13.xhtml#f4344"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:03:09.200" clipEnd="0:03:20.560"/>
+      </par>
+      <par id="par034">
+        <text src="../text/13.xhtml#f4345"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:03:20.560" clipEnd="0:03:24.640"/>
+      </par>
+      <par id="par035">
+        <text src="../text/13.xhtml#f4346"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:03:24.640" clipEnd="0:03:27.160"/>
+      </par>
+      <par id="par036">
+        <text src="../text/13.xhtml#f4347"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:03:27.160" clipEnd="0:03:33.240"/>
+      </par>
+      <par id="par037">
+        <text src="../text/13.xhtml#f4348"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:03:33.240" clipEnd="0:03:37.800"/>
+      </par>
+      <par id="par038">
+        <text src="../text/13.xhtml#f4349"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:03:37.800" clipEnd="0:03:42.080"/>
+      </par>
+      <par id="par039">
+        <text src="../text/13.xhtml#f4350"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:03:42.080" clipEnd="0:03:49.520"/>
+      </par>
+      <par id="par040">
+        <text src="../text/13.xhtml#f4351"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:03:49.520" clipEnd="0:03:55.840"/>
+      </par>
+      <par id="par041">
+        <text src="../text/13.xhtml#f4352"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:03:55.840" clipEnd="0:03:58.920"/>
+      </par>
+      <par id="par042">
+        <text src="../text/13.xhtml#f4353"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:03:58.920" clipEnd="0:04:01.760"/>
+      </par>
+      <par id="par043">
+        <text src="../text/13.xhtml#f4354"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:04:01.760" clipEnd="0:04:09.240"/>
+      </par>
+      <par id="par044">
+        <text src="../text/13.xhtml#f4355"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:04:09.240" clipEnd="0:04:11.960"/>
+      </par>
+      <par id="par045">
+        <text src="../text/13.xhtml#f4356"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:04:11.960" clipEnd="0:04:14.000"/>
+      </par>
+      <par id="par046">
+        <text src="../text/13.xhtml#f4357"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:04:14.000" clipEnd="0:04:16.680"/>
+      </par>
+      <par id="par047">
+        <text src="../text/13.xhtml#f4358"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:04:16.680" clipEnd="0:04:22.160"/>
+      </par>
+      <par id="par048">
+        <text src="../text/13.xhtml#f4359"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:04:22.160" clipEnd="0:04:28.920"/>
+      </par>
+      <par id="par049">
+        <text src="../text/13.xhtml#f4360"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:04:28.920" clipEnd="0:04:32.200"/>
+      </par>
+      <par id="par050">
+        <text src="../text/13.xhtml#f4361"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:04:32.200" clipEnd="0:04:36.160"/>
+      </par>
+      <par id="par051">
+        <text src="../text/13.xhtml#f4362"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:04:36.160" clipEnd="0:04:48.720"/>
+      </par>
+      <par id="par052">
+        <text src="../text/13.xhtml#f4363"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:04:48.720" clipEnd="0:04:53.040"/>
+      </par>
+      <par id="par053">
+        <text src="../text/13.xhtml#f4364"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:04:53.040" clipEnd="0:04:59.960"/>
+      </par>
+      <par id="par054">
+        <text src="../text/13.xhtml#f4365"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:04:59.960" clipEnd="0:05:07.920"/>
+      </par>
+      <par id="par055">
+        <text src="../text/13.xhtml#f4366"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:05:07.920" clipEnd="0:05:12.120"/>
+      </par>
+      <par id="par056">
+        <text src="../text/13.xhtml#f4367"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:05:12.120" clipEnd="0:05:17.000"/>
+      </par>
+      <par id="par057">
+        <text src="../text/13.xhtml#f4368"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:05:17.000" clipEnd="0:05:30.720"/>
+      </par>
+      <par id="par058">
+        <text src="../text/13.xhtml#f4369"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:05:30.720" clipEnd="0:05:43.560"/>
+      </par>
+      <par id="par059">
+        <text src="../text/13.xhtml#f4370"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:05:43.560" clipEnd="0:05:54.040"/>
+      </par>
+      <par id="par060">
+        <text src="../text/13.xhtml#f4371"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:05:54.040" clipEnd="0:05:55.720"/>
+      </par>
+      <par id="par061">
+        <text src="../text/13.xhtml#f4372"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:05:55.720" clipEnd="0:05:58.760"/>
+      </par>
+      <par id="par062">
+        <text src="../text/13.xhtml#f4373"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:05:58.760" clipEnd="0:05:59.960"/>
+      </par>
+      <par id="par063">
+        <text src="../text/13.xhtml#f4374"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:05:59.960" clipEnd="0:06:02.680"/>
+      </par>
+      <par id="par064">
+        <text src="../text/13.xhtml#f4375"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:06:02.680" clipEnd="0:06:04.040"/>
+      </par>
+      <par id="par065">
+        <text src="../text/13.xhtml#f4376"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:06:04.040" clipEnd="0:06:06.480"/>
+      </par>
+      <par id="par066">
+        <text src="../text/13.xhtml#f4377"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:06:06.480" clipEnd="0:06:10.120"/>
+      </par>
+      <par id="par067">
+        <text src="../text/13.xhtml#f4378"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:06:10.120" clipEnd="0:06:13.840"/>
+      </par>
+      <par id="par068">
+        <text src="../text/13.xhtml#f4379"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:06:13.840" clipEnd="0:06:23.920"/>
+      </par>
+      <par id="par069">
+        <text src="../text/13.xhtml#f4380"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:06:23.920" clipEnd="0:06:27.080"/>
+      </par>
+      <par id="par070">
+        <text src="../text/13.xhtml#f4381"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:06:27.080" clipEnd="0:06:28.880"/>
+      </par>
+      <par id="par071">
+        <text src="../text/13.xhtml#f4382"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:06:28.880" clipEnd="0:06:31.840"/>
+      </par>
+      <par id="par072">
+        <text src="../text/13.xhtml#f4383"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:06:31.840" clipEnd="0:06:35.520"/>
+      </par>
+      <par id="par073">
+        <text src="../text/13.xhtml#f4384"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:06:35.520" clipEnd="0:06:40.680"/>
+      </par>
+      <par id="par074">
+        <text src="../text/13.xhtml#f4385"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:06:40.680" clipEnd="0:06:43.040"/>
+      </par>
+      <par id="par075">
+        <text src="../text/13.xhtml#f4386"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:06:43.040" clipEnd="0:06:45.800"/>
+      </par>
+      <par id="par076">
+        <text src="../text/13.xhtml#f4387"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:06:45.800" clipEnd="0:06:49.480"/>
+      </par>
+      <par id="par077">
+        <text src="../text/13.xhtml#f4388"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:06:49.480" clipEnd="0:06:54.640"/>
+      </par>
+      <par id="par078">
+        <text src="../text/13.xhtml#f4389"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:06:54.640" clipEnd="0:06:57.800"/>
+      </par>
+      <par id="par079">
+        <text src="../text/13.xhtml#f4390"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:06:57.800" clipEnd="0:07:01.960"/>
+      </par>
+      <par id="par080">
+        <text src="../text/13.xhtml#f4391"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:07:01.960" clipEnd="0:07:03.480"/>
+      </par>
+      <par id="par081">
+        <text src="../text/13.xhtml#f4392"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:07:03.480" clipEnd="0:07:06.560"/>
+      </par>
+      <par id="par082">
+        <text src="../text/13.xhtml#f4393"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:07:06.560" clipEnd="0:07:09.360"/>
+      </par>
+      <par id="par083">
+        <text src="../text/13.xhtml#f4394"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:07:09.360" clipEnd="0:07:17.160"/>
+      </par>
+      <par id="par084">
+        <text src="../text/13.xhtml#f4395"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:07:17.160" clipEnd="0:07:21.600"/>
+      </par>
+      <par id="par085">
+        <text src="../text/13.xhtml#f4396"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:07:21.600" clipEnd="0:07:23.120"/>
+      </par>
+      <par id="par086">
+        <text src="../text/13.xhtml#f4397"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:07:23.120" clipEnd="0:07:41.040"/>
+      </par>
+      <par id="par087">
+        <text src="../text/13.xhtml#f4398"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:07:41.040" clipEnd="0:07:46.160"/>
+      </par>
+      <par id="par088">
+        <text src="../text/13.xhtml#f4399"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:07:46.160" clipEnd="0:07:52.560"/>
+      </par>
+      <par id="par089">
+        <text src="../text/13.xhtml#f4400"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:07:52.560" clipEnd="0:08:01.280"/>
+      </par>
+      <par id="par090">
+        <text src="../text/13.xhtml#f4401"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:08:01.280" clipEnd="0:08:07.320"/>
+      </par>
+      <par id="par091">
+        <text src="../text/13.xhtml#f4402"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:08:07.320" clipEnd="0:08:13.440"/>
+      </par>
+      <par id="par092">
+        <text src="../text/13.xhtml#f4403"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:08:13.440" clipEnd="0:08:16.960"/>
+      </par>
+      <par id="par093">
+        <text src="../text/13.xhtml#f4404"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:08:16.960" clipEnd="0:08:25.040"/>
+      </par>
+      <par id="par094">
+        <text src="../text/13.xhtml#f4405"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:08:25.040" clipEnd="0:08:30.080"/>
+      </par>
+      <par id="par095">
+        <text src="../text/13.xhtml#f4406"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:08:30.080" clipEnd="0:08:37.840"/>
+      </par>
+      <par id="par096">
+        <text src="../text/13.xhtml#f4407"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:08:37.840" clipEnd="0:08:42.040"/>
+      </par>
+      <par id="par097">
+        <text src="../text/13.xhtml#f4408"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:08:42.040" clipEnd="0:08:45.720"/>
+      </par>
+      <par id="par098">
+        <text src="../text/13.xhtml#f4409"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:08:45.720" clipEnd="0:08:47.960"/>
+      </par>
+      <par id="par099">
+        <text src="../text/13.xhtml#f4410"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:08:47.960" clipEnd="0:08:50.320"/>
+      </par>
+      <par id="par100">
+        <text src="../text/13.xhtml#f4411"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:08:50.320" clipEnd="0:08:55.640"/>
+      </par>
+      <par id="par101">
+        <text src="../text/13.xhtml#f4412"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:08:55.640" clipEnd="0:08:58.840"/>
+      </par>
+      <par id="par102">
+        <text src="../text/13.xhtml#f4413"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:08:58.840" clipEnd="0:09:02.480"/>
+      </par>
+      <par id="par103">
+        <text src="../text/13.xhtml#f4414"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:09:02.480" clipEnd="0:09:05.600"/>
+      </par>
+      <par id="par104">
+        <text src="../text/13.xhtml#f4415"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:09:05.600" clipEnd="0:09:08.000"/>
+      </par>
+      <par id="par105">
+        <text src="../text/13.xhtml#f4416"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:09:08.000" clipEnd="0:09:10.240"/>
+      </par>
+      <par id="par106">
+        <text src="../text/13.xhtml#f4417"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:09:10.240" clipEnd="0:09:13.200"/>
+      </par>
+      <par id="par107">
+        <text src="../text/13.xhtml#f4418"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:09:13.200" clipEnd="0:09:19.280"/>
+      </par>
+      <par id="par108">
+        <text src="../text/13.xhtml#f4419"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:09:19.280" clipEnd="0:09:22.920"/>
+      </par>
+      <par id="par109">
+        <text src="../text/13.xhtml#f4420"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:09:22.920" clipEnd="0:09:26.040"/>
+      </par>
+      <par id="par110">
+        <text src="../text/13.xhtml#f4421"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:09:26.040" clipEnd="0:09:30.960"/>
+      </par>
+      <par id="par111">
+        <text src="../text/13.xhtml#f4422"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:09:30.960" clipEnd="0:09:38.280"/>
+      </par>
+      <par id="par112">
+        <text src="../text/13.xhtml#f4423"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:09:38.280" clipEnd="0:09:41.480"/>
+      </par>
+      <par id="par113">
+        <text src="../text/13.xhtml#f4424"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:09:41.480" clipEnd="0:09:42.240"/>
+      </par>
+      <par id="par114">
+        <text src="../text/13.xhtml#f4425"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:09:42.240" clipEnd="0:09:43.560"/>
+      </par>
+      <par id="par115">
+        <text src="../text/13.xhtml#f4426"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:09:43.560" clipEnd="0:09:45.960"/>
+      </par>
+      <par id="par116">
+        <text src="../text/13.xhtml#f4427"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:09:45.960" clipEnd="0:09:47.200"/>
+      </par>
+      <par id="par117">
+        <text src="../text/13.xhtml#f4428"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:09:47.200" clipEnd="0:09:51.800"/>
+      </par>
+      <par id="par118">
+        <text src="../text/13.xhtml#f4429"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:09:51.800" clipEnd="0:10:08.320"/>
+      </par>
+      <par id="par119">
+        <text src="../text/13.xhtml#f4430"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:10:08.320" clipEnd="0:10:19.880"/>
+      </par>
+      <par id="par120">
+        <text src="../text/13.xhtml#f4431"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:10:19.880" clipEnd="0:10:22.040"/>
+      </par>
+      <par id="par121">
+        <text src="../text/13.xhtml#f4432"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:10:22.040" clipEnd="0:10:26.000"/>
+      </par>
+      <par id="par122">
+        <text src="../text/13.xhtml#f4433"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:10:26.000" clipEnd="0:10:27.800"/>
+      </par>
+      <par id="par123">
+        <text src="../text/13.xhtml#f4434"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:10:27.800" clipEnd="0:10:29.720"/>
+      </par>
+      <par id="par124">
+        <text src="../text/13.xhtml#f4435"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:10:29.720" clipEnd="0:10:37.520"/>
+      </par>
+      <par id="par125">
+        <text src="../text/13.xhtml#f4436"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:10:37.520" clipEnd="0:10:42.440"/>
+      </par>
+      <par id="par126">
+        <text src="../text/13.xhtml#f4437"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:10:42.440" clipEnd="0:10:47.840"/>
+      </par>
+      <par id="par127">
+        <text src="../text/13.xhtml#f4438"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:10:47.840" clipEnd="0:10:52.040"/>
+      </par>
+      <par id="par128">
+        <text src="../text/13.xhtml#f4439"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:10:52.040" clipEnd="0:11:04.320"/>
+      </par>
+      <par id="par129">
+        <text src="../text/13.xhtml#f4440"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:11:04.320" clipEnd="0:11:10.920"/>
+      </par>
+      <par id="par130">
+        <text src="../text/13.xhtml#f4441"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:11:10.920" clipEnd="0:11:18.880"/>
+      </par>
+      <par id="par131">
+        <text src="../text/13.xhtml#f4442"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:11:18.880" clipEnd="0:11:24.240"/>
+      </par>
+      <par id="par132">
+        <text src="../text/13.xhtml#f4443"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:11:24.240" clipEnd="0:11:27.280"/>
+      </par>
+      <par id="par133">
+        <text src="../text/13.xhtml#f4444"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:11:27.280" clipEnd="0:11:31.800"/>
+      </par>
+      <par id="par134">
+        <text src="../text/13.xhtml#f4445"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:11:31.800" clipEnd="0:11:37.120"/>
+      </par>
+      <par id="par135">
+        <text src="../text/13.xhtml#f4446"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:11:37.120" clipEnd="0:11:43.520"/>
+      </par>
+      <par id="par136">
+        <text src="../text/13.xhtml#f4447"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:11:43.520" clipEnd="0:11:46.680"/>
+      </par>
+      <par id="par137">
+        <text src="../text/13.xhtml#f4448"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:11:46.680" clipEnd="0:11:49.280"/>
+      </par>
+      <par id="par138">
+        <text src="../text/13.xhtml#f4449"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:11:49.280" clipEnd="0:11:51.920"/>
+      </par>
+      <par id="par139">
+        <text src="../text/13.xhtml#f4450"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:11:51.920" clipEnd="0:12:00.560"/>
+      </par>
+      <par id="par140">
+        <text src="../text/13.xhtml#f4451"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:12:00.560" clipEnd="0:12:06.640"/>
+      </par>
+      <par id="par141">
+        <text src="../text/13.xhtml#f4452"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:12:06.640" clipEnd="0:12:17.280"/>
+      </par>
+      <par id="par142">
+        <text src="../text/13.xhtml#f4453"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:12:17.280" clipEnd="0:12:27.920"/>
+      </par>
+      <par id="par143">
+        <text src="../text/13.xhtml#f4454"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:12:27.920" clipEnd="0:12:31.240"/>
+      </par>
+      <par id="par144">
+        <text src="../text/13.xhtml#f4455"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:12:31.240" clipEnd="0:12:40.040"/>
+      </par>
+      <par id="par145">
+        <text src="../text/13.xhtml#f4456"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:12:40.040" clipEnd="0:12:49.040"/>
+      </par>
+      <par id="par146">
+        <text src="../text/13.xhtml#f4457"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:12:49.040" clipEnd="0:12:57.760"/>
+      </par>
+      <par id="par147">
+        <text src="../text/13.xhtml#f4458"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:12:57.760" clipEnd="0:13:03.080"/>
+      </par>
+      <par id="par148">
+        <text src="../text/13.xhtml#f4459"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:13:03.080" clipEnd="0:13:09.640"/>
+      </par>
+      <par id="par149">
+        <text src="../text/13.xhtml#f4460"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:13:09.640" clipEnd="0:13:12.800"/>
+      </par>
+      <par id="par150">
+        <text src="../text/13.xhtml#f4461"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:13:12.800" clipEnd="0:13:15.960"/>
+      </par>
+      <par id="par151">
+        <text src="../text/13.xhtml#f4462"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:13:15.960" clipEnd="0:13:19.520"/>
+      </par>
+      <par id="par152">
+        <text src="../text/13.xhtml#f4463"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:13:19.520" clipEnd="0:13:22.920"/>
+      </par>
+      <par id="par153">
+        <text src="../text/13.xhtml#f4464"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:13:22.920" clipEnd="0:13:25.880"/>
+      </par>
+      <par id="par154">
+        <text src="../text/13.xhtml#f4465"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:13:25.880" clipEnd="0:13:33.440"/>
+      </par>
+      <par id="par155">
+        <text src="../text/13.xhtml#f4466"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:13:33.440" clipEnd="0:13:38.280"/>
+      </par>
+      <par id="par156">
+        <text src="../text/13.xhtml#f4467"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:13:38.280" clipEnd="0:13:42.720"/>
+      </par>
+      <par id="par157">
+        <text src="../text/13.xhtml#f4468"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:13:42.720" clipEnd="0:13:46.120"/>
+      </par>
+      <par id="par158">
+        <text src="../text/13.xhtml#f4469"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:13:46.120" clipEnd="0:13:51.920"/>
+      </par>
+      <par id="par159">
+        <text src="../text/13.xhtml#f4470"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:13:51.920" clipEnd="0:14:00.880"/>
+      </par>
+      <par id="par160">
+        <text src="../text/13.xhtml#f4471"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:14:00.880" clipEnd="0:14:03.480"/>
+      </par>
+      <par id="par161">
+        <text src="../text/13.xhtml#f4472"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:14:03.480" clipEnd="0:14:06.040"/>
+      </par>
+      <par id="par162">
+        <text src="../text/13.xhtml#f4473"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:14:06.040" clipEnd="0:14:16.200"/>
+      </par>
+      <par id="par163">
+        <text src="../text/13.xhtml#f4474"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:14:16.200" clipEnd="0:14:20.800"/>
+      </par>
+      <par id="par164">
+        <text src="../text/13.xhtml#f4475"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:14:20.800" clipEnd="0:14:26.360"/>
+      </par>
+      <par id="par165">
+        <text src="../text/13.xhtml#f4476"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:14:26.360" clipEnd="0:14:30.080"/>
+      </par>
+      <par id="par166">
+        <text src="../text/13.xhtml#f4477"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:14:30.080" clipEnd="0:14:32.560"/>
+      </par>
+      <par id="par167">
+        <text src="../text/13.xhtml#f4478"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:14:32.560" clipEnd="0:14:36.280"/>
+      </par>
+      <par id="par168">
+        <text src="../text/13.xhtml#f4479"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:14:36.280" clipEnd="0:14:40.160"/>
+      </par>
+      <par id="par169">
+        <text src="../text/13.xhtml#f4480"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:14:40.160" clipEnd="0:14:45.200"/>
+      </par>
+      <par id="par170">
+        <text src="../text/13.xhtml#f4481"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:14:45.200" clipEnd="0:14:49.680"/>
+      </par>
+      <par id="par171">
+        <text src="../text/13.xhtml#f4482"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:14:49.680" clipEnd="0:14:52.840"/>
+      </par>
+      <par id="par172">
+        <text src="../text/13.xhtml#f4483"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:14:52.840" clipEnd="0:14:55.240"/>
+      </par>
+      <par id="par173">
+        <text src="../text/13.xhtml#f4484"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:14:55.240" clipEnd="0:14:59.680"/>
+      </par>
+      <par id="par174">
+        <text src="../text/13.xhtml#f4485"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:14:59.680" clipEnd="0:15:04.120"/>
+      </par>
+      <par id="par175">
+        <text src="../text/13.xhtml#f4486"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:15:04.120" clipEnd="0:15:07.200"/>
+      </par>
+      <par id="par176">
+        <text src="../text/13.xhtml#f4487"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:15:07.200" clipEnd="0:15:15.880"/>
+      </par>
+      <par id="par177">
+        <text src="../text/13.xhtml#f4488"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:15:15.880" clipEnd="0:15:19.040"/>
+      </par>
+      <par id="par178">
+        <text src="../text/13.xhtml#f4489"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:15:19.040" clipEnd="0:15:21.520"/>
+      </par>
+      <par id="par179">
+        <text src="../text/13.xhtml#f4490"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:15:21.520" clipEnd="0:15:24.400"/>
+      </par>
+      <par id="par180">
+        <text src="../text/13.xhtml#f4491"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:15:24.400" clipEnd="0:15:27.240"/>
+      </par>
+      <par id="par181">
+        <text src="../text/13.xhtml#f4492"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:15:27.240" clipEnd="0:15:34.600"/>
+      </par>
+      <par id="par182">
+        <text src="../text/13.xhtml#f4493"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:15:34.600" clipEnd="0:15:37.800"/>
+      </par>
+      <par id="par183">
+        <text src="../text/13.xhtml#f4494"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:15:37.800" clipEnd="0:15:41.440"/>
+      </par>
+      <par id="par184">
+        <text src="../text/13.xhtml#f4495"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:15:41.440" clipEnd="0:15:44.800"/>
+      </par>
+      <par id="par185">
+        <text src="../text/13.xhtml#f4496"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:15:44.800" clipEnd="0:15:47.760"/>
+      </par>
+      <par id="par186">
+        <text src="../text/13.xhtml#f4497"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:15:47.760" clipEnd="0:15:49.760"/>
+      </par>
+      <par id="par187">
+        <text src="../text/13.xhtml#f4498"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:15:49.760" clipEnd="0:15:52.480"/>
+      </par>
+      <par id="par188">
+        <text src="../text/13.xhtml#f4499"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:15:52.480" clipEnd="0:15:55.520"/>
+      </par>
+      <par id="par189">
+        <text src="../text/13.xhtml#f4500"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:15:55.520" clipEnd="0:15:56.480"/>
+      </par>
+      <par id="par190">
+        <text src="../text/13.xhtml#f4501"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:15:56.480" clipEnd="0:15:57.280"/>
+      </par>
+      <par id="par191">
+        <text src="../text/13.xhtml#f4502"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:15:57.280" clipEnd="0:16:03.520"/>
+      </par>
+      <par id="par192">
+        <text src="../text/13.xhtml#f4503"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:16:03.520" clipEnd="0:16:08.760"/>
+      </par>
+      <par id="par193">
+        <text src="../text/13.xhtml#f4504"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:16:08.760" clipEnd="0:16:09.880"/>
+      </par>
+      <par id="par194">
+        <text src="../text/13.xhtml#f4505"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:16:09.880" clipEnd="0:16:14.080"/>
+      </par>
+      <par id="par195">
+        <text src="../text/13.xhtml#f4506"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:16:14.080" clipEnd="0:16:16.360"/>
+      </par>
+      <par id="par196">
+        <text src="../text/13.xhtml#f4507"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:16:16.360" clipEnd="0:16:20.400"/>
+      </par>
+      <par id="par197">
+        <text src="../text/13.xhtml#f4508"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:16:20.400" clipEnd="0:16:30.000"/>
+      </par>
+      <par id="par198">
+        <text src="../text/13.xhtml#f4509"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:16:30.000" clipEnd="0:16:33.520"/>
+      </par>
+      <par id="par199">
+        <text src="../text/13.xhtml#f4510"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:16:33.520" clipEnd="0:16:40.400"/>
+      </par>
+      <par id="par200">
+        <text src="../text/13.xhtml#f4511"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:16:40.400" clipEnd="0:16:43.560"/>
+      </par>
+      <par id="par201">
+        <text src="../text/13.xhtml#f4512"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:16:43.560" clipEnd="0:16:49.480"/>
+      </par>
+      <par id="par202">
+        <text src="../text/13.xhtml#f4513"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:16:49.480" clipEnd="0:16:56.800"/>
+      </par>
+      <par id="par203">
+        <text src="../text/13.xhtml#f4514"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:16:56.800" clipEnd="0:16:58.440"/>
+      </par>
+      <par id="par204">
+        <text src="../text/13.xhtml#f4515"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:16:58.440" clipEnd="0:17:04.840"/>
+      </par>
+      <par id="par205">
+        <text src="../text/13.xhtml#f4516"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:17:04.840" clipEnd="0:17:07.200"/>
+      </par>
+      <par id="par206">
+        <text src="../text/13.xhtml#f4517"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:17:07.200" clipEnd="0:17:09.320"/>
+      </par>
+      <par id="par207">
+        <text src="../text/13.xhtml#f4518"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:17:09.320" clipEnd="0:17:11.920"/>
+      </par>
+      <par id="par208">
+        <text src="../text/13.xhtml#f4519"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:17:11.920" clipEnd="0:17:13.560"/>
+      </par>
+      <par id="par209">
+        <text src="../text/13.xhtml#f4520"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:17:13.560" clipEnd="0:17:15.080"/>
+      </par>
+      <par id="par210">
+        <text src="../text/13.xhtml#f4521"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:17:15.080" clipEnd="0:17:17.480"/>
+      </par>
+      <par id="par211">
+        <text src="../text/13.xhtml#f4522"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:17:17.480" clipEnd="0:17:17.920"/>
+      </par>
+      <par id="par212">
+        <text src="../text/13.xhtml#f4523"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:17:17.920" clipEnd="0:17:19.240"/>
+      </par>
+      <par id="par213">
+        <text src="../text/13.xhtml#f4524"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:17:19.240" clipEnd="0:17:23.400"/>
+      </par>
+      <par id="par214">
+        <text src="../text/13.xhtml#f4525"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:17:23.400" clipEnd="0:17:24.400"/>
+      </par>
+      <par id="par215">
+        <text src="../text/13.xhtml#f4526"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:17:24.400" clipEnd="0:17:26.880"/>
+      </par>
+      <par id="par216">
+        <text src="../text/13.xhtml#f4527"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:17:26.880" clipEnd="0:17:28.960"/>
+      </par>
+      <par id="par217">
+        <text src="../text/13.xhtml#f4528"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:17:28.960" clipEnd="0:17:35.360"/>
+      </par>
+      <par id="par218">
+        <text src="../text/13.xhtml#f4529"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:17:35.360" clipEnd="0:17:37.720"/>
+      </par>
+      <par id="par219">
+        <text src="../text/13.xhtml#f4530"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:17:37.720" clipEnd="0:17:40.160"/>
+      </par>
+      <par id="par220">
+        <text src="../text/13.xhtml#f4531"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:17:40.160" clipEnd="0:17:42.080"/>
+      </par>
+      <par id="par221">
+        <text src="../text/13.xhtml#f4532"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:17:42.080" clipEnd="0:17:46.760"/>
+      </par>
+      <par id="par222">
+        <text src="../text/13.xhtml#f4533"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:17:46.760" clipEnd="0:17:52.160"/>
+      </par>
+      <par id="par223">
+        <text src="../text/13.xhtml#f4534"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:17:52.160" clipEnd="0:17:58.720"/>
+      </par>
+      <par id="par224">
+        <text src="../text/13.xhtml#f4535"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:17:58.720" clipEnd="0:18:05.680"/>
+      </par>
+      <par id="par225">
+        <text src="../text/13.xhtml#f4536"/>
+        <audio src="../audio/pictureofdoriangray_13_wilde_64kb.mp3" clipBegin="0:18:05.680" clipEnd="0:18:24.440"/>
+      </par>
+    </seq>
+  </body>
+</smil>
