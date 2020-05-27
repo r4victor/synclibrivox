@@ -1,0 +1,438 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <seq id="seq1" epub:textref="../text/38.xhtml">
+      <par id="par001">
+        <text src="../text/38.xhtml#f7048"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:00:06.440" clipEnd="0:00:08.480"/>
+      </par>
+      <par id="par002">
+        <text src="../text/38.xhtml#f7049"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:00:08.480" clipEnd="0:00:11.400"/>
+      </par>
+      <par id="par003">
+        <text src="../text/38.xhtml#f7050"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:00:11.400" clipEnd="0:00:18.040"/>
+      </par>
+      <par id="par004">
+        <text src="../text/38.xhtml#f7051"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:00:18.040" clipEnd="0:00:23.960"/>
+      </par>
+      <par id="par005">
+        <text src="../text/38.xhtml#f7052"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:00:23.960" clipEnd="0:00:28.080"/>
+      </par>
+      <par id="par006">
+        <text src="../text/38.xhtml#f7053"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:00:28.080" clipEnd="0:00:32.840"/>
+      </par>
+      <par id="par007">
+        <text src="../text/38.xhtml#f7054"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:00:32.840" clipEnd="0:00:34.360"/>
+      </par>
+      <par id="par008">
+        <text src="../text/38.xhtml#f7055"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:00:34.360" clipEnd="0:00:36.840"/>
+      </par>
+      <par id="par009">
+        <text src="../text/38.xhtml#f7056"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:00:36.840" clipEnd="0:00:39.960"/>
+      </par>
+      <par id="par010">
+        <text src="../text/38.xhtml#f7057"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:00:39.960" clipEnd="0:00:43.600"/>
+      </par>
+      <par id="par011">
+        <text src="../text/38.xhtml#f7058"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:00:43.600" clipEnd="0:00:45.160"/>
+      </par>
+      <par id="par012">
+        <text src="../text/38.xhtml#f7059"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:00:45.160" clipEnd="0:00:46.840"/>
+      </par>
+      <par id="par013">
+        <text src="../text/38.xhtml#f7060"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:00:46.840" clipEnd="0:00:50.600"/>
+      </par>
+      <par id="par014">
+        <text src="../text/38.xhtml#f7061"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:00:50.600" clipEnd="0:00:54.280"/>
+      </par>
+      <par id="par015">
+        <text src="../text/38.xhtml#f7062"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:00:54.280" clipEnd="0:00:57.000"/>
+      </par>
+      <par id="par016">
+        <text src="../text/38.xhtml#f7063"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:00:57.000" clipEnd="0:01:02.840"/>
+      </par>
+      <par id="par017">
+        <text src="../text/38.xhtml#f7064"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:01:02.840" clipEnd="0:01:08.120"/>
+      </par>
+      <par id="par018">
+        <text src="../text/38.xhtml#f7065"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:01:08.120" clipEnd="0:01:10.360"/>
+      </par>
+      <par id="par019">
+        <text src="../text/38.xhtml#f7066"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:01:10.360" clipEnd="0:01:19.680"/>
+      </par>
+      <par id="par020">
+        <text src="../text/38.xhtml#f7067"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:01:19.680" clipEnd="0:01:22.520"/>
+      </par>
+      <par id="par021">
+        <text src="../text/38.xhtml#f7068"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:01:22.520" clipEnd="0:01:25.120"/>
+      </par>
+      <par id="par022">
+        <text src="../text/38.xhtml#f7069"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:01:25.120" clipEnd="0:01:26.720"/>
+      </par>
+      <par id="par023">
+        <text src="../text/38.xhtml#f7070"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:01:26.720" clipEnd="0:01:31.880"/>
+      </par>
+      <par id="par024">
+        <text src="../text/38.xhtml#f7071"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:01:31.880" clipEnd="0:01:34.880"/>
+      </par>
+      <par id="par025">
+        <text src="../text/38.xhtml#f7072"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:01:34.880" clipEnd="0:01:36.280"/>
+      </par>
+      <par id="par026">
+        <text src="../text/38.xhtml#f7073"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:01:36.280" clipEnd="0:01:46.480"/>
+      </par>
+      <par id="par027">
+        <text src="../text/38.xhtml#f7074"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:01:46.480" clipEnd="0:01:48.640"/>
+      </par>
+      <par id="par028">
+        <text src="../text/38.xhtml#f7075"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:01:48.640" clipEnd="0:01:55.920"/>
+      </par>
+      <par id="par029">
+        <text src="../text/38.xhtml#f7076"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:01:55.920" clipEnd="0:02:01.080"/>
+      </par>
+      <par id="par030">
+        <text src="../text/38.xhtml#f7077"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:02:01.080" clipEnd="0:02:03.800"/>
+      </par>
+      <par id="par031">
+        <text src="../text/38.xhtml#f7078"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:02:03.800" clipEnd="0:02:07.360"/>
+      </par>
+      <par id="par032">
+        <text src="../text/38.xhtml#f7079"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:02:07.360" clipEnd="0:02:12.120"/>
+      </par>
+      <par id="par033">
+        <text src="../text/38.xhtml#f7080"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:02:12.120" clipEnd="0:02:17.320"/>
+      </par>
+      <par id="par034">
+        <text src="../text/38.xhtml#f7081"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:02:17.320" clipEnd="0:02:21.480"/>
+      </par>
+      <par id="par035">
+        <text src="../text/38.xhtml#f7082"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:02:21.480" clipEnd="0:02:27.640"/>
+      </par>
+      <par id="par036">
+        <text src="../text/38.xhtml#f7083"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:02:27.640" clipEnd="0:02:29.160"/>
+      </par>
+      <par id="par037">
+        <text src="../text/38.xhtml#f7084"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:02:29.160" clipEnd="0:02:33.720"/>
+      </par>
+      <par id="par038">
+        <text src="../text/38.xhtml#f7085"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:02:33.720" clipEnd="0:02:36.880"/>
+      </par>
+      <par id="par039">
+        <text src="../text/38.xhtml#f7086"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:02:36.880" clipEnd="0:02:39.520"/>
+      </par>
+      <par id="par040">
+        <text src="../text/38.xhtml#f7087"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:02:39.520" clipEnd="0:02:47.240"/>
+      </par>
+      <par id="par041">
+        <text src="../text/38.xhtml#f7088"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:02:47.240" clipEnd="0:02:54.600"/>
+      </par>
+      <par id="par042">
+        <text src="../text/38.xhtml#f7089"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:02:54.600" clipEnd="0:03:13.640"/>
+      </par>
+      <par id="par043">
+        <text src="../text/38.xhtml#f7090"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:03:13.640" clipEnd="0:03:17.280"/>
+      </par>
+      <par id="par044">
+        <text src="../text/38.xhtml#f7091"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:03:17.280" clipEnd="0:03:28.840"/>
+      </par>
+      <par id="par045">
+        <text src="../text/38.xhtml#f7092"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:03:28.840" clipEnd="0:03:31.040"/>
+      </par>
+      <par id="par046">
+        <text src="../text/38.xhtml#f7093"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:03:31.040" clipEnd="0:03:40.040"/>
+      </par>
+      <par id="par047">
+        <text src="../text/38.xhtml#f7094"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:03:40.040" clipEnd="0:03:46.840"/>
+      </par>
+      <par id="par048">
+        <text src="../text/38.xhtml#f7095"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:03:46.840" clipEnd="0:03:52.960"/>
+      </par>
+      <par id="par049">
+        <text src="../text/38.xhtml#f7096"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:03:52.960" clipEnd="0:04:03.000"/>
+      </par>
+      <par id="par050">
+        <text src="../text/38.xhtml#f7097"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:04:03.000" clipEnd="0:04:20.400"/>
+      </par>
+      <par id="par051">
+        <text src="../text/38.xhtml#f7098"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:04:20.400" clipEnd="0:04:26.200"/>
+      </par>
+      <par id="par052">
+        <text src="../text/38.xhtml#f7099"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:04:26.200" clipEnd="0:04:32.840"/>
+      </par>
+      <par id="par053">
+        <text src="../text/38.xhtml#f7100"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:04:32.840" clipEnd="0:04:41.600"/>
+      </par>
+      <par id="par054">
+        <text src="../text/38.xhtml#f7101"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:04:41.600" clipEnd="0:04:53.000"/>
+      </par>
+      <par id="par055">
+        <text src="../text/38.xhtml#f7102"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:04:53.000" clipEnd="0:05:00.440"/>
+      </par>
+      <par id="par056">
+        <text src="../text/38.xhtml#f7103"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:05:00.440" clipEnd="0:05:08.240"/>
+      </par>
+      <par id="par057">
+        <text src="../text/38.xhtml#f7104"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:05:08.240" clipEnd="0:05:20.320"/>
+      </par>
+      <par id="par058">
+        <text src="../text/38.xhtml#f7105"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:05:20.320" clipEnd="0:05:26.520"/>
+      </par>
+      <par id="par059">
+        <text src="../text/38.xhtml#f7106"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:05:26.520" clipEnd="0:05:33.600"/>
+      </par>
+      <par id="par060">
+        <text src="../text/38.xhtml#f7107"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:05:33.600" clipEnd="0:05:36.800"/>
+      </par>
+      <par id="par061">
+        <text src="../text/38.xhtml#f7108"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:05:36.800" clipEnd="0:05:48.680"/>
+      </par>
+      <par id="par062">
+        <text src="../text/38.xhtml#f7109"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:05:48.680" clipEnd="0:05:58.360"/>
+      </par>
+      <par id="par063">
+        <text src="../text/38.xhtml#f7110"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:05:58.360" clipEnd="0:05:59.960"/>
+      </par>
+      <par id="par064">
+        <text src="../text/38.xhtml#f7111"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:05:59.960" clipEnd="0:06:23.520"/>
+      </par>
+      <par id="par065">
+        <text src="../text/38.xhtml#f7112"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:06:23.520" clipEnd="0:06:25.600"/>
+      </par>
+      <par id="par066">
+        <text src="../text/38.xhtml#f7113"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:06:25.600" clipEnd="0:06:29.880"/>
+      </par>
+      <par id="par067">
+        <text src="../text/38.xhtml#f7114"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:06:29.880" clipEnd="0:06:33.120"/>
+      </par>
+      <par id="par068">
+        <text src="../text/38.xhtml#f7115"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:06:33.120" clipEnd="0:06:36.440"/>
+      </par>
+      <par id="par069">
+        <text src="../text/38.xhtml#f7116"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:06:36.440" clipEnd="0:06:47.760"/>
+      </par>
+      <par id="par070">
+        <text src="../text/38.xhtml#f7117"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:06:47.760" clipEnd="0:06:52.280"/>
+      </par>
+      <par id="par071">
+        <text src="../text/38.xhtml#f7118"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:06:52.280" clipEnd="0:06:54.800"/>
+      </par>
+      <par id="par072">
+        <text src="../text/38.xhtml#f7119"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:06:54.800" clipEnd="0:06:59.520"/>
+      </par>
+      <par id="par073">
+        <text src="../text/38.xhtml#f7120"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:06:59.520" clipEnd="0:07:02.320"/>
+      </par>
+      <par id="par074">
+        <text src="../text/38.xhtml#f7121"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:07:02.320" clipEnd="0:07:07.480"/>
+      </par>
+      <par id="par075">
+        <text src="../text/38.xhtml#f7122"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:07:07.480" clipEnd="0:07:09.760"/>
+      </par>
+      <par id="par076">
+        <text src="../text/38.xhtml#f7123"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:07:09.760" clipEnd="0:07:13.200"/>
+      </par>
+      <par id="par077">
+        <text src="../text/38.xhtml#f7124"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:07:13.200" clipEnd="0:07:24.880"/>
+      </par>
+      <par id="par078">
+        <text src="../text/38.xhtml#f7125"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:07:24.880" clipEnd="0:07:39.600"/>
+      </par>
+      <par id="par079">
+        <text src="../text/38.xhtml#f7126"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:07:39.600" clipEnd="0:07:50.400"/>
+      </par>
+      <par id="par080">
+        <text src="../text/38.xhtml#f7127"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:07:50.400" clipEnd="0:07:55.920"/>
+      </par>
+      <par id="par081">
+        <text src="../text/38.xhtml#f7128"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:07:55.920" clipEnd="0:08:00.600"/>
+      </par>
+      <par id="par082">
+        <text src="../text/38.xhtml#f7129"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:08:00.600" clipEnd="0:08:02.240"/>
+      </par>
+      <par id="par083">
+        <text src="../text/38.xhtml#f7130"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:08:02.240" clipEnd="0:08:11.760"/>
+      </par>
+      <par id="par084">
+        <text src="../text/38.xhtml#f7131"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:08:11.760" clipEnd="0:08:17.600"/>
+      </par>
+      <par id="par085">
+        <text src="../text/38.xhtml#f7132"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:08:17.600" clipEnd="0:08:25.760"/>
+      </par>
+      <par id="par086">
+        <text src="../text/38.xhtml#f7133"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:08:25.760" clipEnd="0:08:27.080"/>
+      </par>
+      <par id="par087">
+        <text src="../text/38.xhtml#f7134"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:08:27.080" clipEnd="0:08:28.680"/>
+      </par>
+      <par id="par088">
+        <text src="../text/38.xhtml#f7135"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:08:28.680" clipEnd="0:08:30.600"/>
+      </par>
+      <par id="par089">
+        <text src="../text/38.xhtml#f7136"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:08:30.600" clipEnd="0:08:34.000"/>
+      </par>
+      <par id="par090">
+        <text src="../text/38.xhtml#f7137"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:08:34.000" clipEnd="0:08:38.600"/>
+      </par>
+      <par id="par091">
+        <text src="../text/38.xhtml#f7138"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:08:38.600" clipEnd="0:08:49.680"/>
+      </par>
+      <par id="par092">
+        <text src="../text/38.xhtml#f7139"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:08:49.680" clipEnd="0:08:55.880"/>
+      </par>
+      <par id="par093">
+        <text src="../text/38.xhtml#f7140"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:08:55.880" clipEnd="0:09:01.200"/>
+      </par>
+      <par id="par094">
+        <text src="../text/38.xhtml#f7141"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:09:01.200" clipEnd="0:09:11.680"/>
+      </par>
+      <par id="par095">
+        <text src="../text/38.xhtml#f7142"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:09:11.680" clipEnd="0:09:18.960"/>
+      </par>
+      <par id="par096">
+        <text src="../text/38.xhtml#f7143"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:09:18.960" clipEnd="0:09:28.680"/>
+      </par>
+      <par id="par097">
+        <text src="../text/38.xhtml#f7144"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:09:28.680" clipEnd="0:09:30.920"/>
+      </par>
+      <par id="par098">
+        <text src="../text/38.xhtml#f7145"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:09:30.920" clipEnd="0:09:33.320"/>
+      </par>
+      <par id="par099">
+        <text src="../text/38.xhtml#f7146"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:09:33.320" clipEnd="0:09:36.480"/>
+      </par>
+      <par id="par100">
+        <text src="../text/38.xhtml#f7147"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:09:36.480" clipEnd="0:09:44.160"/>
+      </par>
+      <par id="par101">
+        <text src="../text/38.xhtml#f7148"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:09:44.160" clipEnd="0:09:51.880"/>
+      </par>
+      <par id="par102">
+        <text src="../text/38.xhtml#f7149"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:09:51.880" clipEnd="0:10:03.040"/>
+      </par>
+      <par id="par103">
+        <text src="../text/38.xhtml#f7150"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:10:03.040" clipEnd="0:10:05.840"/>
+      </par>
+      <par id="par104">
+        <text src="../text/38.xhtml#f7151"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:10:05.840" clipEnd="0:10:07.600"/>
+      </par>
+      <par id="par105">
+        <text src="../text/38.xhtml#f7152"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:10:07.600" clipEnd="0:10:11.000"/>
+      </par>
+      <par id="par106">
+        <text src="../text/38.xhtml#f7153"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:10:11.000" clipEnd="0:10:22.400"/>
+      </par>
+      <par id="par107">
+        <text src="../text/38.xhtml#f7154"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:10:22.400" clipEnd="0:10:40.320"/>
+      </par>
+      <par id="par108">
+        <text src="../text/38.xhtml#f7155"/>
+        <audio src="../audio/martineden_38_london_64kb.mp3" clipBegin="0:10:40.320" clipEnd="0:11:10.120"/>
+      </par>
+    </seq>
+  </body>
+</smil>
