@@ -1,0 +1,638 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <seq id="seq1" epub:textref="../text/03.xhtml">
+      <par id="par001">
+        <text src="../text/03.xhtml#f0467"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:00:00.000" clipEnd="0:00:33.560"/>
+      </par>
+      <par id="par002">
+        <text src="../text/03.xhtml#f0469"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:00:33.560" clipEnd="0:00:38.080"/>
+      </par>
+      <par id="par003">
+        <text src="../text/03.xhtml#f0470"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:00:38.080" clipEnd="0:00:53.440"/>
+      </par>
+      <par id="par004">
+        <text src="../text/03.xhtml#f0471"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:00:53.440" clipEnd="0:01:02.560"/>
+      </par>
+      <par id="par005">
+        <text src="../text/03.xhtml#f0472"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:01:02.560" clipEnd="0:01:05.960"/>
+      </par>
+      <par id="par006">
+        <text src="../text/03.xhtml#f0473"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:01:05.960" clipEnd="0:01:16.120"/>
+      </par>
+      <par id="par007">
+        <text src="../text/03.xhtml#f0474"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:01:16.120" clipEnd="0:01:26.040"/>
+      </par>
+      <par id="par008">
+        <text src="../text/03.xhtml#f0475"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:01:26.040" clipEnd="0:01:47.320"/>
+      </par>
+      <par id="par009">
+        <text src="../text/03.xhtml#f0476"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:01:47.320" clipEnd="0:02:04.240"/>
+      </par>
+      <par id="par010">
+        <text src="../text/03.xhtml#f0477"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:02:04.240" clipEnd="0:02:16.640"/>
+      </par>
+      <par id="par011">
+        <text src="../text/03.xhtml#f0478"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:02:16.640" clipEnd="0:02:33.880"/>
+      </par>
+      <par id="par012">
+        <text src="../text/03.xhtml#f0479"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:02:33.880" clipEnd="0:02:40.960"/>
+      </par>
+      <par id="par013">
+        <text src="../text/03.xhtml#f0480"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:02:40.960" clipEnd="0:02:52.920"/>
+      </par>
+      <par id="par014">
+        <text src="../text/03.xhtml#f0481"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:02:52.920" clipEnd="0:03:09.000"/>
+      </par>
+      <par id="par015">
+        <text src="../text/03.xhtml#f0482"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:03:09.000" clipEnd="0:03:22.560"/>
+      </par>
+      <par id="par016">
+        <text src="../text/03.xhtml#f0483"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:03:22.560" clipEnd="0:03:39.400"/>
+      </par>
+      <par id="par017">
+        <text src="../text/03.xhtml#f0484"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:03:39.400" clipEnd="0:03:47.320"/>
+      </par>
+      <par id="par018">
+        <text src="../text/03.xhtml#f0485"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:03:47.320" clipEnd="0:04:00.160"/>
+      </par>
+      <par id="par019">
+        <text src="../text/03.xhtml#f0486"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:04:00.160" clipEnd="0:04:15.480"/>
+      </par>
+      <par id="par020">
+        <text src="../text/03.xhtml#f0487"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:04:15.480" clipEnd="0:04:35.160"/>
+      </par>
+      <par id="par021">
+        <text src="../text/03.xhtml#f0488"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:04:35.160" clipEnd="0:04:46.720"/>
+      </par>
+      <par id="par022">
+        <text src="../text/03.xhtml#f0489"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:04:46.720" clipEnd="0:04:56.040"/>
+      </par>
+      <par id="par023">
+        <text src="../text/03.xhtml#f0490"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:04:56.040" clipEnd="0:05:06.880"/>
+      </par>
+      <par id="par024">
+        <text src="../text/03.xhtml#f0491"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:05:06.880" clipEnd="0:05:16.640"/>
+      </par>
+      <par id="par025">
+        <text src="../text/03.xhtml#f0492"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:05:16.640" clipEnd="0:05:40.720"/>
+      </par>
+      <par id="par026">
+        <text src="../text/03.xhtml#f0493"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:05:40.720" clipEnd="0:05:50.200"/>
+      </par>
+      <par id="par027">
+        <text src="../text/03.xhtml#f0494"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:05:50.200" clipEnd="0:05:54.760"/>
+      </par>
+      <par id="par028">
+        <text src="../text/03.xhtml#f0495"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:05:54.760" clipEnd="0:05:57.240"/>
+      </par>
+      <par id="par029">
+        <text src="../text/03.xhtml#f0496"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:05:57.240" clipEnd="0:06:01.360"/>
+      </par>
+      <par id="par030">
+        <text src="../text/03.xhtml#f0497"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:06:01.360" clipEnd="0:06:10.160"/>
+      </par>
+      <par id="par031">
+        <text src="../text/03.xhtml#f0498"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:06:10.160" clipEnd="0:06:18.920"/>
+      </par>
+      <par id="par032">
+        <text src="../text/03.xhtml#f0499"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:06:18.920" clipEnd="0:06:29.920"/>
+      </par>
+      <par id="par033">
+        <text src="../text/03.xhtml#f0500"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:06:29.920" clipEnd="0:06:38.240"/>
+      </par>
+      <par id="par034">
+        <text src="../text/03.xhtml#f0501"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:06:38.240" clipEnd="0:06:45.800"/>
+      </par>
+      <par id="par035">
+        <text src="../text/03.xhtml#f0502"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:06:45.800" clipEnd="0:06:52.160"/>
+      </par>
+      <par id="par036">
+        <text src="../text/03.xhtml#f0503"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:06:52.160" clipEnd="0:06:55.080"/>
+      </par>
+      <par id="par037">
+        <text src="../text/03.xhtml#f0504"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:06:55.080" clipEnd="0:06:57.440"/>
+      </par>
+      <par id="par038">
+        <text src="../text/03.xhtml#f0505"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:06:57.440" clipEnd="0:07:05.360"/>
+      </par>
+      <par id="par039">
+        <text src="../text/03.xhtml#f0506"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:07:05.360" clipEnd="0:07:10.040"/>
+      </par>
+      <par id="par040">
+        <text src="../text/03.xhtml#f0507"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:07:10.040" clipEnd="0:07:19.280"/>
+      </par>
+      <par id="par041">
+        <text src="../text/03.xhtml#f0508"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:07:19.280" clipEnd="0:07:28.720"/>
+      </par>
+      <par id="par042">
+        <text src="../text/03.xhtml#f0509"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:07:28.720" clipEnd="0:07:41.480"/>
+      </par>
+      <par id="par043">
+        <text src="../text/03.xhtml#f0510"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:07:41.480" clipEnd="0:07:54.760"/>
+      </par>
+      <par id="par044">
+        <text src="../text/03.xhtml#f0511"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:07:54.760" clipEnd="0:08:04.640"/>
+      </par>
+      <par id="par045">
+        <text src="../text/03.xhtml#f0512"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:08:04.640" clipEnd="0:08:08.120"/>
+      </par>
+      <par id="par046">
+        <text src="../text/03.xhtml#f0513"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:08:08.120" clipEnd="0:08:09.360"/>
+      </par>
+      <par id="par047">
+        <text src="../text/03.xhtml#f0514"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:08:09.360" clipEnd="0:08:13.120"/>
+      </par>
+      <par id="par048">
+        <text src="../text/03.xhtml#f0515"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:08:13.120" clipEnd="0:08:20.520"/>
+      </par>
+      <par id="par049">
+        <text src="../text/03.xhtml#f0516"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:08:20.520" clipEnd="0:08:29.760"/>
+      </par>
+      <par id="par050">
+        <text src="../text/03.xhtml#f0517"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:08:29.760" clipEnd="0:08:42.360"/>
+      </par>
+      <par id="par051">
+        <text src="../text/03.xhtml#f0518"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:08:42.360" clipEnd="0:08:45.280"/>
+      </par>
+      <par id="par052">
+        <text src="../text/03.xhtml#f0519"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:08:45.280" clipEnd="0:08:53.240"/>
+      </par>
+      <par id="par053">
+        <text src="../text/03.xhtml#f0520"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:08:53.240" clipEnd="0:09:00.520"/>
+      </par>
+      <par id="par054">
+        <text src="../text/03.xhtml#f0521"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:09:00.520" clipEnd="0:09:04.920"/>
+      </par>
+      <par id="par055">
+        <text src="../text/03.xhtml#f0522"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:09:04.920" clipEnd="0:09:10.480"/>
+      </par>
+      <par id="par056">
+        <text src="../text/03.xhtml#f0523"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:09:10.480" clipEnd="0:09:14.040"/>
+      </par>
+      <par id="par057">
+        <text src="../text/03.xhtml#f0524"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:09:14.040" clipEnd="0:09:16.280"/>
+      </par>
+      <par id="par058">
+        <text src="../text/03.xhtml#f0525"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:09:16.280" clipEnd="0:09:25.360"/>
+      </par>
+      <par id="par059">
+        <text src="../text/03.xhtml#f0526"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:09:25.360" clipEnd="0:09:30.720"/>
+      </par>
+      <par id="par060">
+        <text src="../text/03.xhtml#f0527"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:09:30.720" clipEnd="0:09:35.000"/>
+      </par>
+      <par id="par061">
+        <text src="../text/03.xhtml#f0528"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:09:35.000" clipEnd="0:09:39.800"/>
+      </par>
+      <par id="par062">
+        <text src="../text/03.xhtml#f0529"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:09:39.800" clipEnd="0:09:56.680"/>
+      </par>
+      <par id="par063">
+        <text src="../text/03.xhtml#f0530"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:09:56.680" clipEnd="0:09:58.320"/>
+      </par>
+      <par id="par064">
+        <text src="../text/03.xhtml#f0531"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:09:58.320" clipEnd="0:10:01.880"/>
+      </par>
+      <par id="par065">
+        <text src="../text/03.xhtml#f0532"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:10:01.880" clipEnd="0:10:04.280"/>
+      </par>
+      <par id="par066">
+        <text src="../text/03.xhtml#f0533"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:10:04.280" clipEnd="0:10:08.640"/>
+      </par>
+      <par id="par067">
+        <text src="../text/03.xhtml#f0534"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:10:08.640" clipEnd="0:10:19.920"/>
+      </par>
+      <par id="par068">
+        <text src="../text/03.xhtml#f0535"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:10:19.920" clipEnd="0:10:31.600"/>
+      </par>
+      <par id="par069">
+        <text src="../text/03.xhtml#f0536"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:10:31.600" clipEnd="0:10:51.160"/>
+      </par>
+      <par id="par070">
+        <text src="../text/03.xhtml#f0537"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:10:51.160" clipEnd="0:11:01.280"/>
+      </par>
+      <par id="par071">
+        <text src="../text/03.xhtml#f0538"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:11:01.280" clipEnd="0:11:14.920"/>
+      </par>
+      <par id="par072">
+        <text src="../text/03.xhtml#f0539"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:11:14.920" clipEnd="0:11:20.240"/>
+      </par>
+      <par id="par073">
+        <text src="../text/03.xhtml#f0540"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:11:20.240" clipEnd="0:11:28.600"/>
+      </par>
+      <par id="par074">
+        <text src="../text/03.xhtml#f0541"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:11:28.600" clipEnd="0:11:34.080"/>
+      </par>
+      <par id="par075">
+        <text src="../text/03.xhtml#f0542"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:11:34.080" clipEnd="0:11:43.120"/>
+      </par>
+      <par id="par076">
+        <text src="../text/03.xhtml#f0543"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:11:43.120" clipEnd="0:11:48.440"/>
+      </par>
+      <par id="par077">
+        <text src="../text/03.xhtml#f0544"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:11:48.440" clipEnd="0:11:57.440"/>
+      </par>
+      <par id="par078">
+        <text src="../text/03.xhtml#f0545"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:11:57.440" clipEnd="0:12:06.760"/>
+      </par>
+      <par id="par079">
+        <text src="../text/03.xhtml#f0546"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:12:06.760" clipEnd="0:12:12.840"/>
+      </par>
+      <par id="par080">
+        <text src="../text/03.xhtml#f0547"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:12:12.840" clipEnd="0:12:16.200"/>
+      </par>
+      <par id="par081">
+        <text src="../text/03.xhtml#f0548"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:12:16.200" clipEnd="0:12:23.040"/>
+      </par>
+      <par id="par082">
+        <text src="../text/03.xhtml#f0549"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:12:23.040" clipEnd="0:12:31.600"/>
+      </par>
+      <par id="par083">
+        <text src="../text/03.xhtml#f0550"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:12:31.600" clipEnd="0:12:46.960"/>
+      </par>
+      <par id="par084">
+        <text src="../text/03.xhtml#f0551"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:12:46.960" clipEnd="0:12:50.600"/>
+      </par>
+      <par id="par085">
+        <text src="../text/03.xhtml#f0552"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:12:50.600" clipEnd="0:12:52.680"/>
+      </par>
+      <par id="par086">
+        <text src="../text/03.xhtml#f0553"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:12:52.680" clipEnd="0:12:59.800"/>
+      </par>
+      <par id="par087">
+        <text src="../text/03.xhtml#f0554"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:12:59.800" clipEnd="0:13:04.840"/>
+      </par>
+      <par id="par088">
+        <text src="../text/03.xhtml#f0555"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:13:04.840" clipEnd="0:13:12.600"/>
+      </par>
+      <par id="par089">
+        <text src="../text/03.xhtml#f0556"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:13:12.600" clipEnd="0:13:25.040"/>
+      </par>
+      <par id="par090">
+        <text src="../text/03.xhtml#f0557"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:13:25.040" clipEnd="0:13:37.720"/>
+      </par>
+      <par id="par091">
+        <text src="../text/03.xhtml#f0558"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:13:37.720" clipEnd="0:13:47.320"/>
+      </par>
+      <par id="par092">
+        <text src="../text/03.xhtml#f0559"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:13:47.320" clipEnd="0:13:54.640"/>
+      </par>
+      <par id="par093">
+        <text src="../text/03.xhtml#f0560"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:13:54.640" clipEnd="0:14:04.120"/>
+      </par>
+      <par id="par094">
+        <text src="../text/03.xhtml#f0561"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:14:04.120" clipEnd="0:14:13.480"/>
+      </par>
+      <par id="par095">
+        <text src="../text/03.xhtml#f0562"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:14:13.480" clipEnd="0:14:20.440"/>
+      </par>
+      <par id="par096">
+        <text src="../text/03.xhtml#f0563"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:14:20.440" clipEnd="0:14:34.480"/>
+      </par>
+      <par id="par097">
+        <text src="../text/03.xhtml#f0564"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:14:34.480" clipEnd="0:14:47.160"/>
+      </par>
+      <par id="par098">
+        <text src="../text/03.xhtml#f0565"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:14:47.160" clipEnd="0:14:52.040"/>
+      </par>
+      <par id="par099">
+        <text src="../text/03.xhtml#f0566"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:14:52.040" clipEnd="0:15:15.760"/>
+      </par>
+      <par id="par100">
+        <text src="../text/03.xhtml#f0567"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:15:15.760" clipEnd="0:15:28.480"/>
+      </par>
+      <par id="par101">
+        <text src="../text/03.xhtml#f0568"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:15:28.480" clipEnd="0:15:38.720"/>
+      </par>
+      <par id="par102">
+        <text src="../text/03.xhtml#f0569"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:15:38.720" clipEnd="0:15:56.280"/>
+      </par>
+      <par id="par103">
+        <text src="../text/03.xhtml#f0570"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:15:56.280" clipEnd="0:16:07.240"/>
+      </par>
+      <par id="par104">
+        <text src="../text/03.xhtml#f0571"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:16:07.240" clipEnd="0:16:12.800"/>
+      </par>
+      <par id="par105">
+        <text src="../text/03.xhtml#f0572"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:16:12.800" clipEnd="0:16:20.960"/>
+      </par>
+      <par id="par106">
+        <text src="../text/03.xhtml#f0573"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:16:20.960" clipEnd="0:16:44.800"/>
+      </par>
+      <par id="par107">
+        <text src="../text/03.xhtml#f0574"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:16:44.800" clipEnd="0:16:57.520"/>
+      </par>
+      <par id="par108">
+        <text src="../text/03.xhtml#f0575"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:16:57.520" clipEnd="0:17:09.240"/>
+      </par>
+      <par id="par109">
+        <text src="../text/03.xhtml#f0576"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:17:09.240" clipEnd="0:17:24.920"/>
+      </par>
+      <par id="par110">
+        <text src="../text/03.xhtml#f0577"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:17:24.920" clipEnd="0:17:29.080"/>
+      </par>
+      <par id="par111">
+        <text src="../text/03.xhtml#f0578"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:17:29.080" clipEnd="0:17:32.960"/>
+      </par>
+      <par id="par112">
+        <text src="../text/03.xhtml#f0579"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:17:32.960" clipEnd="0:17:43.600"/>
+      </par>
+      <par id="par113">
+        <text src="../text/03.xhtml#f0580"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:17:43.600" clipEnd="0:17:58.600"/>
+      </par>
+      <par id="par114">
+        <text src="../text/03.xhtml#f0581"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:17:58.600" clipEnd="0:18:01.160"/>
+      </par>
+      <par id="par115">
+        <text src="../text/03.xhtml#f0582"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:18:01.160" clipEnd="0:18:08.400"/>
+      </par>
+      <par id="par116">
+        <text src="../text/03.xhtml#f0583"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:18:08.400" clipEnd="0:18:16.240"/>
+      </par>
+      <par id="par117">
+        <text src="../text/03.xhtml#f0584"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:18:16.240" clipEnd="0:18:21.920"/>
+      </par>
+      <par id="par118">
+        <text src="../text/03.xhtml#f0585"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:18:21.920" clipEnd="0:18:26.840"/>
+      </par>
+      <par id="par119">
+        <text src="../text/03.xhtml#f0586"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:18:26.840" clipEnd="0:18:29.240"/>
+      </par>
+      <par id="par120">
+        <text src="../text/03.xhtml#f0587"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:18:29.240" clipEnd="0:18:32.600"/>
+      </par>
+      <par id="par121">
+        <text src="../text/03.xhtml#f0588"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:18:32.600" clipEnd="0:18:34.280"/>
+      </par>
+      <par id="par122">
+        <text src="../text/03.xhtml#f0589"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:18:34.280" clipEnd="0:18:37.880"/>
+      </par>
+      <par id="par123">
+        <text src="../text/03.xhtml#f0590"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:18:37.880" clipEnd="0:18:45.160"/>
+      </par>
+      <par id="par124">
+        <text src="../text/03.xhtml#f0591"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:18:45.160" clipEnd="0:18:51.360"/>
+      </par>
+      <par id="par125">
+        <text src="../text/03.xhtml#f0592"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:18:51.360" clipEnd="0:18:58.040"/>
+      </par>
+      <par id="par126">
+        <text src="../text/03.xhtml#f0593"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:18:58.040" clipEnd="0:19:01.400"/>
+      </par>
+      <par id="par127">
+        <text src="../text/03.xhtml#f0594"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:19:01.400" clipEnd="0:19:05.360"/>
+      </par>
+      <par id="par128">
+        <text src="../text/03.xhtml#f0595"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:19:05.360" clipEnd="0:19:15.200"/>
+      </par>
+      <par id="par129">
+        <text src="../text/03.xhtml#f0596"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:19:15.200" clipEnd="0:19:18.680"/>
+      </par>
+      <par id="par130">
+        <text src="../text/03.xhtml#f0597"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:19:18.680" clipEnd="0:19:22.880"/>
+      </par>
+      <par id="par131">
+        <text src="../text/03.xhtml#f0598"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:19:22.880" clipEnd="0:19:26.600"/>
+      </par>
+      <par id="par132">
+        <text src="../text/03.xhtml#f0599"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:19:26.600" clipEnd="0:19:29.040"/>
+      </par>
+      <par id="par133">
+        <text src="../text/03.xhtml#f0600"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:19:29.040" clipEnd="0:19:37.160"/>
+      </par>
+      <par id="par134">
+        <text src="../text/03.xhtml#f0601"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:19:37.160" clipEnd="0:19:41.640"/>
+      </par>
+      <par id="par135">
+        <text src="../text/03.xhtml#f0602"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:19:41.640" clipEnd="0:19:45.520"/>
+      </par>
+      <par id="par136">
+        <text src="../text/03.xhtml#f0603"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:19:45.520" clipEnd="0:19:48.360"/>
+      </par>
+      <par id="par137">
+        <text src="../text/03.xhtml#f0604"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:19:48.360" clipEnd="0:19:55.680"/>
+      </par>
+      <par id="par138">
+        <text src="../text/03.xhtml#f0605"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:19:55.680" clipEnd="0:20:02.800"/>
+      </par>
+      <par id="par139">
+        <text src="../text/03.xhtml#f0606"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:20:02.800" clipEnd="0:20:06.800"/>
+      </par>
+      <par id="par140">
+        <text src="../text/03.xhtml#f0607"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:20:06.800" clipEnd="0:20:09.080"/>
+      </par>
+      <par id="par141">
+        <text src="../text/03.xhtml#f0608"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:20:09.080" clipEnd="0:20:12.280"/>
+      </par>
+      <par id="par142">
+        <text src="../text/03.xhtml#f0609"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:20:12.280" clipEnd="0:20:29.520"/>
+      </par>
+      <par id="par143">
+        <text src="../text/03.xhtml#f0610"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:20:29.520" clipEnd="0:20:38.600"/>
+      </par>
+      <par id="par144">
+        <text src="../text/03.xhtml#f0611"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:20:38.600" clipEnd="0:20:43.480"/>
+      </par>
+      <par id="par145">
+        <text src="../text/03.xhtml#f0612"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:20:43.480" clipEnd="0:20:50.760"/>
+      </par>
+      <par id="par146">
+        <text src="../text/03.xhtml#f0613"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:20:50.760" clipEnd="0:20:53.000"/>
+      </par>
+      <par id="par147">
+        <text src="../text/03.xhtml#f0614"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:20:53.000" clipEnd="0:20:58.440"/>
+      </par>
+      <par id="par148">
+        <text src="../text/03.xhtml#f0615"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:20:58.440" clipEnd="0:21:13.440"/>
+      </par>
+      <par id="par149">
+        <text src="../text/03.xhtml#f0616"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:21:13.440" clipEnd="0:21:32.360"/>
+      </par>
+      <par id="par150">
+        <text src="../text/03.xhtml#f0617"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:21:32.360" clipEnd="0:21:45.520"/>
+      </par>
+      <par id="par151">
+        <text src="../text/03.xhtml#f0618"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:21:45.520" clipEnd="0:21:54.280"/>
+      </par>
+      <par id="par152">
+        <text src="../text/03.xhtml#f0619"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:21:54.280" clipEnd="0:22:06.760"/>
+      </par>
+      <par id="par153">
+        <text src="../text/03.xhtml#f0620"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:22:06.760" clipEnd="0:22:16.520"/>
+      </par>
+      <par id="par154">
+        <text src="../text/03.xhtml#f0621"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:22:16.520" clipEnd="0:22:27.360"/>
+      </par>
+      <par id="par155">
+        <text src="../text/03.xhtml#f0622"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:22:27.360" clipEnd="0:22:42.520"/>
+      </par>
+      <par id="par156">
+        <text src="../text/03.xhtml#f0623"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:22:42.520" clipEnd="0:22:46.080"/>
+      </par>
+      <par id="par157">
+        <text src="../text/03.xhtml#f0624"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:22:46.080" clipEnd="0:22:48.640"/>
+      </par>
+      <par id="par158">
+        <text src="../text/03.xhtml#f0625"/>
+        <audio src="../audio/wrong_box_03_stevenson_64kb.mp3" clipBegin="0:22:48.640" clipEnd="0:23:07.920"/>
+      </par>
+    </seq>
+  </body>
+</smil>
