@@ -1,0 +1,1538 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <seq id="seq1" epub:textref="../text/2.xhtml">
+      <par id="par001">
+        <text src="../text/2.xhtml#f0416"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:00:02.800" clipEnd="0:00:23.240"/>
+      </par>
+      <par id="par002">
+        <text src="../text/2.xhtml#f0417"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:00:23.240" clipEnd="0:00:33.040"/>
+      </par>
+      <par id="par003">
+        <text src="../text/2.xhtml#f0418"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:00:33.040" clipEnd="0:00:41.080"/>
+      </par>
+      <par id="par004">
+        <text src="../text/2.xhtml#f0419"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:00:41.080" clipEnd="0:00:44.040"/>
+      </par>
+      <par id="par005">
+        <text src="../text/2.xhtml#f0420"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:00:44.040" clipEnd="0:00:55.400"/>
+      </par>
+      <par id="par006">
+        <text src="../text/2.xhtml#f0421"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:00:55.400" clipEnd="0:00:56.680"/>
+      </par>
+      <par id="par007">
+        <text src="../text/2.xhtml#f0422"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:00:56.680" clipEnd="0:00:59.160"/>
+      </par>
+      <par id="par008">
+        <text src="../text/2.xhtml#f0423"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:00:59.160" clipEnd="0:01:00.720"/>
+      </par>
+      <par id="par009">
+        <text src="../text/2.xhtml#f0424"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:01:00.720" clipEnd="0:01:03.160"/>
+      </par>
+      <par id="par010">
+        <text src="../text/2.xhtml#f0425"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:01:03.160" clipEnd="0:01:05.000"/>
+      </par>
+      <par id="par011">
+        <text src="../text/2.xhtml#f0426"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:01:05.000" clipEnd="0:01:11.200"/>
+      </par>
+      <par id="par012">
+        <text src="../text/2.xhtml#f0427"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:01:11.200" clipEnd="0:01:16.120"/>
+      </par>
+      <par id="par013">
+        <text src="../text/2.xhtml#f0428"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:01:16.120" clipEnd="0:01:25.040"/>
+      </par>
+      <par id="par014">
+        <text src="../text/2.xhtml#f0429"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:01:25.040" clipEnd="0:01:31.880"/>
+      </par>
+      <par id="par015">
+        <text src="../text/2.xhtml#f0430"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:01:31.880" clipEnd="0:01:38.880"/>
+      </par>
+      <par id="par016">
+        <text src="../text/2.xhtml#f0431"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:01:38.880" clipEnd="0:01:47.240"/>
+      </par>
+      <par id="par017">
+        <text src="../text/2.xhtml#f0432"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:01:47.240" clipEnd="0:02:06.480"/>
+      </par>
+      <par id="par018">
+        <text src="../text/2.xhtml#f0433"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:02:06.480" clipEnd="0:02:12.200"/>
+      </par>
+      <par id="par019">
+        <text src="../text/2.xhtml#f0434"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:02:12.200" clipEnd="0:02:21.880"/>
+      </par>
+      <par id="par020">
+        <text src="../text/2.xhtml#f0435"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:02:21.880" clipEnd="0:02:31.440"/>
+      </par>
+      <par id="par021">
+        <text src="../text/2.xhtml#f0436"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:02:31.440" clipEnd="0:02:40.560"/>
+      </par>
+      <par id="par022">
+        <text src="../text/2.xhtml#f0437"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:02:40.560" clipEnd="0:02:44.400"/>
+      </par>
+      <par id="par023">
+        <text src="../text/2.xhtml#f0438"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:02:44.400" clipEnd="0:03:04.800"/>
+      </par>
+      <par id="par024">
+        <text src="../text/2.xhtml#f0439"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:03:04.800" clipEnd="0:03:16.920"/>
+      </par>
+      <par id="par025">
+        <text src="../text/2.xhtml#f0440"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:03:16.920" clipEnd="0:03:30.520"/>
+      </par>
+      <par id="par026">
+        <text src="../text/2.xhtml#f0441"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:03:30.520" clipEnd="0:03:39.280"/>
+      </par>
+      <par id="par027">
+        <text src="../text/2.xhtml#f0442"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:03:39.280" clipEnd="0:03:43.920"/>
+      </par>
+      <par id="par028">
+        <text src="../text/2.xhtml#f0443"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:03:43.920" clipEnd="0:03:46.040"/>
+      </par>
+      <par id="par029">
+        <text src="../text/2.xhtml#f0444"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:03:46.040" clipEnd="0:03:49.480"/>
+      </par>
+      <par id="par030">
+        <text src="../text/2.xhtml#f0445"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:03:49.480" clipEnd="0:03:51.360"/>
+      </par>
+      <par id="par031">
+        <text src="../text/2.xhtml#f0446"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:03:51.360" clipEnd="0:03:54.080"/>
+      </par>
+      <par id="par032">
+        <text src="../text/2.xhtml#f0447"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:03:54.080" clipEnd="0:03:55.840"/>
+      </par>
+      <par id="par033">
+        <text src="../text/2.xhtml#f0448"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:03:55.840" clipEnd="0:03:58.920"/>
+      </par>
+      <par id="par034">
+        <text src="../text/2.xhtml#f0449"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:03:58.920" clipEnd="0:04:01.120"/>
+      </par>
+      <par id="par035">
+        <text src="../text/2.xhtml#f0450"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:04:01.120" clipEnd="0:04:07.600"/>
+      </par>
+      <par id="par036">
+        <text src="../text/2.xhtml#f0451"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:04:07.600" clipEnd="0:04:16.880"/>
+      </par>
+      <par id="par037">
+        <text src="../text/2.xhtml#f0452"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:04:16.880" clipEnd="0:04:23.680"/>
+      </par>
+      <par id="par038">
+        <text src="../text/2.xhtml#f0453"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:04:23.680" clipEnd="0:04:29.400"/>
+      </par>
+      <par id="par039">
+        <text src="../text/2.xhtml#f0454"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:04:29.400" clipEnd="0:04:36.400"/>
+      </par>
+      <par id="par040">
+        <text src="../text/2.xhtml#f0455"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:04:36.400" clipEnd="0:04:56.800"/>
+      </par>
+      <par id="par041">
+        <text src="../text/2.xhtml#f0456"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:04:56.800" clipEnd="0:05:15.680"/>
+      </par>
+      <par id="par042">
+        <text src="../text/2.xhtml#f0457"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:05:15.680" clipEnd="0:05:28.640"/>
+      </par>
+      <par id="par043">
+        <text src="../text/2.xhtml#f0458"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:05:28.640" clipEnd="0:05:37.080"/>
+      </par>
+      <par id="par044">
+        <text src="../text/2.xhtml#f0459"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:05:37.080" clipEnd="0:05:44.200"/>
+      </par>
+      <par id="par045">
+        <text src="../text/2.xhtml#f0460"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:05:44.200" clipEnd="0:05:53.480"/>
+      </par>
+      <par id="par046">
+        <text src="../text/2.xhtml#f0461"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:05:53.480" clipEnd="0:06:04.120"/>
+      </par>
+      <par id="par047">
+        <text src="../text/2.xhtml#f0462"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:06:04.120" clipEnd="0:06:26.400"/>
+      </par>
+      <par id="par048">
+        <text src="../text/2.xhtml#f0463"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:06:26.400" clipEnd="0:06:33.600"/>
+      </par>
+      <par id="par049">
+        <text src="../text/2.xhtml#f0464"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:06:33.600" clipEnd="0:07:04.200"/>
+      </par>
+      <par id="par050">
+        <text src="../text/2.xhtml#f0465"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:07:04.200" clipEnd="0:07:12.960"/>
+      </par>
+      <par id="par051">
+        <text src="../text/2.xhtml#f0466"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:07:12.960" clipEnd="0:07:20.720"/>
+      </par>
+      <par id="par052">
+        <text src="../text/2.xhtml#f0467"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:07:20.720" clipEnd="0:07:22.920"/>
+      </par>
+      <par id="par053">
+        <text src="../text/2.xhtml#f0468"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:07:22.920" clipEnd="0:07:25.520"/>
+      </par>
+      <par id="par054">
+        <text src="../text/2.xhtml#f0469"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:07:25.520" clipEnd="0:07:32.520"/>
+      </par>
+      <par id="par055">
+        <text src="../text/2.xhtml#f0470"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:07:32.520" clipEnd="0:07:38.160"/>
+      </par>
+      <par id="par056">
+        <text src="../text/2.xhtml#f0471"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:07:38.160" clipEnd="0:07:42.640"/>
+      </par>
+      <par id="par057">
+        <text src="../text/2.xhtml#f0472"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:07:42.640" clipEnd="0:07:49.680"/>
+      </par>
+      <par id="par058">
+        <text src="../text/2.xhtml#f0473"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:07:49.680" clipEnd="0:07:50.760"/>
+      </par>
+      <par id="par059">
+        <text src="../text/2.xhtml#f0474"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:07:50.760" clipEnd="0:07:53.800"/>
+      </par>
+      <par id="par060">
+        <text src="../text/2.xhtml#f0475"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:07:53.800" clipEnd="0:08:06.960"/>
+      </par>
+      <par id="par061">
+        <text src="../text/2.xhtml#f0476"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:08:06.960" clipEnd="0:08:14.760"/>
+      </par>
+      <par id="par062">
+        <text src="../text/2.xhtml#f0477"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:08:14.760" clipEnd="0:08:27.640"/>
+      </par>
+      <par id="par063">
+        <text src="../text/2.xhtml#f0478"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:08:27.640" clipEnd="0:08:36.840"/>
+      </par>
+      <par id="par064">
+        <text src="../text/2.xhtml#f0479"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:08:36.840" clipEnd="0:08:42.600"/>
+      </par>
+      <par id="par065">
+        <text src="../text/2.xhtml#f0480"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:08:42.600" clipEnd="0:08:47.040"/>
+      </par>
+      <par id="par066">
+        <text src="../text/2.xhtml#f0481"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:08:47.040" clipEnd="0:08:56.240"/>
+      </par>
+      <par id="par067">
+        <text src="../text/2.xhtml#f0482"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:08:56.240" clipEnd="0:09:01.000"/>
+      </par>
+      <par id="par068">
+        <text src="../text/2.xhtml#f0483"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:09:01.000" clipEnd="0:09:03.960"/>
+      </par>
+      <par id="par069">
+        <text src="../text/2.xhtml#f0484"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:09:03.960" clipEnd="0:09:06.880"/>
+      </par>
+      <par id="par070">
+        <text src="../text/2.xhtml#f0485"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:09:06.880" clipEnd="0:09:13.360"/>
+      </par>
+      <par id="par071">
+        <text src="../text/2.xhtml#f0486"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:09:13.360" clipEnd="0:09:14.600"/>
+      </par>
+      <par id="par072">
+        <text src="../text/2.xhtml#f0487"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:09:14.600" clipEnd="0:09:17.280"/>
+      </par>
+      <par id="par073">
+        <text src="../text/2.xhtml#f0488"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:09:17.280" clipEnd="0:09:37.760"/>
+      </par>
+      <par id="par074">
+        <text src="../text/2.xhtml#f0489"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:09:37.760" clipEnd="0:09:43.600"/>
+      </par>
+      <par id="par075">
+        <text src="../text/2.xhtml#f0490"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:09:43.600" clipEnd="0:09:50.560"/>
+      </par>
+      <par id="par076">
+        <text src="../text/2.xhtml#f0491"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:09:50.560" clipEnd="0:09:56.360"/>
+      </par>
+      <par id="par077">
+        <text src="../text/2.xhtml#f0492"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:09:56.360" clipEnd="0:10:07.120"/>
+      </par>
+      <par id="par078">
+        <text src="../text/2.xhtml#f0493"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:10:07.120" clipEnd="0:10:16.680"/>
+      </par>
+      <par id="par079">
+        <text src="../text/2.xhtml#f0494"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:10:16.680" clipEnd="0:10:19.160"/>
+      </par>
+      <par id="par080">
+        <text src="../text/2.xhtml#f0495"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:10:19.160" clipEnd="0:10:22.320"/>
+      </par>
+      <par id="par081">
+        <text src="../text/2.xhtml#f0496"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:10:22.320" clipEnd="0:10:30.840"/>
+      </par>
+      <par id="par082">
+        <text src="../text/2.xhtml#f0497"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:10:30.840" clipEnd="0:10:36.560"/>
+      </par>
+      <par id="par083">
+        <text src="../text/2.xhtml#f0498"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:10:36.560" clipEnd="0:10:39.960"/>
+      </par>
+      <par id="par084">
+        <text src="../text/2.xhtml#f0499"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:10:39.960" clipEnd="0:10:42.720"/>
+      </par>
+      <par id="par085">
+        <text src="../text/2.xhtml#f0500"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:10:42.720" clipEnd="0:10:45.640"/>
+      </par>
+      <par id="par086">
+        <text src="../text/2.xhtml#f0501"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:10:45.640" clipEnd="0:10:53.760"/>
+      </par>
+      <par id="par087">
+        <text src="../text/2.xhtml#f0502"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:10:53.760" clipEnd="0:11:06.240"/>
+      </par>
+      <par id="par088">
+        <text src="../text/2.xhtml#f0503"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:11:06.240" clipEnd="0:11:10.120"/>
+      </par>
+      <par id="par089">
+        <text src="../text/2.xhtml#f0504"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:11:10.120" clipEnd="0:11:13.440"/>
+      </par>
+      <par id="par090">
+        <text src="../text/2.xhtml#f0505"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:11:13.440" clipEnd="0:11:24.000"/>
+      </par>
+      <par id="par091">
+        <text src="../text/2.xhtml#f0506"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:11:24.000" clipEnd="0:11:27.600"/>
+      </par>
+      <par id="par092">
+        <text src="../text/2.xhtml#f0507"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:11:27.600" clipEnd="0:11:33.760"/>
+      </par>
+      <par id="par093">
+        <text src="../text/2.xhtml#f0508"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:11:33.760" clipEnd="0:11:38.920"/>
+      </par>
+      <par id="par094">
+        <text src="../text/2.xhtml#f0509"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:11:38.920" clipEnd="0:11:42.640"/>
+      </par>
+      <par id="par095">
+        <text src="../text/2.xhtml#f0510"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:11:42.640" clipEnd="0:11:56.280"/>
+      </par>
+      <par id="par096">
+        <text src="../text/2.xhtml#f0511"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:11:56.280" clipEnd="0:12:06.640"/>
+      </par>
+      <par id="par097">
+        <text src="../text/2.xhtml#f0512"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:12:06.640" clipEnd="0:12:18.200"/>
+      </par>
+      <par id="par098">
+        <text src="../text/2.xhtml#f0513"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:12:18.200" clipEnd="0:12:23.120"/>
+      </par>
+      <par id="par099">
+        <text src="../text/2.xhtml#f0514"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:12:23.120" clipEnd="0:12:27.160"/>
+      </par>
+      <par id="par100">
+        <text src="../text/2.xhtml#f0515"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:12:27.160" clipEnd="0:12:34.760"/>
+      </par>
+      <par id="par101">
+        <text src="../text/2.xhtml#f0516"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:12:34.760" clipEnd="0:12:38.840"/>
+      </par>
+      <par id="par102">
+        <text src="../text/2.xhtml#f0517"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:12:38.840" clipEnd="0:12:44.200"/>
+      </par>
+      <par id="par103">
+        <text src="../text/2.xhtml#f0518"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:12:44.200" clipEnd="0:12:54.840"/>
+      </par>
+      <par id="par104">
+        <text src="../text/2.xhtml#f0519"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:12:54.840" clipEnd="0:12:58.600"/>
+      </par>
+      <par id="par105">
+        <text src="../text/2.xhtml#f0520"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:12:58.600" clipEnd="0:13:01.200"/>
+      </par>
+      <par id="par106">
+        <text src="../text/2.xhtml#f0521"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:13:01.200" clipEnd="0:13:07.280"/>
+      </par>
+      <par id="par107">
+        <text src="../text/2.xhtml#f0522"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:13:07.280" clipEnd="0:13:11.600"/>
+      </par>
+      <par id="par108">
+        <text src="../text/2.xhtml#f0523"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:13:11.600" clipEnd="0:13:19.120"/>
+      </par>
+      <par id="par109">
+        <text src="../text/2.xhtml#f0524"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:13:19.120" clipEnd="0:13:22.600"/>
+      </par>
+      <par id="par110">
+        <text src="../text/2.xhtml#f0525"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:13:22.600" clipEnd="0:13:25.560"/>
+      </par>
+      <par id="par111">
+        <text src="../text/2.xhtml#f0526"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:13:25.560" clipEnd="0:13:38.360"/>
+      </par>
+      <par id="par112">
+        <text src="../text/2.xhtml#f0527"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:13:38.360" clipEnd="0:13:52.200"/>
+      </par>
+      <par id="par113">
+        <text src="../text/2.xhtml#f0528"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:13:52.200" clipEnd="0:13:59.520"/>
+      </par>
+      <par id="par114">
+        <text src="../text/2.xhtml#f0529"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:13:59.520" clipEnd="0:14:14.480"/>
+      </par>
+      <par id="par115">
+        <text src="../text/2.xhtml#f0530"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:14:14.480" clipEnd="0:14:26.840"/>
+      </par>
+      <par id="par116">
+        <text src="../text/2.xhtml#f0531"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:14:26.840" clipEnd="0:14:33.840"/>
+      </par>
+      <par id="par117">
+        <text src="../text/2.xhtml#f0532"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:14:33.840" clipEnd="0:14:45.240"/>
+      </par>
+      <par id="par118">
+        <text src="../text/2.xhtml#f0533"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:14:45.240" clipEnd="0:14:59.680"/>
+      </par>
+      <par id="par119">
+        <text src="../text/2.xhtml#f0534"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:14:59.680" clipEnd="0:15:31.240"/>
+      </par>
+      <par id="par120">
+        <text src="../text/2.xhtml#f0535"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:15:31.240" clipEnd="0:15:38.600"/>
+      </par>
+      <par id="par121">
+        <text src="../text/2.xhtml#f0536"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:15:38.600" clipEnd="0:15:53.080"/>
+      </par>
+      <par id="par122">
+        <text src="../text/2.xhtml#f0537"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:15:53.080" clipEnd="0:15:58.000"/>
+      </par>
+      <par id="par123">
+        <text src="../text/2.xhtml#f0538"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:15:58.000" clipEnd="0:16:01.640"/>
+      </par>
+      <par id="par124">
+        <text src="../text/2.xhtml#f0539"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:16:01.640" clipEnd="0:16:04.800"/>
+      </par>
+      <par id="par125">
+        <text src="../text/2.xhtml#f0540"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:16:04.800" clipEnd="0:16:13.360"/>
+      </par>
+      <par id="par126">
+        <text src="../text/2.xhtml#f0541"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:16:13.360" clipEnd="0:16:14.840"/>
+      </par>
+      <par id="par127">
+        <text src="../text/2.xhtml#f0542"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:16:14.840" clipEnd="0:16:22.120"/>
+      </par>
+      <par id="par128">
+        <text src="../text/2.xhtml#f0543"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:16:22.120" clipEnd="0:16:30.040"/>
+      </par>
+      <par id="par129">
+        <text src="../text/2.xhtml#f0544"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:16:30.040" clipEnd="0:16:37.440"/>
+      </par>
+      <par id="par130">
+        <text src="../text/2.xhtml#f0545"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:16:37.440" clipEnd="0:16:38.840"/>
+      </par>
+      <par id="par131">
+        <text src="../text/2.xhtml#f0546"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:16:38.840" clipEnd="0:16:40.520"/>
+      </par>
+      <par id="par132">
+        <text src="../text/2.xhtml#f0547"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:16:40.520" clipEnd="0:16:45.520"/>
+      </par>
+      <par id="par133">
+        <text src="../text/2.xhtml#f0548"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:16:45.520" clipEnd="0:17:03.480"/>
+      </par>
+      <par id="par134">
+        <text src="../text/2.xhtml#f0549"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:17:03.480" clipEnd="0:17:06.360"/>
+      </par>
+      <par id="par135">
+        <text src="../text/2.xhtml#f0550"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:17:06.360" clipEnd="0:17:14.840"/>
+      </par>
+      <par id="par136">
+        <text src="../text/2.xhtml#f0551"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:17:14.840" clipEnd="0:17:19.880"/>
+      </par>
+      <par id="par137">
+        <text src="../text/2.xhtml#f0552"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:17:19.880" clipEnd="0:17:29.160"/>
+      </par>
+      <par id="par138">
+        <text src="../text/2.xhtml#f0553"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:17:29.160" clipEnd="0:17:32.120"/>
+      </par>
+      <par id="par139">
+        <text src="../text/2.xhtml#f0554"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:17:32.120" clipEnd="0:17:36.080"/>
+      </par>
+      <par id="par140">
+        <text src="../text/2.xhtml#f0555"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:17:36.080" clipEnd="0:17:36.760"/>
+      </par>
+      <par id="par141">
+        <text src="../text/2.xhtml#f0556"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:17:36.760" clipEnd="0:17:37.560"/>
+      </par>
+      <par id="par142">
+        <text src="../text/2.xhtml#f0557"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:17:37.560" clipEnd="0:17:40.800"/>
+      </par>
+      <par id="par143">
+        <text src="../text/2.xhtml#f0558"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:17:40.800" clipEnd="0:17:55.160"/>
+      </par>
+      <par id="par144">
+        <text src="../text/2.xhtml#f0559"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:17:55.160" clipEnd="0:18:08.200"/>
+      </par>
+      <par id="par145">
+        <text src="../text/2.xhtml#f0560"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:18:08.200" clipEnd="0:18:11.720"/>
+      </par>
+      <par id="par146">
+        <text src="../text/2.xhtml#f0561"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:18:11.720" clipEnd="0:18:13.640"/>
+      </par>
+      <par id="par147">
+        <text src="../text/2.xhtml#f0562"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:18:13.640" clipEnd="0:18:15.240"/>
+      </par>
+      <par id="par148">
+        <text src="../text/2.xhtml#f0563"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:18:15.240" clipEnd="0:18:19.920"/>
+      </par>
+      <par id="par149">
+        <text src="../text/2.xhtml#f0564"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:18:19.920" clipEnd="0:18:25.920"/>
+      </par>
+      <par id="par150">
+        <text src="../text/2.xhtml#f0565"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:18:25.920" clipEnd="0:18:35.600"/>
+      </par>
+      <par id="par151">
+        <text src="../text/2.xhtml#f0566"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:18:35.600" clipEnd="0:18:42.920"/>
+      </par>
+      <par id="par152">
+        <text src="../text/2.xhtml#f0567"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:18:42.920" clipEnd="0:18:56.800"/>
+      </par>
+      <par id="par153">
+        <text src="../text/2.xhtml#f0568"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:18:56.800" clipEnd="0:19:10.320"/>
+      </par>
+      <par id="par154">
+        <text src="../text/2.xhtml#f0569"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:19:10.320" clipEnd="0:19:15.920"/>
+      </par>
+      <par id="par155">
+        <text src="../text/2.xhtml#f0570"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:19:15.920" clipEnd="0:19:24.240"/>
+      </par>
+      <par id="par156">
+        <text src="../text/2.xhtml#f0571"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:19:24.240" clipEnd="0:19:38.160"/>
+      </par>
+      <par id="par157">
+        <text src="../text/2.xhtml#f0572"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:19:38.160" clipEnd="0:19:45.760"/>
+      </par>
+      <par id="par158">
+        <text src="../text/2.xhtml#f0573"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:19:45.760" clipEnd="0:19:50.920"/>
+      </par>
+      <par id="par159">
+        <text src="../text/2.xhtml#f0574"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:19:50.920" clipEnd="0:19:54.760"/>
+      </par>
+      <par id="par160">
+        <text src="../text/2.xhtml#f0575"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:19:54.760" clipEnd="0:19:58.240"/>
+      </par>
+      <par id="par161">
+        <text src="../text/2.xhtml#f0576"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:19:58.240" clipEnd="0:20:00.560"/>
+      </par>
+      <par id="par162">
+        <text src="../text/2.xhtml#f0577"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:20:00.560" clipEnd="0:20:03.760"/>
+      </par>
+      <par id="par163">
+        <text src="../text/2.xhtml#f0578"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:20:03.760" clipEnd="0:20:09.000"/>
+      </par>
+      <par id="par164">
+        <text src="../text/2.xhtml#f0579"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:20:09.000" clipEnd="0:20:24.480"/>
+      </par>
+      <par id="par165">
+        <text src="../text/2.xhtml#f0580"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:20:24.480" clipEnd="0:20:40.480"/>
+      </par>
+      <par id="par166">
+        <text src="../text/2.xhtml#f0581"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:20:40.480" clipEnd="0:20:45.320"/>
+      </par>
+      <par id="par167">
+        <text src="../text/2.xhtml#f0582"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:20:45.320" clipEnd="0:20:54.800"/>
+      </par>
+      <par id="par168">
+        <text src="../text/2.xhtml#f0583"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:20:54.800" clipEnd="0:21:04.560"/>
+      </par>
+      <par id="par169">
+        <text src="../text/2.xhtml#f0584"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:21:04.560" clipEnd="0:21:25.120"/>
+      </par>
+      <par id="par170">
+        <text src="../text/2.xhtml#f0585"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:21:25.120" clipEnd="0:21:40.400"/>
+      </par>
+      <par id="par171">
+        <text src="../text/2.xhtml#f0586"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:21:40.400" clipEnd="0:22:06.920"/>
+      </par>
+      <par id="par172">
+        <text src="../text/2.xhtml#f0587"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:22:06.920" clipEnd="0:22:28.120"/>
+      </par>
+      <par id="par173">
+        <text src="../text/2.xhtml#f0588"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:22:28.120" clipEnd="0:22:34.360"/>
+      </par>
+      <par id="par174">
+        <text src="../text/2.xhtml#f0589"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:22:34.360" clipEnd="0:22:37.960"/>
+      </par>
+      <par id="par175">
+        <text src="../text/2.xhtml#f0590"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:22:37.960" clipEnd="0:22:41.040"/>
+      </par>
+      <par id="par176">
+        <text src="../text/2.xhtml#f0591"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:22:41.040" clipEnd="0:22:42.280"/>
+      </par>
+      <par id="par177">
+        <text src="../text/2.xhtml#f0592"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:22:42.280" clipEnd="0:22:44.680"/>
+      </par>
+      <par id="par178">
+        <text src="../text/2.xhtml#f0593"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:22:44.680" clipEnd="0:22:46.400"/>
+      </par>
+      <par id="par179">
+        <text src="../text/2.xhtml#f0594"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:22:46.400" clipEnd="0:22:53.640"/>
+      </par>
+      <par id="par180">
+        <text src="../text/2.xhtml#f0595"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:22:53.640" clipEnd="0:22:56.640"/>
+      </par>
+      <par id="par181">
+        <text src="../text/2.xhtml#f0596"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:22:56.640" clipEnd="0:22:59.040"/>
+      </par>
+      <par id="par182">
+        <text src="../text/2.xhtml#f0597"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:22:59.040" clipEnd="0:23:01.600"/>
+      </par>
+      <par id="par183">
+        <text src="../text/2.xhtml#f0598"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:23:01.600" clipEnd="0:23:08.920"/>
+      </par>
+      <par id="par184">
+        <text src="../text/2.xhtml#f0599"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:23:08.920" clipEnd="0:23:26.960"/>
+      </par>
+      <par id="par185">
+        <text src="../text/2.xhtml#f0600"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:23:26.960" clipEnd="0:23:37.880"/>
+      </par>
+      <par id="par186">
+        <text src="../text/2.xhtml#f0601"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:23:37.880" clipEnd="0:23:43.520"/>
+      </par>
+      <par id="par187">
+        <text src="../text/2.xhtml#f0602"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:23:43.520" clipEnd="0:23:45.920"/>
+      </par>
+      <par id="par188">
+        <text src="../text/2.xhtml#f0603"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:23:45.920" clipEnd="0:23:49.400"/>
+      </par>
+      <par id="par189">
+        <text src="../text/2.xhtml#f0604"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:23:49.400" clipEnd="0:23:50.960"/>
+      </par>
+      <par id="par190">
+        <text src="../text/2.xhtml#f0605"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:23:50.960" clipEnd="0:24:03.240"/>
+      </par>
+      <par id="par191">
+        <text src="../text/2.xhtml#f0606"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:24:03.240" clipEnd="0:24:07.040"/>
+      </par>
+      <par id="par192">
+        <text src="../text/2.xhtml#f0607"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:24:07.040" clipEnd="0:24:12.200"/>
+      </par>
+      <par id="par193">
+        <text src="../text/2.xhtml#f0608"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:24:12.200" clipEnd="0:24:19.080"/>
+      </par>
+      <par id="par194">
+        <text src="../text/2.xhtml#f0609"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:24:19.080" clipEnd="0:24:32.400"/>
+      </par>
+      <par id="par195">
+        <text src="../text/2.xhtml#f0610"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:24:32.400" clipEnd="0:24:34.240"/>
+      </par>
+      <par id="par196">
+        <text src="../text/2.xhtml#f0611"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:24:34.240" clipEnd="0:24:35.360"/>
+      </par>
+      <par id="par197">
+        <text src="../text/2.xhtml#f0612"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:24:35.360" clipEnd="0:24:36.960"/>
+      </par>
+      <par id="par198">
+        <text src="../text/2.xhtml#f0613"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:24:36.960" clipEnd="0:24:45.080"/>
+      </par>
+      <par id="par199">
+        <text src="../text/2.xhtml#f0614"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:24:45.080" clipEnd="0:24:49.120"/>
+      </par>
+      <par id="par200">
+        <text src="../text/2.xhtml#f0615"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:24:49.120" clipEnd="0:24:51.160"/>
+      </par>
+      <par id="par201">
+        <text src="../text/2.xhtml#f0616"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:24:51.160" clipEnd="0:24:52.520"/>
+      </par>
+      <par id="par202">
+        <text src="../text/2.xhtml#f0617"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:24:52.520" clipEnd="0:24:55.480"/>
+      </par>
+      <par id="par203">
+        <text src="../text/2.xhtml#f0618"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:24:55.480" clipEnd="0:24:56.640"/>
+      </par>
+      <par id="par204">
+        <text src="../text/2.xhtml#f0619"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:24:56.640" clipEnd="0:24:59.400"/>
+      </par>
+      <par id="par205">
+        <text src="../text/2.xhtml#f0620"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:24:59.400" clipEnd="0:25:02.520"/>
+      </par>
+      <par id="par206">
+        <text src="../text/2.xhtml#f0621"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:25:02.520" clipEnd="0:25:04.600"/>
+      </par>
+      <par id="par207">
+        <text src="../text/2.xhtml#f0622"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:25:04.600" clipEnd="0:25:06.320"/>
+      </par>
+      <par id="par208">
+        <text src="../text/2.xhtml#f0623"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:25:06.320" clipEnd="0:25:08.320"/>
+      </par>
+      <par id="par209">
+        <text src="../text/2.xhtml#f0624"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:25:08.320" clipEnd="0:25:17.800"/>
+      </par>
+      <par id="par210">
+        <text src="../text/2.xhtml#f0625"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:25:17.800" clipEnd="0:25:21.680"/>
+      </par>
+      <par id="par211">
+        <text src="../text/2.xhtml#f0626"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:25:21.680" clipEnd="0:25:37.520"/>
+      </par>
+      <par id="par212">
+        <text src="../text/2.xhtml#f0627"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:25:37.520" clipEnd="0:25:44.480"/>
+      </par>
+      <par id="par213">
+        <text src="../text/2.xhtml#f0628"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:25:44.480" clipEnd="0:25:48.360"/>
+      </par>
+      <par id="par214">
+        <text src="../text/2.xhtml#f0629"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:25:48.360" clipEnd="0:25:50.240"/>
+      </par>
+      <par id="par215">
+        <text src="../text/2.xhtml#f0630"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:25:50.240" clipEnd="0:25:53.120"/>
+      </par>
+      <par id="par216">
+        <text src="../text/2.xhtml#f0631"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:25:53.120" clipEnd="0:25:55.200"/>
+      </par>
+      <par id="par217">
+        <text src="../text/2.xhtml#f0632"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:25:55.200" clipEnd="0:26:02.320"/>
+      </par>
+      <par id="par218">
+        <text src="../text/2.xhtml#f0633"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:26:02.320" clipEnd="0:26:04.440"/>
+      </par>
+      <par id="par219">
+        <text src="../text/2.xhtml#f0634"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:26:04.440" clipEnd="0:26:25.520"/>
+      </par>
+      <par id="par220">
+        <text src="../text/2.xhtml#f0635"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:26:25.520" clipEnd="0:26:35.000"/>
+      </par>
+      <par id="par221">
+        <text src="../text/2.xhtml#f0636"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:26:35.000" clipEnd="0:26:36.040"/>
+      </par>
+      <par id="par222">
+        <text src="../text/2.xhtml#f0637"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:26:36.040" clipEnd="0:26:39.920"/>
+      </par>
+      <par id="par223">
+        <text src="../text/2.xhtml#f0638"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:26:39.920" clipEnd="0:26:44.280"/>
+      </par>
+      <par id="par224">
+        <text src="../text/2.xhtml#f0639"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:26:44.280" clipEnd="0:26:47.800"/>
+      </par>
+      <par id="par225">
+        <text src="../text/2.xhtml#f0640"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:26:47.800" clipEnd="0:26:51.880"/>
+      </par>
+      <par id="par226">
+        <text src="../text/2.xhtml#f0641"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:26:51.880" clipEnd="0:26:55.240"/>
+      </par>
+      <par id="par227">
+        <text src="../text/2.xhtml#f0642"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:26:55.240" clipEnd="0:26:59.520"/>
+      </par>
+      <par id="par228">
+        <text src="../text/2.xhtml#f0643"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:26:59.520" clipEnd="0:27:13.960"/>
+      </par>
+      <par id="par229">
+        <text src="../text/2.xhtml#f0644"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:27:13.960" clipEnd="0:27:29.080"/>
+      </par>
+      <par id="par230">
+        <text src="../text/2.xhtml#f0645"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:27:29.080" clipEnd="0:27:54.040"/>
+      </par>
+      <par id="par231">
+        <text src="../text/2.xhtml#f0646"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:27:54.040" clipEnd="0:28:10.040"/>
+      </par>
+      <par id="par232">
+        <text src="../text/2.xhtml#f0647"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:28:10.040" clipEnd="0:28:28.960"/>
+      </par>
+      <par id="par233">
+        <text src="../text/2.xhtml#f0648"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:28:28.960" clipEnd="0:28:44.480"/>
+      </par>
+      <par id="par234">
+        <text src="../text/2.xhtml#f0649"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:28:44.480" clipEnd="0:28:52.200"/>
+      </par>
+      <par id="par235">
+        <text src="../text/2.xhtml#f0650"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:28:52.200" clipEnd="0:29:03.240"/>
+      </par>
+      <par id="par236">
+        <text src="../text/2.xhtml#f0651"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:29:03.240" clipEnd="0:29:04.400"/>
+      </par>
+      <par id="par237">
+        <text src="../text/2.xhtml#f0652"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:29:04.400" clipEnd="0:29:17.800"/>
+      </par>
+      <par id="par238">
+        <text src="../text/2.xhtml#f0653"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:29:17.800" clipEnd="0:29:25.560"/>
+      </par>
+      <par id="par239">
+        <text src="../text/2.xhtml#f0654"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:29:25.560" clipEnd="0:29:26.960"/>
+      </par>
+      <par id="par240">
+        <text src="../text/2.xhtml#f0655"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:29:26.960" clipEnd="0:29:32.920"/>
+      </par>
+      <par id="par241">
+        <text src="../text/2.xhtml#f0656"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:29:32.920" clipEnd="0:29:37.560"/>
+      </par>
+      <par id="par242">
+        <text src="../text/2.xhtml#f0657"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:29:37.560" clipEnd="0:29:41.640"/>
+      </par>
+      <par id="par243">
+        <text src="../text/2.xhtml#f0658"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:29:41.640" clipEnd="0:29:45.840"/>
+      </par>
+      <par id="par244">
+        <text src="../text/2.xhtml#f0659"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:29:45.840" clipEnd="0:29:50.920"/>
+      </par>
+      <par id="par245">
+        <text src="../text/2.xhtml#f0660"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:29:50.920" clipEnd="0:29:53.120"/>
+      </par>
+      <par id="par246">
+        <text src="../text/2.xhtml#f0661"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:29:53.120" clipEnd="0:30:15.000"/>
+      </par>
+      <par id="par247">
+        <text src="../text/2.xhtml#f0662"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:30:15.000" clipEnd="0:30:19.160"/>
+      </par>
+      <par id="par248">
+        <text src="../text/2.xhtml#f0663"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:30:19.160" clipEnd="0:30:19.440"/>
+      </par>
+      <par id="par249">
+        <text src="../text/2.xhtml#f0664"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:30:19.440" clipEnd="0:30:19.920"/>
+      </par>
+      <par id="par250">
+        <text src="../text/2.xhtml#f0665"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:30:19.920" clipEnd="0:30:32.240"/>
+      </par>
+      <par id="par251">
+        <text src="../text/2.xhtml#f0666"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:30:32.240" clipEnd="0:30:46.240"/>
+      </par>
+      <par id="par252">
+        <text src="../text/2.xhtml#f0667"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:30:46.240" clipEnd="0:30:51.480"/>
+      </par>
+      <par id="par253">
+        <text src="../text/2.xhtml#f0668"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:30:51.480" clipEnd="0:30:56.000"/>
+      </par>
+      <par id="par254">
+        <text src="../text/2.xhtml#f0669"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:30:56.000" clipEnd="0:31:03.680"/>
+      </par>
+      <par id="par255">
+        <text src="../text/2.xhtml#f0670"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:31:03.680" clipEnd="0:31:18.760"/>
+      </par>
+      <par id="par256">
+        <text src="../text/2.xhtml#f0671"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:31:18.760" clipEnd="0:31:25.080"/>
+      </par>
+      <par id="par257">
+        <text src="../text/2.xhtml#f0672"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:31:25.080" clipEnd="0:31:28.840"/>
+      </par>
+      <par id="par258">
+        <text src="../text/2.xhtml#f0673"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:31:28.840" clipEnd="0:31:38.800"/>
+      </par>
+      <par id="par259">
+        <text src="../text/2.xhtml#f0674"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:31:38.800" clipEnd="0:31:40.400"/>
+      </par>
+      <par id="par260">
+        <text src="../text/2.xhtml#f0675"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:31:40.400" clipEnd="0:31:41.760"/>
+      </par>
+      <par id="par261">
+        <text src="../text/2.xhtml#f0676"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:31:41.760" clipEnd="0:31:47.640"/>
+      </par>
+      <par id="par262">
+        <text src="../text/2.xhtml#f0677"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:31:47.640" clipEnd="0:31:51.400"/>
+      </par>
+      <par id="par263">
+        <text src="../text/2.xhtml#f0678"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:31:51.400" clipEnd="0:31:59.720"/>
+      </par>
+      <par id="par264">
+        <text src="../text/2.xhtml#f0679"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:31:59.720" clipEnd="0:32:01.360"/>
+      </par>
+      <par id="par265">
+        <text src="../text/2.xhtml#f0680"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:32:01.360" clipEnd="0:32:10.560"/>
+      </par>
+      <par id="par266">
+        <text src="../text/2.xhtml#f0681"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:32:10.560" clipEnd="0:32:19.480"/>
+      </par>
+      <par id="par267">
+        <text src="../text/2.xhtml#f0682"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:32:19.480" clipEnd="0:32:25.480"/>
+      </par>
+      <par id="par268">
+        <text src="../text/2.xhtml#f0683"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:32:25.480" clipEnd="0:32:29.320"/>
+      </par>
+      <par id="par269">
+        <text src="../text/2.xhtml#f0684"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:32:29.320" clipEnd="0:32:32.960"/>
+      </par>
+      <par id="par270">
+        <text src="../text/2.xhtml#f0685"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:32:32.960" clipEnd="0:32:36.240"/>
+      </par>
+      <par id="par271">
+        <text src="../text/2.xhtml#f0686"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:32:36.240" clipEnd="0:32:40.560"/>
+      </par>
+      <par id="par272">
+        <text src="../text/2.xhtml#f0687"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:32:40.560" clipEnd="0:32:44.520"/>
+      </par>
+      <par id="par273">
+        <text src="../text/2.xhtml#f0688"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:32:44.520" clipEnd="0:32:50.200"/>
+      </par>
+      <par id="par274">
+        <text src="../text/2.xhtml#f0689"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:32:50.200" clipEnd="0:32:53.240"/>
+      </par>
+      <par id="par275">
+        <text src="../text/2.xhtml#f0690"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:32:53.240" clipEnd="0:33:02.920"/>
+      </par>
+      <par id="par276">
+        <text src="../text/2.xhtml#f0691"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:33:02.920" clipEnd="0:33:06.800"/>
+      </par>
+      <par id="par277">
+        <text src="../text/2.xhtml#f0692"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:33:06.800" clipEnd="0:33:08.680"/>
+      </par>
+      <par id="par278">
+        <text src="../text/2.xhtml#f0693"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:33:08.680" clipEnd="0:33:15.160"/>
+      </par>
+      <par id="par279">
+        <text src="../text/2.xhtml#f0694"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:33:15.160" clipEnd="0:33:18.160"/>
+      </par>
+      <par id="par280">
+        <text src="../text/2.xhtml#f0695"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:33:18.160" clipEnd="0:33:21.520"/>
+      </par>
+      <par id="par281">
+        <text src="../text/2.xhtml#f0696"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:33:21.520" clipEnd="0:33:30.000"/>
+      </par>
+      <par id="par282">
+        <text src="../text/2.xhtml#f0697"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:33:30.000" clipEnd="0:33:41.000"/>
+      </par>
+      <par id="par283">
+        <text src="../text/2.xhtml#f0698"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:33:41.000" clipEnd="0:33:54.920"/>
+      </par>
+      <par id="par284">
+        <text src="../text/2.xhtml#f0699"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:33:54.920" clipEnd="0:33:58.320"/>
+      </par>
+      <par id="par285">
+        <text src="../text/2.xhtml#f0700"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:33:58.320" clipEnd="0:34:00.840"/>
+      </par>
+      <par id="par286">
+        <text src="../text/2.xhtml#f0701"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:34:00.840" clipEnd="0:34:14.560"/>
+      </par>
+      <par id="par287">
+        <text src="../text/2.xhtml#f0702"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:34:14.560" clipEnd="0:34:18.960"/>
+      </par>
+      <par id="par288">
+        <text src="../text/2.xhtml#f0703"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:34:18.960" clipEnd="0:34:21.840"/>
+      </par>
+      <par id="par289">
+        <text src="../text/2.xhtml#f0704"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:34:21.840" clipEnd="0:34:26.040"/>
+      </par>
+      <par id="par290">
+        <text src="../text/2.xhtml#f0705"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:34:26.040" clipEnd="0:34:36.440"/>
+      </par>
+      <par id="par291">
+        <text src="../text/2.xhtml#f0706"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:34:36.440" clipEnd="0:34:41.080"/>
+      </par>
+      <par id="par292">
+        <text src="../text/2.xhtml#f0707"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:34:41.080" clipEnd="0:34:48.080"/>
+      </par>
+      <par id="par293">
+        <text src="../text/2.xhtml#f0708"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:34:48.080" clipEnd="0:34:57.200"/>
+      </par>
+      <par id="par294">
+        <text src="../text/2.xhtml#f0709"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:34:57.200" clipEnd="0:34:58.960"/>
+      </par>
+      <par id="par295">
+        <text src="../text/2.xhtml#f0710"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:34:58.960" clipEnd="0:35:01.480"/>
+      </par>
+      <par id="par296">
+        <text src="../text/2.xhtml#f0711"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:35:01.480" clipEnd="0:35:05.680"/>
+      </par>
+      <par id="par297">
+        <text src="../text/2.xhtml#f0712"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:35:05.680" clipEnd="0:35:08.280"/>
+      </par>
+      <par id="par298">
+        <text src="../text/2.xhtml#f0713"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:35:08.280" clipEnd="0:35:09.560"/>
+      </par>
+      <par id="par299">
+        <text src="../text/2.xhtml#f0714"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:35:09.560" clipEnd="0:35:11.960"/>
+      </par>
+      <par id="par300">
+        <text src="../text/2.xhtml#f0715"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:35:11.960" clipEnd="0:35:15.040"/>
+      </par>
+      <par id="par301">
+        <text src="../text/2.xhtml#f0716"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:35:15.040" clipEnd="0:35:25.040"/>
+      </par>
+      <par id="par302">
+        <text src="../text/2.xhtml#f0717"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:35:25.040" clipEnd="0:35:27.560"/>
+      </par>
+      <par id="par303">
+        <text src="../text/2.xhtml#f0718"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:35:27.560" clipEnd="0:35:31.040"/>
+      </par>
+      <par id="par304">
+        <text src="../text/2.xhtml#f0719"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:35:31.040" clipEnd="0:35:34.400"/>
+      </par>
+      <par id="par305">
+        <text src="../text/2.xhtml#f0720"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:35:34.400" clipEnd="0:35:39.800"/>
+      </par>
+      <par id="par306">
+        <text src="../text/2.xhtml#f0721"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:35:39.800" clipEnd="0:35:41.440"/>
+      </par>
+      <par id="par307">
+        <text src="../text/2.xhtml#f0722"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:35:41.440" clipEnd="0:35:48.880"/>
+      </par>
+      <par id="par308">
+        <text src="../text/2.xhtml#f0723"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:35:48.880" clipEnd="0:35:54.920"/>
+      </par>
+      <par id="par309">
+        <text src="../text/2.xhtml#f0724"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:35:54.920" clipEnd="0:36:00.680"/>
+      </par>
+      <par id="par310">
+        <text src="../text/2.xhtml#f0725"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:36:00.680" clipEnd="0:36:03.800"/>
+      </par>
+      <par id="par311">
+        <text src="../text/2.xhtml#f0726"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:36:03.800" clipEnd="0:36:05.120"/>
+      </par>
+      <par id="par312">
+        <text src="../text/2.xhtml#f0727"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:36:05.120" clipEnd="0:36:06.160"/>
+      </par>
+      <par id="par313">
+        <text src="../text/2.xhtml#f0728"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:36:06.160" clipEnd="0:36:07.320"/>
+      </par>
+      <par id="par314">
+        <text src="../text/2.xhtml#f0729"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:36:07.320" clipEnd="0:36:09.280"/>
+      </par>
+      <par id="par315">
+        <text src="../text/2.xhtml#f0730"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:36:09.280" clipEnd="0:36:18.200"/>
+      </par>
+      <par id="par316">
+        <text src="../text/2.xhtml#f0731"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:36:18.200" clipEnd="0:36:23.720"/>
+      </par>
+      <par id="par317">
+        <text src="../text/2.xhtml#f0732"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:36:23.720" clipEnd="0:36:36.520"/>
+      </par>
+      <par id="par318">
+        <text src="../text/2.xhtml#f0733"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:36:36.520" clipEnd="0:36:38.960"/>
+      </par>
+      <par id="par319">
+        <text src="../text/2.xhtml#f0734"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:36:38.960" clipEnd="0:36:44.320"/>
+      </par>
+      <par id="par320">
+        <text src="../text/2.xhtml#f0735"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:36:44.320" clipEnd="0:36:49.640"/>
+      </par>
+      <par id="par321">
+        <text src="../text/2.xhtml#f0736"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:36:49.640" clipEnd="0:36:55.400"/>
+      </par>
+      <par id="par322">
+        <text src="../text/2.xhtml#f0737"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:36:55.400" clipEnd="0:37:03.040"/>
+      </par>
+      <par id="par323">
+        <text src="../text/2.xhtml#f0738"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:37:03.040" clipEnd="0:37:29.240"/>
+      </par>
+      <par id="par324">
+        <text src="../text/2.xhtml#f0739"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:37:29.240" clipEnd="0:37:33.720"/>
+      </par>
+      <par id="par325">
+        <text src="../text/2.xhtml#f0740"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:37:33.720" clipEnd="0:37:40.120"/>
+      </par>
+      <par id="par326">
+        <text src="../text/2.xhtml#f0741"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:37:40.120" clipEnd="0:37:46.280"/>
+      </par>
+      <par id="par327">
+        <text src="../text/2.xhtml#f0742"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:37:46.280" clipEnd="0:37:53.800"/>
+      </par>
+      <par id="par328">
+        <text src="../text/2.xhtml#f0743"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:37:53.800" clipEnd="0:38:05.000"/>
+      </par>
+      <par id="par329">
+        <text src="../text/2.xhtml#f0744"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:38:05.000" clipEnd="0:38:09.360"/>
+      </par>
+      <par id="par330">
+        <text src="../text/2.xhtml#f0745"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:38:09.360" clipEnd="0:38:13.560"/>
+      </par>
+      <par id="par331">
+        <text src="../text/2.xhtml#f0746"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:38:13.560" clipEnd="0:38:19.560"/>
+      </par>
+      <par id="par332">
+        <text src="../text/2.xhtml#f0747"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:38:19.560" clipEnd="0:38:21.680"/>
+      </par>
+      <par id="par333">
+        <text src="../text/2.xhtml#f0748"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:38:21.680" clipEnd="0:38:25.240"/>
+      </par>
+      <par id="par334">
+        <text src="../text/2.xhtml#f0749"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:38:25.240" clipEnd="0:38:29.600"/>
+      </par>
+      <par id="par335">
+        <text src="../text/2.xhtml#f0750"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:38:29.600" clipEnd="0:38:31.640"/>
+      </par>
+      <par id="par336">
+        <text src="../text/2.xhtml#f0751"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:38:31.640" clipEnd="0:38:33.200"/>
+      </par>
+      <par id="par337">
+        <text src="../text/2.xhtml#f0752"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:38:33.200" clipEnd="0:38:34.840"/>
+      </par>
+      <par id="par338">
+        <text src="../text/2.xhtml#f0753"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:38:34.840" clipEnd="0:38:38.000"/>
+      </par>
+      <par id="par339">
+        <text src="../text/2.xhtml#f0754"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:38:38.000" clipEnd="0:38:45.120"/>
+      </par>
+      <par id="par340">
+        <text src="../text/2.xhtml#f0755"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:38:45.120" clipEnd="0:38:52.320"/>
+      </par>
+      <par id="par341">
+        <text src="../text/2.xhtml#f0756"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:38:52.320" clipEnd="0:39:05.280"/>
+      </par>
+      <par id="par342">
+        <text src="../text/2.xhtml#f0757"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:39:05.280" clipEnd="0:39:24.200"/>
+      </par>
+      <par id="par343">
+        <text src="../text/2.xhtml#f0758"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:39:24.200" clipEnd="0:39:42.560"/>
+      </par>
+      <par id="par344">
+        <text src="../text/2.xhtml#f0759"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:39:42.560" clipEnd="0:39:45.880"/>
+      </par>
+      <par id="par345">
+        <text src="../text/2.xhtml#f0760"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:39:45.880" clipEnd="0:39:50.040"/>
+      </par>
+      <par id="par346">
+        <text src="../text/2.xhtml#f0761"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:39:50.040" clipEnd="0:40:01.080"/>
+      </par>
+      <par id="par347">
+        <text src="../text/2.xhtml#f0762"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:40:01.080" clipEnd="0:40:02.800"/>
+      </par>
+      <par id="par348">
+        <text src="../text/2.xhtml#f0763"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:40:02.800" clipEnd="0:40:17.200"/>
+      </par>
+      <par id="par349">
+        <text src="../text/2.xhtml#f0764"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:40:17.200" clipEnd="0:40:51.160"/>
+      </par>
+      <par id="par350">
+        <text src="../text/2.xhtml#f0765"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:40:51.160" clipEnd="0:41:10.960"/>
+      </par>
+      <par id="par351">
+        <text src="../text/2.xhtml#f0766"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:41:10.960" clipEnd="0:41:17.120"/>
+      </par>
+      <par id="par352">
+        <text src="../text/2.xhtml#f0767"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:41:17.120" clipEnd="0:41:32.440"/>
+      </par>
+      <par id="par353">
+        <text src="../text/2.xhtml#f0768"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:41:32.440" clipEnd="0:41:39.240"/>
+      </par>
+      <par id="par354">
+        <text src="../text/2.xhtml#f0769"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:41:39.240" clipEnd="0:41:52.800"/>
+      </par>
+      <par id="par355">
+        <text src="../text/2.xhtml#f0770"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:41:52.800" clipEnd="0:41:57.320"/>
+      </par>
+      <par id="par356">
+        <text src="../text/2.xhtml#f0771"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:41:57.320" clipEnd="0:42:00.640"/>
+      </par>
+      <par id="par357">
+        <text src="../text/2.xhtml#f0772"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:42:00.640" clipEnd="0:42:03.880"/>
+      </par>
+      <par id="par358">
+        <text src="../text/2.xhtml#f0773"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:42:03.880" clipEnd="0:42:17.760"/>
+      </par>
+      <par id="par359">
+        <text src="../text/2.xhtml#f0774"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:42:17.760" clipEnd="0:42:46.680"/>
+      </par>
+      <par id="par360">
+        <text src="../text/2.xhtml#f0775"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:42:46.680" clipEnd="0:42:53.680"/>
+      </par>
+      <par id="par361">
+        <text src="../text/2.xhtml#f0776"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:42:53.680" clipEnd="0:42:55.040"/>
+      </par>
+      <par id="par362">
+        <text src="../text/2.xhtml#f0777"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:42:55.040" clipEnd="0:42:56.920"/>
+      </par>
+      <par id="par363">
+        <text src="../text/2.xhtml#f0778"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:42:56.920" clipEnd="0:42:58.080"/>
+      </par>
+      <par id="par364">
+        <text src="../text/2.xhtml#f0779"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:42:58.080" clipEnd="0:43:04.440"/>
+      </par>
+      <par id="par365">
+        <text src="../text/2.xhtml#f0780"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:43:04.440" clipEnd="0:43:04.920"/>
+      </par>
+      <par id="par366">
+        <text src="../text/2.xhtml#f0781"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:43:04.920" clipEnd="0:43:06.160"/>
+      </par>
+      <par id="par367">
+        <text src="../text/2.xhtml#f0782"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:43:06.160" clipEnd="0:43:06.680"/>
+      </par>
+      <par id="par368">
+        <text src="../text/2.xhtml#f0783"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:43:06.680" clipEnd="0:43:08.280"/>
+      </par>
+      <par id="par369">
+        <text src="../text/2.xhtml#f0784"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:43:08.280" clipEnd="0:43:15.840"/>
+      </par>
+      <par id="par370">
+        <text src="../text/2.xhtml#f0785"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:43:15.840" clipEnd="0:43:20.800"/>
+      </par>
+      <par id="par371">
+        <text src="../text/2.xhtml#f0786"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:43:20.800" clipEnd="0:43:25.080"/>
+      </par>
+      <par id="par372">
+        <text src="../text/2.xhtml#f0787"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:43:25.080" clipEnd="0:43:32.400"/>
+      </par>
+      <par id="par373">
+        <text src="../text/2.xhtml#f0788"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:43:32.400" clipEnd="0:43:39.000"/>
+      </par>
+      <par id="par374">
+        <text src="../text/2.xhtml#f0789"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:43:39.000" clipEnd="0:43:43.680"/>
+      </par>
+      <par id="par375">
+        <text src="../text/2.xhtml#f0790"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:43:43.680" clipEnd="0:43:50.600"/>
+      </par>
+      <par id="par376">
+        <text src="../text/2.xhtml#f0791"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:43:50.600" clipEnd="0:44:02.920"/>
+      </par>
+      <par id="par377">
+        <text src="../text/2.xhtml#f0792"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:44:02.920" clipEnd="0:44:04.400"/>
+      </par>
+      <par id="par378">
+        <text src="../text/2.xhtml#f0793"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:44:04.400" clipEnd="0:44:06.360"/>
+      </par>
+      <par id="par379">
+        <text src="../text/2.xhtml#f0794"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:44:06.360" clipEnd="0:44:09.520"/>
+      </par>
+      <par id="par380">
+        <text src="../text/2.xhtml#f0795"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:44:09.520" clipEnd="0:44:34.800"/>
+      </par>
+      <par id="par381">
+        <text src="../text/2.xhtml#f0796"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:44:34.800" clipEnd="0:44:51.920"/>
+      </par>
+      <par id="par382">
+        <text src="../text/2.xhtml#f0797"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:44:51.920" clipEnd="0:45:01.120"/>
+      </par>
+      <par id="par383">
+        <text src="../text/2.xhtml#f0798"/>
+        <audio src="../audio/christmascarol_02_dickens_64kb.mp3" clipBegin="0:45:01.120" clipEnd="0:45:27.080"/>
+      </par>
+    </seq>
+  </body>
+</smil>
