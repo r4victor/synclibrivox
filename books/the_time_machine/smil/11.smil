@@ -1,0 +1,394 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <seq id="seq1" epub:textref="../text/11.xhtml">
+      <par id="par01">
+        <text src="../text/11.xhtml#f1635"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:00:00.000" clipEnd="0:00:15.480"/>
+      </par>
+      <par id="par02">
+        <text src="../text/11.xhtml#f1636"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:00:15.480" clipEnd="0:00:20.960"/>
+      </par>
+      <par id="par03">
+        <text src="../text/11.xhtml#f1637"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:00:20.960" clipEnd="0:00:28.640"/>
+      </par>
+      <par id="par04">
+        <text src="../text/11.xhtml#f1638"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:00:28.640" clipEnd="0:00:41.600"/>
+      </par>
+      <par id="par05">
+        <text src="../text/11.xhtml#f1639"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:00:41.600" clipEnd="0:00:51.200"/>
+      </par>
+      <par id="par06">
+        <text src="../text/11.xhtml#f1640"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:00:51.200" clipEnd="0:01:06.840"/>
+      </par>
+      <par id="par07">
+        <text src="../text/11.xhtml#f1641"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:01:06.840" clipEnd="0:01:11.720"/>
+      </par>
+      <par id="par08">
+        <text src="../text/11.xhtml#f1642"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:01:11.720" clipEnd="0:01:27.360"/>
+      </par>
+      <par id="par09">
+        <text src="../text/11.xhtml#f1643"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:01:27.360" clipEnd="0:01:30.400"/>
+      </par>
+      <par id="par10">
+        <text src="../text/11.xhtml#f1644"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:01:30.400" clipEnd="0:01:41.600"/>
+      </par>
+      <par id="par11">
+        <text src="../text/11.xhtml#f1645"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:01:41.600" clipEnd="0:01:51.600"/>
+      </par>
+      <par id="par12">
+        <text src="../text/11.xhtml#f1646"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:01:51.600" clipEnd="0:02:05.320"/>
+      </par>
+      <par id="par13">
+        <text src="../text/11.xhtml#f1647"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:02:05.320" clipEnd="0:02:08.360"/>
+      </par>
+      <par id="par14">
+        <text src="../text/11.xhtml#f1648"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:02:08.360" clipEnd="0:02:16.080"/>
+      </par>
+      <par id="par15">
+        <text src="../text/11.xhtml#f1649"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:02:16.080" clipEnd="0:02:33.280"/>
+      </par>
+      <par id="par16">
+        <text src="../text/11.xhtml#f1650"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:02:33.280" clipEnd="0:02:42.640"/>
+      </par>
+      <par id="par17">
+        <text src="../text/11.xhtml#f1651"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:02:42.640" clipEnd="0:02:49.240"/>
+      </par>
+      <par id="par18">
+        <text src="../text/11.xhtml#f1652"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:02:49.240" clipEnd="0:02:57.560"/>
+      </par>
+      <par id="par19">
+        <text src="../text/11.xhtml#f1653"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:02:57.560" clipEnd="0:03:05.160"/>
+      </par>
+      <par id="par20">
+        <text src="../text/11.xhtml#f1654"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:03:05.160" clipEnd="0:03:16.040"/>
+      </par>
+      <par id="par21">
+        <text src="../text/11.xhtml#f1655"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:03:16.040" clipEnd="0:03:21.760"/>
+      </par>
+      <par id="par22">
+        <text src="../text/11.xhtml#f1656"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:03:21.760" clipEnd="0:03:26.800"/>
+      </par>
+      <par id="par23">
+        <text src="../text/11.xhtml#f1657"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:03:26.800" clipEnd="0:03:29.680"/>
+      </par>
+      <par id="par24">
+        <text src="../text/11.xhtml#f1658"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:03:29.680" clipEnd="0:03:38.120"/>
+      </par>
+      <par id="par25">
+        <text src="../text/11.xhtml#f1659"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:03:38.120" clipEnd="0:03:53.320"/>
+      </par>
+      <par id="par26">
+        <text src="../text/11.xhtml#f1660"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:03:53.320" clipEnd="0:04:07.040"/>
+      </par>
+      <par id="par27">
+        <text src="../text/11.xhtml#f1661"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:04:07.040" clipEnd="0:04:19.200"/>
+      </par>
+      <par id="par28">
+        <text src="../text/11.xhtml#f1662"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:04:19.200" clipEnd="0:04:22.400"/>
+      </par>
+      <par id="par29">
+        <text src="../text/11.xhtml#f1663"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:04:22.400" clipEnd="0:04:30.040"/>
+      </par>
+      <par id="par30">
+        <text src="../text/11.xhtml#f1664"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:04:30.040" clipEnd="0:04:36.120"/>
+      </par>
+      <par id="par31">
+        <text src="../text/11.xhtml#f1665"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:04:36.120" clipEnd="0:04:46.200"/>
+      </par>
+      <par id="par32">
+        <text src="../text/11.xhtml#f1666"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:04:46.200" clipEnd="0:04:54.680"/>
+      </par>
+      <par id="par33">
+        <text src="../text/11.xhtml#f1667"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:04:54.680" clipEnd="0:05:01.240"/>
+      </par>
+      <par id="par34">
+        <text src="../text/11.xhtml#f1668"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:05:01.240" clipEnd="0:05:11.120"/>
+      </par>
+      <par id="par35">
+        <text src="../text/11.xhtml#f1669"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:05:11.120" clipEnd="0:05:26.320"/>
+      </par>
+      <par id="par36">
+        <text src="../text/11.xhtml#f1670"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:05:26.320" clipEnd="0:05:33.520"/>
+      </par>
+      <par id="par37">
+        <text src="../text/11.xhtml#f1671"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:05:33.520" clipEnd="0:05:43.280"/>
+      </par>
+      <par id="par38">
+        <text src="../text/11.xhtml#f1672"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:05:43.280" clipEnd="0:05:48.320"/>
+      </par>
+      <par id="par39">
+        <text src="../text/11.xhtml#f1673"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:05:48.320" clipEnd="0:06:07.120"/>
+      </par>
+      <par id="par40">
+        <text src="../text/11.xhtml#f1674"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:06:07.120" clipEnd="0:06:15.120"/>
+      </par>
+      <par id="par41">
+        <text src="../text/11.xhtml#f1675"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:06:15.120" clipEnd="0:06:22.560"/>
+      </par>
+      <par id="par42">
+        <text src="../text/11.xhtml#f1676"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:06:22.560" clipEnd="0:06:31.600"/>
+      </par>
+      <par id="par43">
+        <text src="../text/11.xhtml#f1677"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:06:31.600" clipEnd="0:06:40.080"/>
+      </par>
+      <par id="par44">
+        <text src="../text/11.xhtml#f1678"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:06:40.080" clipEnd="0:06:42.880"/>
+      </par>
+      <par id="par45">
+        <text src="../text/11.xhtml#f1679"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:06:42.880" clipEnd="0:06:46.520"/>
+      </par>
+      <par id="par46">
+        <text src="../text/11.xhtml#f1680"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:06:46.520" clipEnd="0:06:55.040"/>
+      </par>
+      <par id="par47">
+        <text src="../text/11.xhtml#f1681"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:06:55.040" clipEnd="0:07:07.800"/>
+      </par>
+      <par id="par48">
+        <text src="../text/11.xhtml#f1682"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:07:07.800" clipEnd="0:07:14.520"/>
+      </par>
+      <par id="par49">
+        <text src="../text/11.xhtml#f1683"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:07:14.520" clipEnd="0:07:20.720"/>
+      </par>
+      <par id="par50">
+        <text src="../text/11.xhtml#f1684"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:07:20.720" clipEnd="0:07:29.320"/>
+      </par>
+      <par id="par51">
+        <text src="../text/11.xhtml#f1685"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:07:29.320" clipEnd="0:07:34.800"/>
+      </par>
+      <par id="par52">
+        <text src="../text/11.xhtml#f1686"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:07:34.800" clipEnd="0:07:57.120"/>
+      </par>
+      <par id="par53">
+        <text src="../text/11.xhtml#f1687"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:07:57.120" clipEnd="0:08:14.880"/>
+      </par>
+      <par id="par54">
+        <text src="../text/11.xhtml#f1688"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:08:14.880" clipEnd="0:08:21.640"/>
+      </par>
+      <par id="par55">
+        <text src="../text/11.xhtml#f1689"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:08:21.640" clipEnd="0:08:40.560"/>
+      </par>
+      <par id="par56">
+        <text src="../text/11.xhtml#f1690"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:08:40.560" clipEnd="0:08:51.320"/>
+      </par>
+      <par id="par57">
+        <text src="../text/11.xhtml#f1691"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:08:51.320" clipEnd="0:09:03.320"/>
+      </par>
+      <par id="par58">
+        <text src="../text/11.xhtml#f1692"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:09:03.320" clipEnd="0:09:06.120"/>
+      </par>
+      <par id="par59">
+        <text src="../text/11.xhtml#f1693"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:09:06.120" clipEnd="0:09:08.640"/>
+      </par>
+      <par id="par60">
+        <text src="../text/11.xhtml#f1694"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:09:08.640" clipEnd="0:09:12.440"/>
+      </par>
+      <par id="par61">
+        <text src="../text/11.xhtml#f1695"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:09:12.440" clipEnd="0:09:22.480"/>
+      </par>
+      <par id="par62">
+        <text src="../text/11.xhtml#f1696"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:09:22.480" clipEnd="0:09:36.000"/>
+      </par>
+      <par id="par63">
+        <text src="../text/11.xhtml#f1697"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:09:36.000" clipEnd="0:09:40.760"/>
+      </par>
+      <par id="par64">
+        <text src="../text/11.xhtml#f1698"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:09:40.760" clipEnd="0:09:46.440"/>
+      </par>
+      <par id="par65">
+        <text src="../text/11.xhtml#f1699"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:09:46.440" clipEnd="0:09:52.720"/>
+      </par>
+      <par id="par66">
+        <text src="../text/11.xhtml#f1700"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:09:52.720" clipEnd="0:09:58.760"/>
+      </par>
+      <par id="par67">
+        <text src="../text/11.xhtml#f1701"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:09:58.760" clipEnd="0:10:04.240"/>
+      </par>
+      <par id="par68">
+        <text src="../text/11.xhtml#f1702"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:10:04.240" clipEnd="0:10:19.360"/>
+      </par>
+      <par id="par69">
+        <text src="../text/11.xhtml#f1703"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:10:19.360" clipEnd="0:10:25.760"/>
+      </par>
+      <par id="par70">
+        <text src="../text/11.xhtml#f1704"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:10:25.760" clipEnd="0:10:36.040"/>
+      </par>
+      <par id="par71">
+        <text src="../text/11.xhtml#f1705"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:10:36.040" clipEnd="0:10:38.440"/>
+      </par>
+      <par id="par72">
+        <text src="../text/11.xhtml#f1706"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:10:38.440" clipEnd="0:10:48.560"/>
+      </par>
+      <par id="par73">
+        <text src="../text/11.xhtml#f1707"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:10:48.560" clipEnd="0:10:54.320"/>
+      </par>
+      <par id="par74">
+        <text src="../text/11.xhtml#f1708"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:10:54.320" clipEnd="0:11:07.160"/>
+      </par>
+      <par id="par75">
+        <text src="../text/11.xhtml#f1709"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:11:07.160" clipEnd="0:11:17.640"/>
+      </par>
+      <par id="par76">
+        <text src="../text/11.xhtml#f1710"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:11:17.640" clipEnd="0:11:21.560"/>
+      </par>
+      <par id="par77">
+        <text src="../text/11.xhtml#f1711"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:11:21.560" clipEnd="0:11:25.440"/>
+      </par>
+      <par id="par78">
+        <text src="../text/11.xhtml#f1712"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:11:25.440" clipEnd="0:11:26.800"/>
+      </par>
+      <par id="par79">
+        <text src="../text/11.xhtml#f1713"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:11:26.800" clipEnd="0:11:30.000"/>
+      </par>
+      <par id="par80">
+        <text src="../text/11.xhtml#f1714"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:11:30.000" clipEnd="0:11:42.200"/>
+      </par>
+      <par id="par81">
+        <text src="../text/11.xhtml#f1715"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:11:42.200" clipEnd="0:11:51.880"/>
+      </par>
+      <par id="par82">
+        <text src="../text/11.xhtml#f1716"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:11:51.880" clipEnd="0:12:00.200"/>
+      </par>
+      <par id="par83">
+        <text src="../text/11.xhtml#f1717"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:12:00.200" clipEnd="0:12:03.200"/>
+      </par>
+      <par id="par84">
+        <text src="../text/11.xhtml#f1718"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:12:03.200" clipEnd="0:12:08.240"/>
+      </par>
+      <par id="par85">
+        <text src="../text/11.xhtml#f1719"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:12:08.240" clipEnd="0:12:12.440"/>
+      </par>
+      <par id="par86">
+        <text src="../text/11.xhtml#f1720"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:12:12.440" clipEnd="0:12:15.560"/>
+      </par>
+      <par id="par87">
+        <text src="../text/11.xhtml#f1721"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:12:15.560" clipEnd="0:12:19.760"/>
+      </par>
+      <par id="par88">
+        <text src="../text/11.xhtml#f1722"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:12:19.760" clipEnd="0:12:23.040"/>
+      </par>
+      <par id="par89">
+        <text src="../text/11.xhtml#f1723"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:12:23.040" clipEnd="0:12:29.200"/>
+      </par>
+      <par id="par90">
+        <text src="../text/11.xhtml#f1724"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:12:29.200" clipEnd="0:12:33.080"/>
+      </par>
+      <par id="par91">
+        <text src="../text/11.xhtml#f1725"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:12:33.080" clipEnd="0:12:39.120"/>
+      </par>
+      <par id="par92">
+        <text src="../text/11.xhtml#f1726"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:12:39.120" clipEnd="0:12:42.000"/>
+      </par>
+      <par id="par93">
+        <text src="../text/11.xhtml#f1727"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:12:42.000" clipEnd="0:12:46.600"/>
+      </par>
+      <par id="par94">
+        <text src="../text/11.xhtml#f1728"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:12:46.600" clipEnd="0:12:59.000"/>
+      </par>
+      <par id="par95">
+        <text src="../text/11.xhtml#f1729"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:12:59.000" clipEnd="0:13:13.280"/>
+      </par>
+      <par id="par96">
+        <text src="../text/11.xhtml#f1730"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:13:13.280" clipEnd="0:13:15.960"/>
+      </par>
+      <par id="par97">
+        <text src="../text/11.xhtml#f1731"/>
+        <audio src="../audio/timemachine_11_wells_64kb.mp3" clipBegin="0:13:15.960" clipEnd="0:13:33.640"/>
+      </par>
+    </seq>
+  </body>
+</smil>
