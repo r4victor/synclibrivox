@@ -39,3 +39,7 @@ If you've cloned this repo and have all neccessary files except for audio, run `
 ```
 $ syncabook download_files --skip-text `librivox_url` `ebook_dir`
 ```
+
+## License
+
+All materials in the repository are under CC BY 4.0 license.
