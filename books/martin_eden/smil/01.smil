@@ -249,10 +249,6 @@
         <text src="../text/01.xhtml#f0064"/>
         <audio src="../audio/martineden_01_london_64kb.mp3" clipBegin="0:06:48.520" clipEnd="0:06:50.480"/>
       </par>
-      <par id="par063">
-        <text src="../text/01.xhtml#f0065"/>
-        <audio src="../audio/martineden_01_london_64kb.mp3" clipBegin="0:06:50.480" clipEnd="0:06:50.480"/>
-      </par>
       <par id="par064">
         <text src="../text/01.xhtml#f0066"/>
         <audio src="../audio/martineden_01_london_64kb.mp3" clipBegin="0:06:50.480" clipEnd="0:06:50.520"/>
@@ -824,10 +820,6 @@
       <par id="par206">
         <text src="../text/01.xhtml#f0208"/>
         <audio src="../audio/martineden_01_london_64kb.mp3" clipBegin="0:22:39.520" clipEnd="0:22:39.560"/>
-      </par>
-      <par id="par207">
-        <text src="../text/01.xhtml#f0209"/>
-        <audio src="../audio/martineden_01_london_64kb.mp3" clipBegin="0:22:39.560" clipEnd="0:22:39.560"/>
       </par>
       <par id="par208">
         <text src="../text/01.xhtml#f0210"/>

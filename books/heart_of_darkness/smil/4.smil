@@ -453,10 +453,6 @@
         <text src="../text/4.xhtml#f1408"/>
         <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:13:48.240" clipEnd="0:13:48.280"/>
       </par>
-      <par id="par114">
-        <text src="../text/4.xhtml#f1409"/>
-        <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:13:48.280" clipEnd="0:13:48.280"/>
-      </par>
       <par id="par115">
         <text src="../text/4.xhtml#f1410"/>
         <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:13:48.280" clipEnd="0:13:48.320"/>
@@ -485,10 +481,6 @@
         <text src="../text/4.xhtml#f1416"/>
         <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:14:02.960" clipEnd="0:14:03.000"/>
       </par>
-      <par id="par122">
-        <text src="../text/4.xhtml#f1417"/>
-        <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:14:03.000" clipEnd="0:14:03.000"/>
-      </par>
       <par id="par123">
         <text src="../text/4.xhtml#f1418"/>
         <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:14:03.000" clipEnd="0:14:25.320"/>
@@ -504,18 +496,6 @@
       <par id="par126">
         <text src="../text/4.xhtml#f1421"/>
         <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:14:31.240" clipEnd="0:14:34.960"/>
-      </par>
-      <par id="par127">
-        <text src="../text/4.xhtml#f1422"/>
-        <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:14:34.960" clipEnd="0:14:34.960"/>
-      </par>
-      <par id="par128">
-        <text src="../text/4.xhtml#f1423"/>
-        <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:14:34.960" clipEnd="0:14:34.960"/>
-      </par>
-      <par id="par129">
-        <text src="../text/4.xhtml#f1424"/>
-        <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:14:34.960" clipEnd="0:14:34.960"/>
       </par>
       <par id="par130">
         <text src="../text/4.xhtml#f1425"/>
@@ -1277,21 +1257,9 @@
         <text src="../text/4.xhtml#f1614"/>
         <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:36:44.760" clipEnd="0:36:44.800"/>
       </par>
-      <par id="par320">
-        <text src="../text/4.xhtml#f1615"/>
-        <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:36:44.800" clipEnd="0:36:44.800"/>
-      </par>
       <par id="par321">
         <text src="../text/4.xhtml#f1616"/>
         <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:36:44.800" clipEnd="0:36:45.600"/>
-      </par>
-      <par id="par322">
-        <text src="../text/4.xhtml#f1617"/>
-        <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:36:45.600" clipEnd="0:36:45.600"/>
-      </par>
-      <par id="par323">
-        <text src="../text/4.xhtml#f1618"/>
-        <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:36:45.600" clipEnd="0:36:45.600"/>
       </par>
       <par id="par324">
         <text src="../text/4.xhtml#f1619"/>
@@ -1309,10 +1277,6 @@
         <text src="../text/4.xhtml#f1622"/>
         <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:36:46.600" clipEnd="0:36:47.360"/>
       </par>
-      <par id="par328">
-        <text src="../text/4.xhtml#f1623"/>
-        <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:36:47.360" clipEnd="0:36:47.360"/>
-      </par>
       <par id="par329">
         <text src="../text/4.xhtml#f1624"/>
         <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:36:47.360" clipEnd="0:36:47.400"/>
@@ -1320,14 +1284,6 @@
       <par id="par330">
         <text src="../text/4.xhtml#f1625"/>
         <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:36:47.400" clipEnd="0:36:48.760"/>
-      </par>
-      <par id="par331">
-        <text src="../text/4.xhtml#f1626"/>
-        <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:36:48.760" clipEnd="0:36:48.760"/>
-      </par>
-      <par id="par332">
-        <text src="../text/4.xhtml#f1627"/>
-        <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:36:48.760" clipEnd="0:36:48.760"/>
       </par>
       <par id="par333">
         <text src="../text/4.xhtml#f1628"/>
@@ -1337,17 +1293,9 @@
         <text src="../text/4.xhtml#f1629"/>
         <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:36:49.480" clipEnd="0:36:49.520"/>
       </par>
-      <par id="par335">
-        <text src="../text/4.xhtml#f1630"/>
-        <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:36:49.520" clipEnd="0:36:49.520"/>
-      </par>
       <par id="par336">
         <text src="../text/4.xhtml#f1631"/>
         <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:36:49.520" clipEnd="0:36:51.480"/>
-      </par>
-      <par id="par337">
-        <text src="../text/4.xhtml#f1632"/>
-        <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:36:51.480" clipEnd="0:36:51.480"/>
       </par>
       <par id="par338">
         <text src="../text/4.xhtml#f1633"/>
@@ -1356,10 +1304,6 @@
       <par id="par339">
         <text src="../text/4.xhtml#f1634"/>
         <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:36:51.520" clipEnd="0:36:53.280"/>
-      </par>
-      <par id="par340">
-        <text src="../text/4.xhtml#f1635"/>
-        <audio src="../audio/heartofdarkness_04_conrad_64kb.mp3" clipBegin="0:36:53.280" clipEnd="0:36:53.280"/>
       </par>
       <par id="par341">
         <text src="../text/4.xhtml#f1636"/>

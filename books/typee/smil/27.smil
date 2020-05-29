@@ -2,383 +2,383 @@
   <body>
     <seq id="seq1" epub:textref="../text/27.xhtml">
       <par id="par01">
-        <text src="../text/27.xhtml#f02576"/>
+        <text src="../text/27.xhtml#f2576"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:00:00.000" clipEnd="0:00:07.560"/>
       </par>
       <par id="par02">
-        <text src="../text/27.xhtml#f02577"/>
+        <text src="../text/27.xhtml#f2577"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:00:07.560" clipEnd="0:00:22.720"/>
       </par>
       <par id="par03">
-        <text src="../text/27.xhtml#f02578"/>
+        <text src="../text/27.xhtml#f2578"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:00:22.720" clipEnd="0:00:47.080"/>
       </par>
       <par id="par04">
-        <text src="../text/27.xhtml#f02579"/>
+        <text src="../text/27.xhtml#f2579"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:00:47.080" clipEnd="0:00:54.240"/>
       </par>
       <par id="par05">
-        <text src="../text/27.xhtml#f02580"/>
+        <text src="../text/27.xhtml#f2580"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:00:54.240" clipEnd="0:00:58.320"/>
       </par>
       <par id="par06">
-        <text src="../text/27.xhtml#f02581"/>
+        <text src="../text/27.xhtml#f2581"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:00:58.320" clipEnd="0:01:04.440"/>
       </par>
       <par id="par07">
-        <text src="../text/27.xhtml#f02582"/>
+        <text src="../text/27.xhtml#f2582"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:01:04.440" clipEnd="0:01:14.200"/>
       </par>
       <par id="par08">
-        <text src="../text/27.xhtml#f02583"/>
+        <text src="../text/27.xhtml#f2583"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:01:14.200" clipEnd="0:01:26.560"/>
       </par>
       <par id="par09">
-        <text src="../text/27.xhtml#f02584"/>
+        <text src="../text/27.xhtml#f2584"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:01:26.560" clipEnd="0:01:29.360"/>
       </par>
       <par id="par10">
-        <text src="../text/27.xhtml#f02585"/>
+        <text src="../text/27.xhtml#f2585"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:01:29.360" clipEnd="0:01:31.360"/>
       </par>
       <par id="par11">
-        <text src="../text/27.xhtml#f02586"/>
+        <text src="../text/27.xhtml#f2586"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:01:31.360" clipEnd="0:01:32.400"/>
       </par>
       <par id="par12">
-        <text src="../text/27.xhtml#f02587"/>
+        <text src="../text/27.xhtml#f2587"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:01:32.400" clipEnd="0:01:34.080"/>
       </par>
       <par id="par13">
-        <text src="../text/27.xhtml#f02588"/>
+        <text src="../text/27.xhtml#f2588"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:01:34.080" clipEnd="0:01:47.440"/>
       </par>
       <par id="par14">
-        <text src="../text/27.xhtml#f02589"/>
+        <text src="../text/27.xhtml#f2589"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:01:47.440" clipEnd="0:01:51.360"/>
       </par>
       <par id="par15">
-        <text src="../text/27.xhtml#f02590"/>
+        <text src="../text/27.xhtml#f2590"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:01:51.360" clipEnd="0:01:55.840"/>
       </par>
       <par id="par16">
-        <text src="../text/27.xhtml#f02591"/>
+        <text src="../text/27.xhtml#f2591"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:01:55.840" clipEnd="0:02:00.680"/>
       </par>
       <par id="par17">
-        <text src="../text/27.xhtml#f02592"/>
+        <text src="../text/27.xhtml#f2592"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:02:00.680" clipEnd="0:02:13.160"/>
       </par>
       <par id="par18">
-        <text src="../text/27.xhtml#f02593"/>
+        <text src="../text/27.xhtml#f2593"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:02:13.160" clipEnd="0:02:29.800"/>
       </par>
       <par id="par19">
-        <text src="../text/27.xhtml#f02594"/>
+        <text src="../text/27.xhtml#f2594"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:02:29.800" clipEnd="0:02:41.920"/>
       </par>
       <par id="par20">
-        <text src="../text/27.xhtml#f02595"/>
+        <text src="../text/27.xhtml#f2595"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:02:41.920" clipEnd="0:02:50.840"/>
       </par>
       <par id="par21">
-        <text src="../text/27.xhtml#f02596"/>
+        <text src="../text/27.xhtml#f2596"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:02:50.840" clipEnd="0:02:55.680"/>
       </par>
       <par id="par22">
-        <text src="../text/27.xhtml#f02597"/>
+        <text src="../text/27.xhtml#f2597"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:02:55.680" clipEnd="0:03:04.440"/>
       </par>
       <par id="par23">
-        <text src="../text/27.xhtml#f02598"/>
+        <text src="../text/27.xhtml#f2598"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:03:04.440" clipEnd="0:03:12.640"/>
       </par>
       <par id="par24">
-        <text src="../text/27.xhtml#f02599"/>
+        <text src="../text/27.xhtml#f2599"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:03:12.640" clipEnd="0:03:26.480"/>
       </par>
       <par id="par25">
-        <text src="../text/27.xhtml#f02600"/>
+        <text src="../text/27.xhtml#f2600"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:03:26.480" clipEnd="0:03:32.720"/>
       </par>
       <par id="par26">
-        <text src="../text/27.xhtml#f02601"/>
+        <text src="../text/27.xhtml#f2601"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:03:32.720" clipEnd="0:03:42.560"/>
       </par>
       <par id="par27">
-        <text src="../text/27.xhtml#f02602"/>
+        <text src="../text/27.xhtml#f2602"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:03:42.560" clipEnd="0:04:00.280"/>
       </par>
       <par id="par28">
-        <text src="../text/27.xhtml#f02603"/>
+        <text src="../text/27.xhtml#f2603"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:04:00.280" clipEnd="0:04:13.320"/>
       </par>
       <par id="par29">
-        <text src="../text/27.xhtml#f02604"/>
+        <text src="../text/27.xhtml#f2604"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:04:13.320" clipEnd="0:04:23.880"/>
       </par>
       <par id="par30">
-        <text src="../text/27.xhtml#f02605"/>
+        <text src="../text/27.xhtml#f2605"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:04:23.880" clipEnd="0:04:36.040"/>
       </par>
       <par id="par31">
-        <text src="../text/27.xhtml#f02606"/>
+        <text src="../text/27.xhtml#f2606"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:04:36.040" clipEnd="0:04:53.720"/>
       </par>
       <par id="par32">
-        <text src="../text/27.xhtml#f02607"/>
+        <text src="../text/27.xhtml#f2607"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:04:53.720" clipEnd="0:05:04.040"/>
       </par>
       <par id="par33">
-        <text src="../text/27.xhtml#f02608"/>
+        <text src="../text/27.xhtml#f2608"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:05:04.040" clipEnd="0:05:18.120"/>
       </par>
       <par id="par34">
-        <text src="../text/27.xhtml#f02609"/>
+        <text src="../text/27.xhtml#f2609"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:05:18.120" clipEnd="0:05:43.120"/>
       </par>
       <par id="par35">
-        <text src="../text/27.xhtml#f02610"/>
+        <text src="../text/27.xhtml#f2610"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:05:43.120" clipEnd="0:05:56.840"/>
       </par>
       <par id="par36">
-        <text src="../text/27.xhtml#f02611"/>
+        <text src="../text/27.xhtml#f2611"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:05:56.840" clipEnd="0:06:03.880"/>
       </par>
       <par id="par37">
-        <text src="../text/27.xhtml#f02612"/>
+        <text src="../text/27.xhtml#f2612"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:06:03.880" clipEnd="0:06:19.600"/>
       </par>
       <par id="par38">
-        <text src="../text/27.xhtml#f02613"/>
+        <text src="../text/27.xhtml#f2613"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:06:19.600" clipEnd="0:06:28.760"/>
       </par>
       <par id="par39">
-        <text src="../text/27.xhtml#f02614"/>
+        <text src="../text/27.xhtml#f2614"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:06:28.760" clipEnd="0:06:37.240"/>
       </par>
       <par id="par40">
-        <text src="../text/27.xhtml#f02615"/>
+        <text src="../text/27.xhtml#f2615"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:06:37.240" clipEnd="0:06:40.560"/>
       </par>
       <par id="par41">
-        <text src="../text/27.xhtml#f02616"/>
+        <text src="../text/27.xhtml#f2616"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:06:40.560" clipEnd="0:06:52.840"/>
       </par>
       <par id="par42">
-        <text src="../text/27.xhtml#f02617"/>
+        <text src="../text/27.xhtml#f2617"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:06:52.840" clipEnd="0:07:02.600"/>
       </par>
       <par id="par43">
-        <text src="../text/27.xhtml#f02618"/>
+        <text src="../text/27.xhtml#f2618"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:07:02.600" clipEnd="0:07:09.720"/>
       </par>
       <par id="par44">
-        <text src="../text/27.xhtml#f02619"/>
+        <text src="../text/27.xhtml#f2619"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:07:09.720" clipEnd="0:07:22.760"/>
       </par>
       <par id="par45">
-        <text src="../text/27.xhtml#f02620"/>
+        <text src="../text/27.xhtml#f2620"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:07:22.760" clipEnd="0:07:35.880"/>
       </par>
       <par id="par46">
-        <text src="../text/27.xhtml#f02621"/>
+        <text src="../text/27.xhtml#f2621"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:07:35.880" clipEnd="0:07:43.480"/>
       </par>
       <par id="par47">
-        <text src="../text/27.xhtml#f02622"/>
+        <text src="../text/27.xhtml#f2622"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:07:43.480" clipEnd="0:07:50.000"/>
       </par>
       <par id="par48">
-        <text src="../text/27.xhtml#f02623"/>
+        <text src="../text/27.xhtml#f2623"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:07:50.000" clipEnd="0:07:56.080"/>
       </par>
       <par id="par49">
-        <text src="../text/27.xhtml#f02624"/>
+        <text src="../text/27.xhtml#f2624"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:07:56.080" clipEnd="0:08:09.840"/>
       </par>
       <par id="par50">
-        <text src="../text/27.xhtml#f02625"/>
+        <text src="../text/27.xhtml#f2625"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:08:09.840" clipEnd="0:08:21.560"/>
       </par>
       <par id="par51">
-        <text src="../text/27.xhtml#f02626"/>
+        <text src="../text/27.xhtml#f2626"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:08:21.560" clipEnd="0:08:40.400"/>
       </par>
       <par id="par52">
-        <text src="../text/27.xhtml#f02627"/>
+        <text src="../text/27.xhtml#f2627"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:08:40.400" clipEnd="0:09:04.240"/>
       </par>
       <par id="par53">
-        <text src="../text/27.xhtml#f02628"/>
+        <text src="../text/27.xhtml#f2628"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:09:04.240" clipEnd="0:09:05.280"/>
       </par>
       <par id="par54">
-        <text src="../text/27.xhtml#f02629"/>
+        <text src="../text/27.xhtml#f2629"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:09:05.280" clipEnd="0:09:16.080"/>
       </par>
       <par id="par55">
-        <text src="../text/27.xhtml#f02630"/>
+        <text src="../text/27.xhtml#f2630"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:09:16.080" clipEnd="0:09:28.720"/>
       </par>
       <par id="par56">
-        <text src="../text/27.xhtml#f02631"/>
+        <text src="../text/27.xhtml#f2631"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:09:28.720" clipEnd="0:09:34.200"/>
       </par>
       <par id="par57">
-        <text src="../text/27.xhtml#f02632"/>
+        <text src="../text/27.xhtml#f2632"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:09:34.200" clipEnd="0:09:36.960"/>
       </par>
       <par id="par58">
-        <text src="../text/27.xhtml#f02633"/>
+        <text src="../text/27.xhtml#f2633"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:09:36.960" clipEnd="0:09:50.760"/>
       </par>
       <par id="par59">
-        <text src="../text/27.xhtml#f02634"/>
+        <text src="../text/27.xhtml#f2634"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:09:50.760" clipEnd="0:09:57.800"/>
       </par>
       <par id="par60">
-        <text src="../text/27.xhtml#f02635"/>
+        <text src="../text/27.xhtml#f2635"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:09:57.800" clipEnd="0:10:01.800"/>
       </par>
       <par id="par61">
-        <text src="../text/27.xhtml#f02636"/>
+        <text src="../text/27.xhtml#f2636"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:10:01.800" clipEnd="0:10:15.600"/>
       </par>
       <par id="par62">
-        <text src="../text/27.xhtml#f02637"/>
+        <text src="../text/27.xhtml#f2637"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:10:15.600" clipEnd="0:10:29.960"/>
       </par>
       <par id="par63">
-        <text src="../text/27.xhtml#f02638"/>
+        <text src="../text/27.xhtml#f2638"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:10:29.960" clipEnd="0:10:40.400"/>
       </par>
       <par id="par64">
-        <text src="../text/27.xhtml#f02639"/>
+        <text src="../text/27.xhtml#f2639"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:10:40.400" clipEnd="0:10:46.760"/>
       </par>
       <par id="par65">
-        <text src="../text/27.xhtml#f02640"/>
+        <text src="../text/27.xhtml#f2640"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:10:46.760" clipEnd="0:10:54.320"/>
       </par>
       <par id="par66">
-        <text src="../text/27.xhtml#f02641"/>
+        <text src="../text/27.xhtml#f2641"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:10:54.320" clipEnd="0:11:10.440"/>
       </par>
       <par id="par67">
-        <text src="../text/27.xhtml#f02642"/>
+        <text src="../text/27.xhtml#f2642"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:11:10.440" clipEnd="0:11:31.840"/>
       </par>
       <par id="par68">
-        <text src="../text/27.xhtml#f02643"/>
+        <text src="../text/27.xhtml#f2643"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:11:31.840" clipEnd="0:11:39.400"/>
       </par>
       <par id="par69">
-        <text src="../text/27.xhtml#f02644"/>
+        <text src="../text/27.xhtml#f2644"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:11:39.400" clipEnd="0:11:50.400"/>
       </par>
       <par id="par70">
-        <text src="../text/27.xhtml#f02645"/>
+        <text src="../text/27.xhtml#f2645"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:11:50.400" clipEnd="0:12:10.880"/>
       </par>
       <par id="par71">
-        <text src="../text/27.xhtml#f02646"/>
+        <text src="../text/27.xhtml#f2646"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:12:10.880" clipEnd="0:12:22.040"/>
       </par>
       <par id="par72">
-        <text src="../text/27.xhtml#f02647"/>
+        <text src="../text/27.xhtml#f2647"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:12:22.040" clipEnd="0:12:29.920"/>
       </par>
       <par id="par73">
-        <text src="../text/27.xhtml#f02648"/>
+        <text src="../text/27.xhtml#f2648"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:12:29.920" clipEnd="0:12:37.040"/>
       </par>
       <par id="par74">
-        <text src="../text/27.xhtml#f02649"/>
+        <text src="../text/27.xhtml#f2649"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:12:37.040" clipEnd="0:12:43.160"/>
       </par>
       <par id="par75">
-        <text src="../text/27.xhtml#f02650"/>
+        <text src="../text/27.xhtml#f2650"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:12:43.160" clipEnd="0:12:58.920"/>
       </par>
       <par id="par76">
-        <text src="../text/27.xhtml#f02651"/>
+        <text src="../text/27.xhtml#f2651"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:12:58.920" clipEnd="0:13:06.920"/>
       </par>
       <par id="par77">
-        <text src="../text/27.xhtml#f02652"/>
+        <text src="../text/27.xhtml#f2652"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:13:06.920" clipEnd="0:13:13.600"/>
       </par>
       <par id="par78">
-        <text src="../text/27.xhtml#f02653"/>
+        <text src="../text/27.xhtml#f2653"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:13:13.600" clipEnd="0:13:27.080"/>
       </par>
       <par id="par79">
-        <text src="../text/27.xhtml#f02654"/>
+        <text src="../text/27.xhtml#f2654"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:13:27.080" clipEnd="0:13:30.840"/>
       </par>
       <par id="par80">
-        <text src="../text/27.xhtml#f02655"/>
+        <text src="../text/27.xhtml#f2655"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:13:30.840" clipEnd="0:13:32.880"/>
       </par>
       <par id="par81">
-        <text src="../text/27.xhtml#f02656"/>
+        <text src="../text/27.xhtml#f2656"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:13:32.880" clipEnd="0:13:44.080"/>
       </par>
       <par id="par82">
-        <text src="../text/27.xhtml#f02657"/>
+        <text src="../text/27.xhtml#f2657"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:13:44.080" clipEnd="0:13:49.440"/>
       </par>
       <par id="par83">
-        <text src="../text/27.xhtml#f02658"/>
+        <text src="../text/27.xhtml#f2658"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:13:49.440" clipEnd="0:14:00.480"/>
       </par>
       <par id="par84">
-        <text src="../text/27.xhtml#f02659"/>
+        <text src="../text/27.xhtml#f2659"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:14:00.480" clipEnd="0:14:23.080"/>
       </par>
       <par id="par85">
-        <text src="../text/27.xhtml#f02660"/>
+        <text src="../text/27.xhtml#f2660"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:14:23.080" clipEnd="0:14:30.800"/>
       </par>
       <par id="par86">
-        <text src="../text/27.xhtml#f02661"/>
+        <text src="../text/27.xhtml#f2661"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:14:30.800" clipEnd="0:14:37.440"/>
       </par>
       <par id="par87">
-        <text src="../text/27.xhtml#f02662"/>
+        <text src="../text/27.xhtml#f2662"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:14:37.440" clipEnd="0:14:47.760"/>
       </par>
       <par id="par88">
-        <text src="../text/27.xhtml#f02663"/>
+        <text src="../text/27.xhtml#f2663"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:14:47.760" clipEnd="0:14:57.360"/>
       </par>
       <par id="par89">
-        <text src="../text/27.xhtml#f02664"/>
+        <text src="../text/27.xhtml#f2664"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:14:57.360" clipEnd="0:15:07.280"/>
       </par>
       <par id="par90">
-        <text src="../text/27.xhtml#f02665"/>
+        <text src="../text/27.xhtml#f2665"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:15:07.280" clipEnd="0:15:19.520"/>
       </par>
       <par id="par91">
-        <text src="../text/27.xhtml#f02666"/>
+        <text src="../text/27.xhtml#f2666"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:15:19.520" clipEnd="0:15:25.600"/>
       </par>
       <par id="par92">
-        <text src="../text/27.xhtml#f02667"/>
+        <text src="../text/27.xhtml#f2667"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:15:25.600" clipEnd="0:15:46.560"/>
       </par>
       <par id="par93">
-        <text src="../text/27.xhtml#f02668"/>
+        <text src="../text/27.xhtml#f2668"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:15:46.560" clipEnd="0:16:03.840"/>
       </par>
       <par id="par94">
-        <text src="../text/27.xhtml#f02669"/>
+        <text src="../text/27.xhtml#f2669"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:16:03.840" clipEnd="0:16:19.800"/>
       </par>
       <par id="par95">
-        <text src="../text/27.xhtml#f02670"/>
+        <text src="../text/27.xhtml#f2670"/>
         <audio src="../audio/typee_27_melville_64kb.mp3" clipBegin="0:16:19.800" clipEnd="0:16:51.360"/>
       </par>
     </seq>

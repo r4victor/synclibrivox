@@ -313,10 +313,6 @@
         <text src="../text/14.xhtml#f3006"/>
         <audio src="../audio/wrong_box_14_stevenson_64kb.mp3" clipBegin="0:09:47.160" clipEnd="0:09:47.200"/>
       </par>
-      <par id="par079">
-        <text src="../text/14.xhtml#f3007"/>
-        <audio src="../audio/wrong_box_14_stevenson_64kb.mp3" clipBegin="0:09:47.200" clipEnd="0:09:47.200"/>
-      </par>
       <par id="par080">
         <text src="../text/14.xhtml#f3008"/>
         <audio src="../audio/wrong_box_14_stevenson_64kb.mp3" clipBegin="0:09:47.200" clipEnd="0:09:51.680"/>
@@ -369,14 +365,6 @@
         <text src="../text/14.xhtml#f3020"/>
         <audio src="../audio/wrong_box_14_stevenson_64kb.mp3" clipBegin="0:11:02.400" clipEnd="0:11:04.720"/>
       </par>
-      <par id="par093">
-        <text src="../text/14.xhtml#f3021"/>
-        <audio src="../audio/wrong_box_14_stevenson_64kb.mp3" clipBegin="0:11:04.720" clipEnd="0:11:04.720"/>
-      </par>
-      <par id="par094">
-        <text src="../text/14.xhtml#f3022"/>
-        <audio src="../audio/wrong_box_14_stevenson_64kb.mp3" clipBegin="0:11:04.720" clipEnd="0:11:04.720"/>
-      </par>
       <par id="par095">
         <text src="../text/14.xhtml#f3023"/>
         <audio src="../audio/wrong_box_14_stevenson_64kb.mp3" clipBegin="0:11:04.720" clipEnd="0:11:07.400"/>
@@ -388,10 +376,6 @@
       <par id="par097">
         <text src="../text/14.xhtml#f3025"/>
         <audio src="../audio/wrong_box_14_stevenson_64kb.mp3" clipBegin="0:11:07.680" clipEnd="0:11:07.720"/>
-      </par>
-      <par id="par098">
-        <text src="../text/14.xhtml#f3026"/>
-        <audio src="../audio/wrong_box_14_stevenson_64kb.mp3" clipBegin="0:11:07.720" clipEnd="0:11:07.720"/>
       </par>
       <par id="par099">
         <text src="../text/14.xhtml#f3027"/>
