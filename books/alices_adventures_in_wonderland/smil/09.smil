@@ -1,0 +1,542 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <seq id="seq1" epub:textref="../text/09.xhtml">
+      <par id="par001">
+        <text src="../text/09.xhtml#f0875"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:00:00.000" clipEnd="0:00:24.400"/>
+      </par>
+      <par id="par002">
+        <text src="../text/09.xhtml#f0877"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:00:24.400" clipEnd="0:00:36.520"/>
+      </par>
+      <par id="par003">
+        <text src="../text/09.xhtml#f0878"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:00:36.520" clipEnd="0:00:47.320"/>
+      </par>
+      <par id="par004">
+        <text src="../text/09.xhtml#f0879"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:00:47.320" clipEnd="0:00:56.320"/>
+      </par>
+      <par id="par005">
+        <text src="../text/09.xhtml#f0880"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:00:56.320" clipEnd="0:01:16.640"/>
+      </par>
+      <par id="par006">
+        <text src="../text/09.xhtml#f0881"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:01:16.640" clipEnd="0:01:21.480"/>
+      </par>
+      <par id="par007">
+        <text src="../text/09.xhtml#f0882"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:01:21.480" clipEnd="0:01:28.840"/>
+      </par>
+      <par id="par008">
+        <text src="../text/09.xhtml#f0883"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:01:28.840" clipEnd="0:01:34.080"/>
+      </par>
+      <par id="par009">
+        <text src="../text/09.xhtml#f0884"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:01:34.080" clipEnd="0:01:38.720"/>
+      </par>
+      <par id="par010">
+        <text src="../text/09.xhtml#f0885"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:01:38.720" clipEnd="0:01:42.320"/>
+      </par>
+      <par id="par011">
+        <text src="../text/09.xhtml#f0886"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:01:42.320" clipEnd="0:01:45.080"/>
+      </par>
+      <par id="par012">
+        <text src="../text/09.xhtml#f0887"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:01:45.080" clipEnd="0:01:53.400"/>
+      </par>
+      <par id="par013">
+        <text src="../text/09.xhtml#f0888"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:01:53.400" clipEnd="0:02:09.160"/>
+      </par>
+      <par id="par014">
+        <text src="../text/09.xhtml#f0889"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:02:09.160" clipEnd="0:02:13.680"/>
+      </par>
+      <par id="par015">
+        <text src="../text/09.xhtml#f0890"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:02:13.680" clipEnd="0:02:19.000"/>
+      </par>
+      <par id="par016">
+        <text src="../text/09.xhtml#f0891"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:02:19.000" clipEnd="0:02:26.360"/>
+      </par>
+      <par id="par017">
+        <text src="../text/09.xhtml#f0892"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:02:26.360" clipEnd="0:02:32.120"/>
+      </par>
+      <par id="par018">
+        <text src="../text/09.xhtml#f0893"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:02:32.120" clipEnd="0:02:32.720"/>
+      </par>
+      <par id="par019">
+        <text src="../text/09.xhtml#f0894"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:02:32.720" clipEnd="0:02:45.200"/>
+      </par>
+      <par id="par020">
+        <text src="../text/09.xhtml#f0895"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:02:45.200" clipEnd="0:02:50.160"/>
+      </par>
+      <par id="par021">
+        <text src="../text/09.xhtml#f0896"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:02:50.160" clipEnd="0:03:00.680"/>
+      </par>
+      <par id="par022">
+        <text src="../text/09.xhtml#f0897"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:03:00.680" clipEnd="0:03:02.360"/>
+      </par>
+      <par id="par023">
+        <text src="../text/09.xhtml#f0898"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:03:02.360" clipEnd="0:03:10.080"/>
+      </par>
+      <par id="par024">
+        <text src="../text/09.xhtml#f0899"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:03:10.080" clipEnd="0:03:14.240"/>
+      </par>
+      <par id="par025">
+        <text src="../text/09.xhtml#f0900"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:03:14.240" clipEnd="0:03:17.600"/>
+      </par>
+      <par id="par026">
+        <text src="../text/09.xhtml#f0901"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:03:17.600" clipEnd="0:03:21.440"/>
+      </par>
+      <par id="par027">
+        <text src="../text/09.xhtml#f0902"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:03:21.440" clipEnd="0:03:26.120"/>
+      </par>
+      <par id="par028">
+        <text src="../text/09.xhtml#f0903"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:03:26.120" clipEnd="0:03:29.080"/>
+      </par>
+      <par id="par029">
+        <text src="../text/09.xhtml#f0904"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:03:29.080" clipEnd="0:03:36.920"/>
+      </par>
+      <par id="par030">
+        <text src="../text/09.xhtml#f0905"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:03:36.920" clipEnd="0:03:41.640"/>
+      </par>
+      <par id="par031">
+        <text src="../text/09.xhtml#f0906"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:03:41.640" clipEnd="0:03:47.200"/>
+      </par>
+      <par id="par032">
+        <text src="../text/09.xhtml#f0907"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:03:47.200" clipEnd="0:03:49.400"/>
+      </par>
+      <par id="par033">
+        <text src="../text/09.xhtml#f0908"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:03:49.400" clipEnd="0:04:06.680"/>
+      </par>
+      <par id="par034">
+        <text src="../text/09.xhtml#f0909"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:04:06.680" clipEnd="0:04:16.320"/>
+      </par>
+      <par id="par035">
+        <text src="../text/09.xhtml#f0910"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:04:16.320" clipEnd="0:04:21.360"/>
+      </par>
+      <par id="par036">
+        <text src="../text/09.xhtml#f0911"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:04:21.360" clipEnd="0:04:26.200"/>
+      </par>
+      <par id="par037">
+        <text src="../text/09.xhtml#f0912"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:04:26.200" clipEnd="0:04:29.000"/>
+      </par>
+      <par id="par038">
+        <text src="../text/09.xhtml#f0913"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:04:29.000" clipEnd="0:04:31.760"/>
+      </par>
+      <par id="par039">
+        <text src="../text/09.xhtml#f0914"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:04:31.760" clipEnd="0:04:34.560"/>
+      </par>
+      <par id="par040">
+        <text src="../text/09.xhtml#f0915"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:04:34.560" clipEnd="0:04:40.680"/>
+      </par>
+      <par id="par041">
+        <text src="../text/09.xhtml#f0916"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:04:40.680" clipEnd="0:04:45.560"/>
+      </par>
+      <par id="par042">
+        <text src="../text/09.xhtml#f0917"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:04:45.560" clipEnd="0:04:51.120"/>
+      </par>
+      <par id="par043">
+        <text src="../text/09.xhtml#f0918"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:04:51.120" clipEnd="0:04:57.720"/>
+      </par>
+      <par id="par044">
+        <text src="../text/09.xhtml#f0919"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:04:57.720" clipEnd="0:05:08.800"/>
+      </par>
+      <par id="par045">
+        <text src="../text/09.xhtml#f0920"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:05:08.800" clipEnd="0:05:16.640"/>
+      </par>
+      <par id="par046">
+        <text src="../text/09.xhtml#f0921"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:05:16.640" clipEnd="0:05:22.160"/>
+      </par>
+      <par id="par047">
+        <text src="../text/09.xhtml#f0922"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:05:22.160" clipEnd="0:05:32.960"/>
+      </par>
+      <par id="par048">
+        <text src="../text/09.xhtml#f0923"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:05:32.960" clipEnd="0:05:34.800"/>
+      </par>
+      <par id="par049">
+        <text src="../text/09.xhtml#f0924"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:05:34.800" clipEnd="0:05:38.400"/>
+      </par>
+      <par id="par050">
+        <text src="../text/09.xhtml#f0925"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:05:38.400" clipEnd="0:05:49.160"/>
+      </par>
+      <par id="par051">
+        <text src="../text/09.xhtml#f0926"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:05:49.160" clipEnd="0:06:04.000"/>
+      </par>
+      <par id="par052">
+        <text src="../text/09.xhtml#f0927"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:06:04.000" clipEnd="0:06:31.640"/>
+      </par>
+      <par id="par053">
+        <text src="../text/09.xhtml#f0928"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:06:31.640" clipEnd="0:06:37.320"/>
+      </par>
+      <par id="par054">
+        <text src="../text/09.xhtml#f0929"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:06:37.320" clipEnd="0:06:38.760"/>
+      </par>
+      <par id="par055">
+        <text src="../text/09.xhtml#f0930"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:06:38.760" clipEnd="0:06:41.160"/>
+      </par>
+      <par id="par056">
+        <text src="../text/09.xhtml#f0931"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:06:41.160" clipEnd="0:06:45.080"/>
+      </par>
+      <par id="par057">
+        <text src="../text/09.xhtml#f0932"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:06:45.080" clipEnd="0:06:48.800"/>
+      </par>
+      <par id="par058">
+        <text src="../text/09.xhtml#f0933"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:06:48.800" clipEnd="0:06:53.600"/>
+      </par>
+      <par id="par059">
+        <text src="../text/09.xhtml#f0934"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:06:53.600" clipEnd="0:07:09.440"/>
+      </par>
+      <par id="par060">
+        <text src="../text/09.xhtml#f0935"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:07:09.440" clipEnd="0:07:13.640"/>
+      </par>
+      <par id="par061">
+        <text src="../text/09.xhtml#f0936"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:07:13.640" clipEnd="0:07:24.920"/>
+      </par>
+      <par id="par062">
+        <text src="../text/09.xhtml#f0937"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:07:24.920" clipEnd="0:07:31.880"/>
+      </par>
+      <par id="par063">
+        <text src="../text/09.xhtml#f0938"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:07:31.880" clipEnd="0:07:42.880"/>
+      </par>
+      <par id="par064">
+        <text src="../text/09.xhtml#f0939"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:07:42.880" clipEnd="0:07:49.720"/>
+      </par>
+      <par id="par065">
+        <text src="../text/09.xhtml#f0940"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:07:49.720" clipEnd="0:07:54.640"/>
+      </par>
+      <par id="par066">
+        <text src="../text/09.xhtml#f0941"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:07:54.640" clipEnd="0:07:57.440"/>
+      </par>
+      <par id="par067">
+        <text src="../text/09.xhtml#f0942"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:07:57.440" clipEnd="0:07:59.840"/>
+      </par>
+      <par id="par068">
+        <text src="../text/09.xhtml#f0943"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:07:59.840" clipEnd="0:08:04.080"/>
+      </par>
+      <par id="par069">
+        <text src="../text/09.xhtml#f0944"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:08:04.080" clipEnd="0:08:05.360"/>
+      </par>
+      <par id="par070">
+        <text src="../text/09.xhtml#f0945"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:08:05.360" clipEnd="0:08:14.320"/>
+      </par>
+      <par id="par071">
+        <text src="../text/09.xhtml#f0946"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:08:14.320" clipEnd="0:08:26.680"/>
+      </par>
+      <par id="par072">
+        <text src="../text/09.xhtml#f0947"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:08:26.680" clipEnd="0:08:28.360"/>
+      </par>
+      <par id="par073">
+        <text src="../text/09.xhtml#f0948"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:08:28.360" clipEnd="0:08:39.920"/>
+      </par>
+      <par id="par074">
+        <text src="../text/09.xhtml#f0949"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:08:39.920" clipEnd="0:08:41.160"/>
+      </par>
+      <par id="par075">
+        <text src="../text/09.xhtml#f0950"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:08:41.160" clipEnd="0:08:47.400"/>
+      </par>
+      <par id="par076">
+        <text src="../text/09.xhtml#f0951"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:08:47.400" clipEnd="0:08:53.960"/>
+      </par>
+      <par id="par077">
+        <text src="../text/09.xhtml#f0952"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:08:53.960" clipEnd="0:09:04.440"/>
+      </par>
+      <par id="par078">
+        <text src="../text/09.xhtml#f0953"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:09:04.440" clipEnd="0:09:08.440"/>
+      </par>
+      <par id="par079">
+        <text src="../text/09.xhtml#f0954"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:09:08.440" clipEnd="0:09:16.000"/>
+      </par>
+      <par id="par080">
+        <text src="../text/09.xhtml#f0955"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:09:16.000" clipEnd="0:09:24.240"/>
+      </par>
+      <par id="par081">
+        <text src="../text/09.xhtml#f0956"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:09:24.240" clipEnd="0:09:35.680"/>
+      </par>
+      <par id="par082">
+        <text src="../text/09.xhtml#f0957"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:09:35.680" clipEnd="0:09:48.320"/>
+      </par>
+      <par id="par083">
+        <text src="../text/09.xhtml#f0958"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:09:48.320" clipEnd="0:09:57.840"/>
+      </par>
+      <par id="par084">
+        <text src="../text/09.xhtml#f0959"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:09:57.840" clipEnd="0:10:02.920"/>
+      </par>
+      <par id="par085">
+        <text src="../text/09.xhtml#f0960"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:10:02.920" clipEnd="0:10:07.320"/>
+      </par>
+      <par id="par086">
+        <text src="../text/09.xhtml#f0961"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:10:07.320" clipEnd="0:10:14.240"/>
+      </par>
+      <par id="par087">
+        <text src="../text/09.xhtml#f0962"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:10:14.240" clipEnd="0:10:27.280"/>
+      </par>
+      <par id="par088">
+        <text src="../text/09.xhtml#f0963"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:10:27.280" clipEnd="0:10:31.640"/>
+      </par>
+      <par id="par089">
+        <text src="../text/09.xhtml#f0964"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:10:31.640" clipEnd="0:10:35.720"/>
+      </par>
+      <par id="par090">
+        <text src="../text/09.xhtml#f0965"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:10:35.720" clipEnd="0:10:40.800"/>
+      </par>
+      <par id="par091">
+        <text src="../text/09.xhtml#f0966"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:10:40.800" clipEnd="0:10:43.720"/>
+      </par>
+      <par id="par092">
+        <text src="../text/09.xhtml#f0967"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:10:43.720" clipEnd="0:10:45.800"/>
+      </par>
+      <par id="par093">
+        <text src="../text/09.xhtml#f0968"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:10:45.800" clipEnd="0:10:49.840"/>
+      </par>
+      <par id="par094">
+        <text src="../text/09.xhtml#f0969"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:10:49.840" clipEnd="0:10:51.560"/>
+      </par>
+      <par id="par095">
+        <text src="../text/09.xhtml#f0970"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:10:51.560" clipEnd="0:10:57.480"/>
+      </par>
+      <par id="par096">
+        <text src="../text/09.xhtml#f0971"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:10:57.480" clipEnd="0:11:02.880"/>
+      </par>
+      <par id="par097">
+        <text src="../text/09.xhtml#f0972"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:11:02.880" clipEnd="0:11:07.120"/>
+      </par>
+      <par id="par098">
+        <text src="../text/09.xhtml#f0973"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:11:07.120" clipEnd="0:11:11.160"/>
+      </par>
+      <par id="par099">
+        <text src="../text/09.xhtml#f0974"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:11:11.160" clipEnd="0:11:14.080"/>
+      </par>
+      <par id="par100">
+        <text src="../text/09.xhtml#f0975"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:11:14.080" clipEnd="0:11:17.360"/>
+      </par>
+      <par id="par101">
+        <text src="../text/09.xhtml#f0976"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:11:17.360" clipEnd="0:11:18.000"/>
+      </par>
+      <par id="par102">
+        <text src="../text/09.xhtml#f0977"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:11:18.000" clipEnd="0:11:23.320"/>
+      </par>
+      <par id="par103">
+        <text src="../text/09.xhtml#f0978"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:11:23.320" clipEnd="0:11:30.280"/>
+      </par>
+      <par id="par104">
+        <text src="../text/09.xhtml#f0979"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:11:30.280" clipEnd="0:11:35.360"/>
+      </par>
+      <par id="par105">
+        <text src="../text/09.xhtml#f0980"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:11:35.360" clipEnd="0:11:39.600"/>
+      </par>
+      <par id="par106">
+        <text src="../text/09.xhtml#f0981"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:11:39.600" clipEnd="0:11:42.080"/>
+      </par>
+      <par id="par107">
+        <text src="../text/09.xhtml#f0982"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:11:42.080" clipEnd="0:11:44.680"/>
+      </par>
+      <par id="par108">
+        <text src="../text/09.xhtml#f0983"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:11:44.680" clipEnd="0:11:56.440"/>
+      </par>
+      <par id="par109">
+        <text src="../text/09.xhtml#f0984"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:11:56.440" clipEnd="0:12:00.080"/>
+      </par>
+      <par id="par110">
+        <text src="../text/09.xhtml#f0985"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:12:00.080" clipEnd="0:12:01.320"/>
+      </par>
+      <par id="par111">
+        <text src="../text/09.xhtml#f0986"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:12:01.320" clipEnd="0:12:04.360"/>
+      </par>
+      <par id="par112">
+        <text src="../text/09.xhtml#f0987"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:12:04.360" clipEnd="0:12:05.440"/>
+      </par>
+      <par id="par113">
+        <text src="../text/09.xhtml#f0988"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:12:05.440" clipEnd="0:12:08.920"/>
+      </par>
+      <par id="par114">
+        <text src="../text/09.xhtml#f0989"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:12:08.920" clipEnd="0:12:12.360"/>
+      </par>
+      <par id="par115">
+        <text src="../text/09.xhtml#f0990"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:12:12.360" clipEnd="0:12:19.120"/>
+      </par>
+      <par id="par116">
+        <text src="../text/09.xhtml#f0991"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:12:19.120" clipEnd="0:12:26.480"/>
+      </par>
+      <par id="par117">
+        <text src="../text/09.xhtml#f0992"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:12:26.480" clipEnd="0:12:34.760"/>
+      </par>
+      <par id="par118">
+        <text src="../text/09.xhtml#f0993"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:12:34.760" clipEnd="0:12:53.200"/>
+      </par>
+      <par id="par119">
+        <text src="../text/09.xhtml#f0994"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:12:53.200" clipEnd="0:12:55.480"/>
+      </par>
+      <par id="par120">
+        <text src="../text/09.xhtml#f0995"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:12:55.480" clipEnd="0:13:01.160"/>
+      </par>
+      <par id="par121">
+        <text src="../text/09.xhtml#f0996"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:13:01.160" clipEnd="0:13:02.840"/>
+      </par>
+      <par id="par122">
+        <text src="../text/09.xhtml#f0997"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:13:02.840" clipEnd="0:13:07.240"/>
+      </par>
+      <par id="par123">
+        <text src="../text/09.xhtml#f0998"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:13:07.240" clipEnd="0:13:09.720"/>
+      </par>
+      <par id="par124">
+        <text src="../text/09.xhtml#f0999"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:13:09.720" clipEnd="0:13:16.720"/>
+      </par>
+      <par id="par125">
+        <text src="../text/09.xhtml#f1000"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:13:16.720" clipEnd="0:13:25.280"/>
+      </par>
+      <par id="par126">
+        <text src="../text/09.xhtml#f1001"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:13:25.280" clipEnd="0:13:30.600"/>
+      </par>
+      <par id="par127">
+        <text src="../text/09.xhtml#f1002"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:13:30.600" clipEnd="0:13:35.800"/>
+      </par>
+      <par id="par128">
+        <text src="../text/09.xhtml#f1003"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:13:35.800" clipEnd="0:13:38.680"/>
+      </par>
+      <par id="par129">
+        <text src="../text/09.xhtml#f1004"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:13:38.680" clipEnd="0:13:46.880"/>
+      </par>
+      <par id="par130">
+        <text src="../text/09.xhtml#f1005"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:13:46.880" clipEnd="0:13:52.320"/>
+      </par>
+      <par id="par131">
+        <text src="../text/09.xhtml#f1006"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:13:52.320" clipEnd="0:13:54.800"/>
+      </par>
+      <par id="par132">
+        <text src="../text/09.xhtml#f1007"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:13:54.800" clipEnd="0:13:57.680"/>
+      </par>
+      <par id="par133">
+        <text src="../text/09.xhtml#f1008"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:13:57.680" clipEnd="0:14:01.240"/>
+      </par>
+      <par id="par134">
+        <text src="../text/09.xhtml#f1009"/>
+        <audio src="../audio/alice_09_carroll_64kb.mp3" clipBegin="0:14:01.240" clipEnd="0:14:21.880"/>
+      </par>
+    </seq>
+  </body>
+</smil>
